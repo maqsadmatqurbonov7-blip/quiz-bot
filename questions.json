@@ -1,0 +1,2502 @@
+[
+  {
+    "question": "Kiberxavfsizlik tushunchasi nimani anglatadi?",
+    "options": [
+      "Axborot tizimlarini ruxsatsiz kirishdan, hujumlardan va shikastlanishdan himoyalash",
+      "Faqat kompyuterlarni viruslardan tozalash",
+      "Internet tezligini oshirish",
+      "Dasturiy ta'minotni yangilash"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Axborot xavfsizligining uchta asosiy tamoyili qaysi?",
+    "options": [
+      "Konfidensiallik, yaxlitlik, foydalanuvchanlik",
+      "Tezlik, ishonchlilik, arzonlik",
+      "Shifrlash, autentifikatsiya, avtorizatsiya",
+      "Tarmoq, server, ma'lumot"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Konfidensiallik (maxfiylik) tushunchasi nimani anglatadi?",
+    "options": [
+      "Ma'lumotlarning faqat ruxsat etilgan shaxslarga ochiq bo'lishi",
+      "Ma'lumotlarning doimo mavjud bo'lishi",
+      "Ma'lumotlarning o'zgartirilmasligi",
+      "Ma'lumotlarning shifrlangan holda saqlanishi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Yaxlitlik (butunlik) tushunchasi nimani anglatadi?",
+    "options": [
+      "Ma'lumotlarning ruxsatsiz o'zgartirilmasligini ta'minlash",
+      "Ma'lumotlarni faqat ma'lum shaxslar ko'ra olishi",
+      "Ma'lumotlarning doimo foydalanish mumkin bo'lishi",
+      "Ma'lumotlarning zaxira nusxasi mavjudligi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Foydalanuvchanlik (availability) tushunchasi nimani anglatadi?",
+    "options": [
+      "Axborot va resurslarning kerakli vaqtda foydalanishga tayyor bo'lishi",
+      "Ma'lumotlarni shifrlash imkoniyati",
+      "Foydalanuvchilarni identifikatsiya qilish",
+      "Tarmoqqa ulanish tezligi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Risk tushunchasi kiberxavfsizlikda nimani bildiradi?",
+    "options": [
+      "Tahdid va zaiflikning birgalikda keltiradigan ehtimoliy zarari",
+      "Faqat viruslar tomonidan keltirilgan zarar",
+      "Tarmoq uzilishi ehtimoli",
+      "Parolning murakkablik darajasi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Tahdid (threat) nima?",
+    "options": [
+      "Axborot xavfsizligiga zarar yetkazishi mumkin bo'lgan potensial xavf",
+      "Tizimning zaif tomoni",
+      "Himoya vositasi",
+      "Xavfsizlik siyosati"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Zaiflik (vulnerability) nima?",
+    "options": [
+      "Tizimning tahdidlar tomonidan foydalanilishi mumkin bo'lgan kuchsiz tomoni",
+      "Hujum turi",
+      "Himoya usuli",
+      "Kriptografik algoritm"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Aktiv (asset) kiberxavfsizlikda nimani bildiradi?",
+    "options": [
+      "Tashkilot uchun qiymatga ega bo'lgan axborot yoki resurs",
+      "Hujumchining foydalanish vositasi",
+      "Xavfsizlik duvori",
+      "Tarmoq protokoli"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Hujumchi kabi fikrlash (attacker mindset) nima uchun muhim?",
+    "options": [
+      "Tizimning zaif tomonlarini topish va ularni oldindan bartaraf etish uchun",
+      "Hujum qilishni o'rganish uchun",
+      "Boshqa hujumchilarni topish uchun",
+      "Virus yaratish uchun"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Tizimli fikrlash kiberxavfsizlikda qanday ahamiyatga ega?",
+    "options": [
+      "Barcha xavfsizlik komponentlarini yaxlit tizim sifatida ko'rib chiqish imkonini beradi",
+      "Faqat bitta komponentni himoyalashga yordam beradi",
+      "Dasturlash tillarini o'rganishga yordam beradi",
+      "Tarmoq tezligini oshirishga imkon beradi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Boshqarish vositasi (control) kiberxavfsizlikda nima?",
+    "options": [
+      "Riskni kamaytirish uchun qo'llaniladigan himoya choralari",
+      "Kompyuterni boshqarish dasturi",
+      "Ma'lumotlar bazasi",
+      "Operatsion tizim"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Risk darajasi qanday aniqlanadi?",
+    "options": [
+      "Tahdid ehtimoli va keltiradigan zarar miqdorining ko'paytmasi orqali",
+      "Faqat zarar miqdori bo'yicha",
+      "Faqat hujum soni bo'yicha",
+      "Foydalanuvchilar soni bo'yicha"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Risk matritsasi nima?",
+    "options": [
+      "Risklarni ehtimollik va ta'sir darajasiga ko'ra tasniflash vositasi",
+      "Ma'lumotlar bazasi jadvali",
+      "Shifrlash algoritmi",
+      "Tarmoq diagrammasi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Risklarni boshqarishning asosiy bosqichlari qaysi?",
+    "options": [
+      "Aniqlash, baholash, qayta ishlash, monitoring",
+      "Shifrlash, saqlash, uzatish",
+      "O'rnatish, sozlash, ishga tushirish",
+      "Hujum, himoya, tekshirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Risklarni qabul qilish strategiyasi nimani anglatadi?",
+    "options": [
+      "Risk mavjudligini tan olish va uni kamaytirishga sarflanmaydigan holat",
+      "Riskni boshqa tashkilotga o'tkazish",
+      "Riskni to'liq bartaraf etish",
+      "Riskni e'tiborsiz qoldirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Risklarni boshqa tashkilotga o'tkazish qanday amalga oshiriladi?",
+    "options": [
+      "Sug'urta polisi sotib olish orqali",
+      "Ma'lumotlarni o'chirish orqali",
+      "Parollarni o'zgartirish orqali",
+      "Tarmoqni o'chirish orqali"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "RMIS (Risk Management Information Systems) nima?",
+    "options": [
+      "Risklarni boshqarish axborot tizimlari",
+      "Tarmoq xavfsizligi protokoli",
+      "Shifrlash standarti",
+      "Autentifikatsiya usuli"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Risk chastotasi nimani ko'rsatadi?",
+    "options": [
+      "Ma'lum vaqt oralig'ida risk hodisasining sodir bo'lish tezligini",
+      "Riskdan keladigan zarar miqdorini",
+      "Himoya vositalarining sonini",
+      "Foydalanuvchilar sonini"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Risklarni kamaytirish strategiyasi nimani nazarda tutadi?",
+    "options": [
+      "Himoya choralari qo'llash orqali risk ehtimoli yoki ta'sirini pasaytirish",
+      "Riskni butunlay yo'q qilish",
+      "Riskni e'tiborsiz qoldirish",
+      "Tizimni o'chirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Risklarni boshqarishda muhim ko'rsatkichlar (KRI) nima?",
+    "options": [
+      "Risk holatini kuzatib borish uchun ishlatiladigan o'lchov mezonlari",
+      "Shifrlash kalitining uzunligi",
+      "Tarmoq tezligining o'lchovi",
+      "Ma'lumotlar bazasining hajmi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Risklarni boshqarish freymvorki nima?",
+    "options": [
+      "Risklarni tizimli ravishda boshqarish uchun belgilangan yondashuv va qoidalar to'plami",
+      "Dasturlash tili",
+      "Operatsion tizim",
+      "Ma'lumotlar bazasi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Risk baholashda sifat (kvalitativ) usuli nimani nazarda tutadi?",
+    "options": [
+      "Risklarni yuqori, o'rta, past kabi toifalarga bo'lish",
+      "Riskni aniq raqamlar bilan hisoblash",
+      "Risklarni avtomatik aniqlash",
+      "Risklarni dasturiy ta'minot orqali boshqarish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Risk baholashda miqdor (kvantitativ) usuli nimani nazarda tutadi?",
+    "options": [
+      "Riskni aniq pul yoki raqam ko'rsatkichlari bilan hisoblash",
+      "Risklarni yuqori va past deb baholash",
+      "Faqat texnik mutaxassislar fikriga tayanish",
+      "Riskni e'tiborsiz qoldirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ichki kiberjinoyat nima?",
+    "options": [
+      "Tashkilot ichidagi xodim tomonidan sodir etiladigan kiberjinoyat",
+      "Internet orqali tashqaridan qilingan hujum",
+      "Davlat tomonidan amalga oshirilgan hujum",
+      "Viruslar orqali tarqalgan jinoyat"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Tashqi kiberjinoyat nima?",
+    "options": [
+      "Tashkilot tashqarisidagi shaxslar tomonidan sodir etiladigan kiberjinoyat",
+      "Xodim tomonidan sodir etilgan jinoyat",
+      "Dasturiy xato",
+      "Tizim nosozligi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "O'zbekiston Respublikasining 'Kiberxavfsizlik to'g'risida'gi qonuni qachon qabul qilingan?",
+    "options": [
+      "2022-yilda",
+      "2018-yilda",
+      "2025-yilda",
+      "2015-yilda"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Kiberetika nimani o'rganadi?",
+    "options": [
+      "Axborot texnologiyalari sohasidagi axloqiy me'yorlar va qoidalarni",
+      "Faqat dasturlash tillarini",
+      "Kompyuter qurilmalarini ta'mirlashni",
+      "Tarmoq tezligini oshirishni"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Raqamli kriminalistika (digital forensics) nima?",
+    "options": [
+      "Elektron qurilmalardan sud ekspertizasi uchun raqamli dalillarni yig'ish va tahlil qilish",
+      "Kompyuter viruslarini yaratish",
+      "Tarmoq sozlash",
+      "Dastur yozish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Mobil kriminalistika qaysi qurilmalar bilan ishlaydi?",
+    "options": [
+      "Smartfonlar, planshetlar va boshqa mobil qurilmalar",
+      "Faqat shaxsiy kompyuterlar",
+      "Faqat serverlar",
+      "Faqat tarmoq uskunalari"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Xalqaro kiberqonunlarning asosiy maqsadi nima?",
+    "options": [
+      "Davlatlar o'rtasida kiberxavfsizlik sohasida hamkorlik va jinoyatlarga qarshi kurashish",
+      "Faqat bitta davlatning manfaatlarini himoyalash",
+      "Internet tezligini oshirish",
+      "Dasturiy ta'minotni yaratish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Kiberjinoyatchilikka misol bo'ladigan harakatlar qaysi?",
+    "options": [
+      "Ma'lumotlarni o'g'irlash, tizimga ruxsatsiz kirish, firibgarlik",
+      "Yangi dastur yaratish",
+      "Kompyuter sotib olish",
+      "Internet brauzerdan foydalanish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Fishing (phishing) hujumi qaysi jinoyat turiga kiradi?",
+    "options": [
+      "Ijtimoiy injineriya orqali amalga oshiriladigan kiberjinoyat",
+      "Fizik hujum",
+      "Dasturiy xato",
+      "Apparat nosozligi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Kiberjinoyatchilikda DDoS hujumining maqsadi nima?",
+    "options": [
+      "Xizmatdan voz kechishga undash orqali tizimni ishdan chiqarish",
+      "Ma'lumotlarni shifrlash",
+      "Parolni o'zgartirish",
+      "Tarmoq tezligini oshirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Budapesht konvensiyasi nima haqida?",
+    "options": [
+      "Kiberjinoyatchilikning xalqaro miqyosda huquqiy jihatdan tartibga solinishi",
+      "Internet tezligini oshirish",
+      "Yangi dasturlash tilini yaratish",
+      "Ma'lumotlar bazasi standartlari"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Shaxsiy ma'lumotlarni ruxsatsiz to'plash qaysi soha buzilishiga tegishli?",
+    "options": [
+      "Konfidensiallik (maxfiylik) buzilishi",
+      "Yaxlitlik buzilishi",
+      "Foydalanuvchanlik buzilishi",
+      "Autentifikatsiya buzilishi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Kiberxavfsizlik arxitekturasi nima?",
+    "options": [
+      "Tashkilotning axborot xavfsizligini ta'minlash uchun tuzilgan tizimli himoya strukturasi",
+      "Bino loyihasi",
+      "Tarmoq kabeli sxemasi",
+      "Kompyuter qurilmalarining ro'yxati"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Kiberxavfsizlik strategiyasi nimani belgilaydi?",
+    "options": [
+      "Tashkilotning uzoq muddatli xavfsizlik maqsadlari va ularga erishish yo'llarini",
+      "Faqat parol siyosatini",
+      "Faqat tarmoq sozlamalarini",
+      "Faqat virusga qarshi dasturni"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Xavfsizlik siyosatining zaruriyati nimada?",
+    "options": [
+      "Tashkilotda axborot xavfsizligini tartibga solish va boshqarish uchun",
+      "Faqat hujjat tayyorlash uchun",
+      "Internet tezligini oshirish uchun",
+      "Dasturiy ta'minotni yangilash uchun"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Xavfsizlik siyosatining iyerarxiyasi qanday tuzilgan?",
+    "options": [
+      "Korporativ siyosat, funksional siyosat, standartlar, protseduralar",
+      "Faqat bitta hujjatdan iborat",
+      "Faqat texnik ko'rsatmalar",
+      "Faqat yuridik hujjatlar"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Axborot xavfsizligi siyosatining turlari qaysilar?",
+    "options": [
+      "Dastur sathidagi, mavzu sathidagi va tizim sathidagi siyosatlar",
+      "Faqat tarmoq siyosati",
+      "Faqat parol siyosati",
+      "Faqat fizik xavfsizlik siyosati"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Xavfsizlik siyosatining afzalliklaridan biri:",
+    "options": [
+      "Xodimlarning xavfsizlik bo'yicha mas'uliyatini aniq belgilash",
+      "Tarmoq tezligini oshirish",
+      "Kompyuter narxini kamaytirish",
+      "Dasturiy ta'minotni bepul qilish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Kiberxavfsizlik arxitekturasida 'chuqurlikda himoya' (defense in depth) tamoyili nimani anglatadi?",
+    "options": [
+      "Bir necha qatlamli himoya tizimini qurish",
+      "Faqat bitta kuchli himoya vositasidan foydalanish",
+      "Faqat tarmoqni himoyalash",
+      "Faqat parollarni kuchaytirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Xavfsizlik siyosati kim tomonidan tasdiqlanishi kerak?",
+    "options": [
+      "Tashkilot rahbariyati tomonidan",
+      "Faqat IT bo'limi tomonidan",
+      "Faqat oddiy xodimlar tomonidan",
+      "Faqat tashqi auditorlar tomonidan"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Xavfsizlik siyosati qanchalik tez-tez yangilanishi kerak?",
+    "options": [
+      "Muntazam ravishda va muhim o'zgarishlar sodir bo'lganda",
+      "Hech qachon o'zgartirilmasligi kerak",
+      "Faqat har 10 yilda bir marta",
+      "Faqat kiberhujum sodir bo'lgandan keyin"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Zero Trust (Nol ishonch) arxitekturasi nimani talab qiladi?",
+    "options": [
+      "Har bir foydalanuvchi va qurilmani har doim tekshirishni",
+      "Barcha foydalanuvchilarga to'liq ishonishni",
+      "Faqat ichki tarmoqdagi foydalanuvchilarga ishonishni",
+      "Faqat administratorlarga ishonishni"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Axborot xavfsizligi siyosatida 'minimal imtiyoz' tamoyili nimani anglatadi?",
+    "options": [
+      "Foydalanuvchilarga faqat ishlari uchun zarur bo'lgan minimal huquqlarni berish",
+      "Barcha foydalanuvchilarga administrator huquqlarini berish",
+      "Faqat bitta foydalanuvchiga barcha huquqlarni berish",
+      "Hech kimga hech qanday huquq bermaslik"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Xavfsizlik siyosatining xususiyatlaridan biri:",
+    "options": [
+      "Aniq, tushunarli va amaliy bo'lishi kerak",
+      "Faqat texnik tilda yozilishi kerak",
+      "Maxfiy bo'lishi va hech kim bilmasligi kerak",
+      "Juda uzun va murakkab bo'lishi kerak"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Kriptografiya nimani o'rganadi?",
+    "options": [
+      "Ma'lumotlarni shifrlash va himoyalash usullarini",
+      "Kompyuter qurilmalarini yig'ishni",
+      "Tarmoq kabellarini o'rnatishni",
+      "Operatsion tizimlarni yaratishni"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Kriptotizim nima?",
+    "options": [
+      "Shifrlash va deshifrlash algoritmlari, kalitlar va protokollar majmuasi",
+      "Faqat parol",
+      "Tarmoq uskunasi",
+      "Ma'lumotlar bazasi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Kerkxofs prinsipi nimani bildiradi?",
+    "options": [
+      "Kriptotizimning xavfsizligi algoritmning maxfiyligiga emas, kalitning maxfiyligiga asoslanishi kerak",
+      "Algoritm doimo maxfiy bo'lishi kerak",
+      "Kalit ochiq bo'lishi kerak",
+      "Shifrlash kerak emas"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ochiq matn (plaintext) nima?",
+    "options": [
+      "Shifrlanmagan, o'qilishi mumkin bo'lgan asl ma'lumot",
+      "Shifrlangan ma'lumot",
+      "Kalit",
+      "Xesh qiymat"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Shifrlangan matn (ciphertext) nima?",
+    "options": [
+      "Kriptografik algoritm yordamida o'zgartirilgan, o'qib bo'lmaydigan ma'lumot",
+      "Oddiy matn",
+      "Parol",
+      "Raqamli imzo"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Bir martalik bloknot (One-time pad) ning xususiyati:",
+    "options": [
+      "Nazariy jihatdan buzilishi mumkin bo'lmagan shifrlash usuli",
+      "Eng oddiy shifrlash usuli",
+      "Faqat raqamlarni shifrlaydi",
+      "Kalit kerak emas"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Kriptografiyaning qaysi bo'limi shifrlash bilan shug'ullanadi?",
+    "options": [
+      "Kriptografiya (shifrlash fani)",
+      "Kriptoanaliz",
+      "Steganografiya",
+      "Kriptologiya"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Kriptoanaliz nima?",
+    "options": [
+      "Shifrlangan ma'lumotlarni kalitsiz ochishga urinish fani",
+      "Ma'lumotlarni shifrlash usuli",
+      "Tarmoq himoyasi",
+      "Parol yaratish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Sezar shifri qaysi shifrlash turiga kiradi?",
+    "options": [
+      "Almashtirishga asoslangan klassik shifr",
+      "Zamonaviy blokli shifr",
+      "Ochiq kalitli shifrlash",
+      "Xesh funksiya"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Steganografiya nimani o'rganadi?",
+    "options": [
+      "Ma'lumotlarni boshqa ma'lumotlar ichiga yashirishni",
+      "Ma'lumotlarni shifrlashni",
+      "Ma'lumotlarni o'chirishni",
+      "Ma'lumotlarni zaxiralashni"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Diffuziya (diffusion) kriptografiyada nimani anglatadi?",
+    "options": [
+      "Ochiq matndagi bitta bit o'zgarishi shifrlangan matnga maksimal ta'sir qilishi",
+      "Kalitning uzun bo'lishi",
+      "Algoritmning tez ishlashi",
+      "Ma'lumotning o'chirilishi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Konfuziya (confusion) kriptografiyada nimani anglatadi?",
+    "options": [
+      "Kalit va shifrlangan matn o'rtasidagi bog'lanishni murakkablashtirish",
+      "Ma'lumotni siqish",
+      "Tarmoqni himoyalash",
+      "Parolni uzaytirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Kriptografik akslantirishlar nima?",
+    "options": [
+      "Ma'lumotlarni bir ko'rinishdan boshqa ko'rinishga o'zgartiruvchi matematik funksiyalar",
+      "Kompyuter monitori",
+      "Tarmoq kabeli",
+      "Printer"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Simmetrik shifrlash algoritmining asosiy xususiyati nima?",
+    "options": [
+      "Shifrlash va deshifrlash uchun bitta kalit ishlatiladi",
+      "Ikki xil kalit ishlatiladi",
+      "Kalit umuman ishlatilmaydi",
+      "Faqat ochiq kalit ishlatiladi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "AES (Advanced Encryption Standard) algoritmi qaysi toifaga kiradi?",
+    "options": [
+      "Simmetrik blokli shifrlash algoritmi",
+      "Ochiq kalitli algoritm",
+      "Xesh funksiya",
+      "Raqamli imzo algoritmi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "DES (Data Encryption Standard) algoritmi necha bitli kalit ishlatadi?",
+    "options": [
+      "56 bitli",
+      "128 bitli",
+      "256 bitli",
+      "512 bitli"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Oqimli (stream) shifrlash algoritmi qanday ishlaydi?",
+    "options": [
+      "Ma'lumotlarni bit yoki bayt bo'yicha ketma-ket shifrlaydi",
+      "Ma'lumotlarni qat'iy bloklarga bo'lib shifrlaydi",
+      "Ma'lumotlarni faqat bir yo'nalishda shifrlaydi",
+      "Ma'lumotlarni faqat siqadi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Blokli (block) shifrlash algoritmi qanday ishlaydi?",
+    "options": [
+      "Ma'lumotlarni belgilangan uzunlikdagi bloklarga bo'lib shifrlaydi",
+      "Ma'lumotlarni bit bo'yicha ketma-ket shifrlaydi",
+      "Ma'lumotlarni faqat o'chiradi",
+      "Ma'lumotlarni faqat siqadi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "A5/1 algoritmi qayerda ishlatiladi?",
+    "options": [
+      "GSM mobil aloqa tizimida",
+      "Internet brauzerda",
+      "Elektron pochtada",
+      "Ma'lumotlar bazasida"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Simmetrik kriptotizimlardagi asosiy muammo nima?",
+    "options": [
+      "Kalitni xavfsiz almashish muammosi",
+      "Algoritmning juda tez ishlashi",
+      "Kalitning juda qisqa bo'lishi",
+      "Shifrlash imkonsizligi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "AES algoritmi necha bitli blok uzunligidan foydalanadi?",
+    "options": [
+      "128 bit",
+      "64 bit",
+      "256 bit",
+      "512 bit"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "3DES algoritmi DESdan qanday farq qiladi?",
+    "options": [
+      "DES algoritmini uch marta qo'llaydi va xavfsizlikni oshiradi",
+      "Faqat bir marta shifrlaydi",
+      "Ochiq kalit ishlatadi",
+      "Kalit ishlatmaydi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Simmetrik kriptotizimlarda kalit uzunligi xavfsizlikka qanday ta'sir qiladi?",
+    "options": [
+      "Kalit uzunroq bo'lsa, kuch bilan buzish qiyinlashadi",
+      "Kalit uzunligi xavfsizlikka ta'sir qilmaydi",
+      "Qisqa kalit xavfsizroq",
+      "Faqat 8 bitli kalit yetarli"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Simmetrik shifrlashning afzalligi:",
+    "options": [
+      "Tezkor ishlashi va kam resurs talab qilishi",
+      "Kalit almashish muammosi yo'qligi",
+      "Raqamli imzo yarata olishi",
+      "Ochiq kalit ishlatishi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "RC4 algoritmi qaysi toifaga kiradi?",
+    "options": [
+      "Oqimli simmetrik shifrlash algoritmi",
+      "Blokli shifrlash algoritmi",
+      "Xesh funksiya",
+      "Ochiq kalitli algoritm"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ochiq kalitli kriptotizimda nechta kalit ishlatiladi?",
+    "options": [
+      "Ikkita: ochiq kalit va maxfiy kalit",
+      "Bitta kalit",
+      "Uchta kalit",
+      "Kalit ishlatilmaydi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "RSA algoritmi qaysi matematik muammoga asoslangan?",
+    "options": [
+      "Katta sonlarni ko'paytuvchilarga ajratish (faktorlash) muammosiga",
+      "Logarifm muammosiga",
+      "Chiziqli tenglamalar tizimiga",
+      "Geometrik hisoblashga"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ochiq kalit (public key) kimga ma'lum bo'lishi kerak?",
+    "options": [
+      "Hamma uchun ochiq bo'lishi mumkin",
+      "Faqat jo'natuvchiga",
+      "Faqat qabul qiluvchiga",
+      "Hech kimga"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Maxfiy kalit (private key) kimda saqlanishi kerak?",
+    "options": [
+      "Faqat kalit egasida",
+      "Hamma uchun ochiq",
+      "Faqat serverda",
+      "Faqat jo'natuvchida"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Bir tomonlama funksiya (one-way function) nima?",
+    "options": [
+      "Hisoblash oson, lekin teskari hisoblash juda qiyin bo'lgan funksiya",
+      "Ikki tomonlama hisoblash mumkin bo'lgan funksiya",
+      "Faqat shifrlash uchun ishlatiladigan funksiya",
+      "Kalit yaratish funksiyasi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Modul arifmetikasi (modular arithmetic) qanday ishlaydi?",
+    "options": [
+      "Sonlarni ma'lum songa bo'lgandagi qoldiq bilan ishlaydi",
+      "Oddiy qo'shish va ayirish",
+      "Faqat ko'paytirish",
+      "Faqat bo'lish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "RSA algoritmida xabarni shifrlash uchun qaysi kalit ishlatiladi?",
+    "options": [
+      "Qabul qiluvchining ochiq kaliti",
+      "Jo'natuvchining maxfiy kaliti",
+      "Umumiy parol",
+      "Xesh qiymat"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "RSA algoritmida xabarni deshifrlash uchun qaysi kalit ishlatiladi?",
+    "options": [
+      "Qabul qiluvchining maxfiy kaliti",
+      "Jo'natuvchining ochiq kaliti",
+      "Umumiy parol",
+      "Sertifikat"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ochiq kalitli kriptotizimlarning afzalligi:",
+    "options": [
+      "Kalitni xavfsiz almashish muammosini hal qilishi",
+      "Simmetrik algoritmlardan tezroq ishlashi",
+      "Kam xotira talab qilishi",
+      "Oddiy matematik asosga ega bo'lishi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ochiq kalitli kriptotizimlarning kamchiligi:",
+    "options": [
+      "Simmetrik algoritmlarga nisbatan sekinroq ishlashi",
+      "Kalit almashish muammosi mavjudligi",
+      "Kalitni boshqarish qiyinligi",
+      "Raqamli imzo yarata olmasligi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Diffie-Hellman algoritmi nima uchun ishlatiladi?",
+    "options": [
+      "Ikki tomon o'rtasida xavfsiz kalit almashish uchun",
+      "Ma'lumotlarni shifrlash uchun",
+      "Raqamli imzo yaratish uchun",
+      "Xesh qiymat hisoblash uchun"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ochiq kalitli kriptotizimlarda kalit uzunligi odatda qancha?",
+    "options": [
+      "1024, 2048 yoki 4096 bit",
+      "8 yoki 16 bit",
+      "56 yoki 64 bit",
+      "128 yoki 256 bit"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Xesh funksiya nima?",
+    "options": [
+      "Ixtiyoriy uzunlikdagi ma'lumotni qat'iy uzunlikdagi qiymatga aylantiradigan funksiya",
+      "Shifrlash algoritmi",
+      "Kalit almashish protokoli",
+      "Tarmoq protokoli"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Xesh funksiyaning asosiy xususiyati:",
+    "options": [
+      "Bir tomonlamalik - xesh qiymatdan asl ma'lumotni qayta tiklab bo'lmaydi",
+      "Ikki tomonlama ishlaydi",
+      "Kalit talab qiladi",
+      "Faqat matnlarni o'zgartiradi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "MD5 xesh algoritmi necha bitli xesh qiymat hosil qiladi?",
+    "options": [
+      "128 bit",
+      "256 bit",
+      "512 bit",
+      "64 bit"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "SHA-256 xesh algoritmi necha bitli xesh qiymat hosil qiladi?",
+    "options": [
+      "256 bit",
+      "128 bit",
+      "64 bit",
+      "512 bit"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "MAC (Message Authentication Code) nima?",
+    "options": [
+      "Xabarlarni autentifikatsiyalash kodi - xabar yaxlitligini va manbani tasdiqlaydi",
+      "Media Access Control manzili",
+      "Tarmoq protokoli",
+      "Shifrlash algoritmi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Elektron raqamli imzo (ERI) nima uchun ishlatiladi?",
+    "options": [
+      "Xabar muallifini tasdiqlash va xabar yaxlitligini kafolatlash uchun",
+      "Faqat xabarni shifrlash uchun",
+      "Tarmoq tezligini oshirish uchun",
+      "Parolni saqlash uchun"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Raqamli imzo yaratishda qaysi kalit ishlatiladi?",
+    "options": [
+      "Imzolovchining maxfiy kaliti",
+      "Imzolovchining ochiq kaliti",
+      "Umumiy kalit",
+      "Sertifikat kaliti"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Raqamli imzoni tekshirishda qaysi kalit ishlatiladi?",
+    "options": [
+      "Imzolovchining ochiq kaliti",
+      "Imzolovchining maxfiy kaliti",
+      "Shaxsiy parol",
+      "Umumiy kalit"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ochiq kalitlar infrastrukturasi (PKI) nima?",
+    "options": [
+      "Raqamli sertifikatlarni boshqarish uchun zarur bo'lgan texnologiya va siyosatlar to'plami",
+      "Tarmoq kabellari tizimi",
+      "Operatsion tizim",
+      "Ma'lumotlar bazasi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "X.509 raqamli sertifikat formati nimani o'z ichiga oladi?",
+    "options": [
+      "Sertifikat egasining ochiq kaliti, egasi haqida ma'lumot va sertifikat beruvchining imzosi",
+      "Faqat parol",
+      "Faqat IP manzil",
+      "Faqat foydalanuvchi nomi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Sertifikatlashtirish markazi (CA) ning vazifasi nima?",
+    "options": [
+      "Raqamli sertifikatlarni berish va ularning haqiqiyligini tasdiqlash",
+      "Tarmoq tezligini boshqarish",
+      "Ma'lumotlarni shifrlash",
+      "Viruslarni aniqlash"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Xesh kolliziyasi nima?",
+    "options": [
+      "Ikki xil ma'lumot uchun bir xil xesh qiymat hosil bo'lishi",
+      "Xesh qiymatning yo'qolishi",
+      "Kalitning buzilishi",
+      "Tarmoq xatosi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "SSL/TLS protokoli nima uchun ishlatiladi?",
+    "options": [
+      "Internet orqali xavfsiz ma'lumot almashishni ta'minlash uchun",
+      "Faqat elektron pochta uchun",
+      "Faqat fayllarni siqish uchun",
+      "Faqat printer bilan bog'lanish uchun"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "HTTPS protokolida qaysi xavfsizlik texnologiyasi ishlatiladi?",
+    "options": [
+      "SSL/TLS",
+      "Faqat parol",
+      "Faqat tarmoqlararo ekran",
+      "Faqat antivirus"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "SSH (Secure Shell) nima uchun ishlatiladi?",
+    "options": [
+      "Masofaviy kompyuterlarga xavfsiz ulanish va boshqarish uchun",
+      "Faqat fayllarni o'chirish uchun",
+      "Faqat printer ulash uchun",
+      "Faqat video ko'rish uchun"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "IPSec protokoli qaysi sathda ishlaydi?",
+    "options": [
+      "Tarmoq sathida (IP sathida)",
+      "Ilova sathida",
+      "Fizik sathda",
+      "Ma'lumotlar kanali sathida"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Apparat shifrlash va dasturiy shifrlash o'rtasidagi farq:",
+    "options": [
+      "Apparat shifrlash maxsus qurilma orqali, dasturiy shifrlash dastur orqali amalga oshiriladi",
+      "Farq yo'q",
+      "Apparat shifrlash sekinroq",
+      "Dasturiy shifrlash xavfsizroq"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Disk sathida shifrlash nimani himoyalaydi?",
+    "options": [
+      "Butun disk yoki bo'limning ma'lumotlarini ruxsatsiz kirishdan",
+      "Faqat bitta faylni",
+      "Faqat tarmoq trafikini",
+      "Faqat elektron pochtani"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Blokchain texnologiyasining asosiy xususiyati:",
+    "options": [
+      "Markazlashtirilmagan va o'zgartirib bo'lmaydigan ma'lumotlar zanjiri",
+      "Markazlashtirilgan ma'lumotlar bazasi",
+      "Faqat kriptovalyuta uchun",
+      "Oddiy ro'yxat"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "PGP (Pretty Good Privacy) nima uchun ishlatiladi?",
+    "options": [
+      "Elektron pochta xabarlarini shifrlash va raqamli imzolash uchun",
+      "Tarmoq tezligini oshirish uchun",
+      "Viruslarni aniqlash uchun",
+      "Operatsion tizimni o'rnatish uchun"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "E-hukumat tizimlarida kriptografiyaning roli:",
+    "options": [
+      "Davlat xizmatlarini xavfsiz ko'rsatish va fuqarolar ma'lumotlarini himoyalash",
+      "Faqat veb-saytlarni bezash",
+      "Internet tezligini oshirish",
+      "Kompyuterlar sonini ko'paytirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Fayl tizim sathida shifrlash nimani anglatadi?",
+    "options": [
+      "Alohida fayllar yoki papkalarni shifrlash",
+      "Butun diskni shifrlash",
+      "Tarmoq trafikini shifrlash",
+      "Elektron pochtani shifrlash"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Elektron to'lov tizimlarida kriptografiya qanday qo'llaniladi?",
+    "options": [
+      "Tranzaksiyalarni shifrlash va autentifikatsiyalash orqali",
+      "Faqat kvitansiya chop etish orqali",
+      "Faqat kassani boshqarish orqali",
+      "Faqat tovarlar ro'yxatini ko'rish orqali"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "VPN (Virtual Private Network) da qaysi kriptografik protokol keng ishlatiladi?",
+    "options": [
+      "IPSec va SSL/TLS",
+      "Faqat HTTP",
+      "Faqat FTP",
+      "Faqat SMTP"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Identifikatsiya nima?",
+    "options": [
+      "Foydalanuvchining o'zini tizimga tanitishi (login, ID)",
+      "Foydalanuvchi huquqlarini belgilash",
+      "Parolni tekshirish",
+      "Tarmoqqa ulanish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Autentifikatsiya nima?",
+    "options": [
+      "Foydalanuvchi haqiqatan ham u ekanligini tasdiqlash jarayoni",
+      "Foydalanuvchiga huquq berish",
+      "Foydalanuvchini tizimda ro'yxatdan o'tkazish",
+      "Foydalanuvchini tizimdan chiqarish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Avtorizatsiya nima?",
+    "options": [
+      "Tasdiqlangan foydalanuvchiga resurslardan foydalanish huquqlarini belgilash",
+      "Foydalanuvchini aniqlash",
+      "Parolni tekshirish",
+      "Tizimga kirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Bir tomonlama autentifikatsiya nima?",
+    "options": [
+      "Faqat bir tomon (odatda foydalanuvchi) o'zini tasdiqlashi",
+      "Ikki tomon ham bir-birini tasdiqlashi",
+      "Autentifikatsiyasiz kirish",
+      "Faqat parol kiritish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ikki tomonlama autentifikatsiya nima?",
+    "options": [
+      "Ikkala tomon ham bir-birini o'zaro tasdiqlashi",
+      "Faqat server foydalanuvchini tekshirishi",
+      "Ikki marta parol kiritish",
+      "Ikki xil login ishlatish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ko'p omilli autentifikatsiya (MFA) nima?",
+    "options": [
+      "Ikki yoki undan ortiq autentifikatsiya usulini birgalikda qo'llash",
+      "Faqat bitta parol ishlatish",
+      "Bir necha marta login kiritish",
+      "Ko'p foydalanuvchi bir vaqtda kirishi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Autentifikatsiya omillaridan biri - 'Bilish' (knowledge) ga misol:",
+    "options": [
+      "Parol, PIN-kod, maxfiy savol",
+      "Barmoq izi",
+      "Smart-karta",
+      "Yuz tasviri"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Autentifikatsiya omillaridan biri - 'Ega bo'lish' (possession) ga misol:",
+    "options": [
+      "Smart-karta, token, mobil telefon",
+      "Parol",
+      "PIN-kod",
+      "Maxfiy savol javobi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Autentifikatsiya omillaridan biri - 'Bo'lish' (inherence) ga misol:",
+    "options": [
+      "Barmoq izi, yuz tasviri, ko'z qorachig'i",
+      "Parol",
+      "Smart-karta",
+      "PIN-kod"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Biometrik autentifikatsiya tizimi nimaga asoslangan?",
+    "options": [
+      "Insonning noyob jismoniy yoki xulq-atvor xususiyatlariga",
+      "Faqat parollarga",
+      "Faqat smart-kartalarga",
+      "Faqat PIN-kodlarga"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Parol tizimlarining asosiy kamchiligi:",
+    "options": [
+      "Parollar o'g'irlanishi, taxmin qilinishi yoki unutilishi mumkin",
+      "Parollar juda xavfsiz",
+      "Parollar hech qachon buzilmaydi",
+      "Parollar biometrikadan xavfsizroq"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "OTP (One-Time Password) nima?",
+    "options": [
+      "Faqat bir marta ishlatiladigan vaqtinchalik parol",
+      "Doimiy parol",
+      "Administrator paroli",
+      "Tarmoq paroli"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Biometrik tizimlarning afzalligi:",
+    "options": [
+      "Unutilishi yoki o'g'irlanishi mumkin bo'lmagan noyob identifikator",
+      "Arzon narxi",
+      "Oddiy o'rnatilishi",
+      "Kalit kerak emasligi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Foydalanishni boshqarish (Access Control) nima?",
+    "options": [
+      "Resurslardan foydalanish huquqlarini belgilash va nazorat qilish jarayoni",
+      "Tarmoq tezligini boshqarish",
+      "Kompyuter haroratini nazorat qilish",
+      "Dasturlarni o'rnatish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "DAC (Discretionary Access Control) usulining xususiyati:",
+    "options": [
+      "Resurs egasi boshqa foydalanuvchilarga huquqlarni o'zi belgilaydi",
+      "Faqat administrator huquq beradi",
+      "Rollar asosida huquq beriladi",
+      "Atributlar asosida huquq beriladi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "MAC (Mandatory Access Control) usulining xususiyati:",
+    "options": [
+      "Foydalanish huquqlari markaziy siyosat asosida tizim tomonidan boshqariladi",
+      "Resurs egasi huquqlarni belgilaydi",
+      "Foydalanuvchi o'zi huquqlarini o'zgartiradi",
+      "Hech qanday cheklov yo'q"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "RBAC (Role-Based Access Control) usulining xususiyati:",
+    "options": [
+      "Foydalanuvchilarga rollar orqali huquqlar beriladi",
+      "Har bir foydalanuvchiga alohida huquq beriladi",
+      "Faqat administrator foydalana oladi",
+      "Cheklov yo'q"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "ABAC (Attribute-Based Access Control) usulining xususiyati:",
+    "options": [
+      "Foydalanuvchi, resurs va muhit atributlari asosida huquqlar belgilanadi",
+      "Faqat rollar asosida",
+      "Faqat parol asosida",
+      "Faqat vaqt asosida"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Foydalanishni boshqarish matritsasi nima?",
+    "options": [
+      "Foydalanuvchilar va resurslar o'rtasidagi huquqlarni ko'rsatuvchi jadval",
+      "Shifrlash algoritmi",
+      "Tarmoq diagrammasi",
+      "Ma'lumotlar bazasi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "ACL (Access Control List) nima?",
+    "options": [
+      "Resursga kim qanday huquqlarga ega ekanligini ko'rsatadigan ro'yxat",
+      "Foydalanuvchilar ro'yxati",
+      "Kompyuterlar ro'yxati",
+      "Dasturlar ro'yxati"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "C-list (Capability List) nima?",
+    "options": [
+      "Foydalanuvchi qaysi resurslarga qanday huquqlarga ega ekanligini ko'rsatadigan ro'yxat",
+      "Kompyuterlar ro'yxati",
+      "Tarmoq uskunalari ro'yxati",
+      "Dasturlar ro'yxati"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "RBAC usulida 'rol' nima?",
+    "options": [
+      "Tashkilotdagi lavozim yoki funksiyaga mos keladigan huquqlar to'plami",
+      "Foydalanuvchi nomi",
+      "Parol turi",
+      "IP manzil"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "MAC usulida xavfsizlik tamoyili (label) nima?",
+    "options": [
+      "Har bir resurs va foydalanuvchiga beriladigan maxfiylik darajasi",
+      "Kompyuter nomi",
+      "Tarmoq manzili",
+      "Dastur versiyasi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "DAC usulining kamchiligi nima?",
+    "options": [
+      "Resurs egasi noto'g'ri huquqlar berib, xavfsizlikni buzishi mumkin",
+      "Juda qat'iy nazorat",
+      "Juda sekin ishlashi",
+      "Rollarni qo'llab-quvvatlamasligi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Foydalanishni boshqarishda 'ruxsat berish' va 'rad etish' tamoyillari qanday ishlaydi?",
+    "options": [
+      "Agar aniq ruxsat berilmagan bo'lsa, sukut bo'yicha rad etiladi",
+      "Agar rad etilmagan bo'lsa, ruxsat beriladi",
+      "Hamma narsaga ruxsat beriladi",
+      "Hamma narsa rad etiladi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Bell-LaPadula modeli nimani himoyalaydi?",
+    "options": [
+      "Ma'lumotlarning konfidensialligini (maxfiyligini)",
+      "Ma'lumotlarning yaxlitligini",
+      "Ma'lumotlarning foydalanuvchanligini",
+      "Tarmoq tezligini"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Bell-LaPadula modelining 'yuqoriga o'qimaslik' (no read up) qoidasi nimani anglatadi?",
+    "options": [
+      "Past maxfiylik darajasidagi foydalanuvchi yuqori darajadagi ma'lumotni o'qiy olmaydi",
+      "Yuqori darajadagi foydalanuvchi past darajaga yoza olmaydi",
+      "Hamma barcha ma'lumotlarni o'qiy oladi",
+      "Hech kim hech narsani o'qiy olmaydi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Bell-LaPadula modelining 'pastga yozmaslik' (no write down) qoidasi nimani anglatadi?",
+    "options": [
+      "Yuqori maxfiylik darajasidagi foydalanuvchi past darajaga ma'lumot yoza olmaydi",
+      "Past darajadagi foydalanuvchi yuqoriga yoza olmaydi",
+      "Hamma hamma joyga yoza oladi",
+      "Hech kim yoza olmaydi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Biba modeli nimani himoyalaydi?",
+    "options": [
+      "Ma'lumotlarning yaxlitligini (butunligini)",
+      "Ma'lumotlarning maxfiyligini",
+      "Ma'lumotlarning foydalanuvchanligini",
+      "Tarmoq xavfsizligini"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Biba modelining 'pastdan o'qimaslik' (no read down) qoidasi nimani anglatadi?",
+    "options": [
+      "Yuqori yaxlitlik darajasidagi foydalanuvchi past darajadagi ma'lumotni o'qimasligi kerak",
+      "Past darajadagi foydalanuvchi yuqoriga o'qiy olmaydi",
+      "Hamma barcha ma'lumotlarni o'qiy oladi",
+      "Faqat administrator o'qiy oladi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Biba modelining 'yuqoriga yozmaslik' (no write up) qoidasi nimani anglatadi?",
+    "options": [
+      "Past yaxlitlik darajasidagi foydalanuvchi yuqori darajaga yoza olmaydi",
+      "Yuqori darajadagi foydalanuvchi pastga yoza olmaydi",
+      "Hamma hamma joyga yoza oladi",
+      "Faqat administrator yoza oladi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Bell-LaPadula va Biba modellari o'rtasidagi asosiy farq:",
+    "options": [
+      "Bell-LaPadula maxfiylikni, Biba esa yaxlitlikni himoyalaydi",
+      "Ikkisi ham bir xil narsani himoyalaydi",
+      "Bell-LaPadula tezroq ishlaydi",
+      "Biba yangi model"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ko'p sathli xavfsizlik (MLS) modeli nimani nazarda tutadi?",
+    "options": [
+      "Turli maxfiylik darajalaridagi ma'lumotlarni bitta tizimda boshqarish",
+      "Faqat bitta darajadagi xavfsizlik",
+      "Faqat fizik xavfsizlik",
+      "Tarmoq tezligini boshqarish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Mantiqiy foydalanishni boshqarish nimani anglatadi?",
+    "options": [
+      "Dasturiy va texnik vositalar orqali ma'lumotlarga kirishni cheklash",
+      "Eshik va qulflar orqali himoyalash",
+      "Kuzatuv kameralari o'rnatish",
+      "Qo'riqchi qo'yish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Fizik foydalanishni boshqarish nimani anglatadi?",
+    "options": [
+      "Jismoniy vositalar orqali ma'lumotlar joylashgan hududga kirishni cheklash",
+      "Parollar orqali himoyalash",
+      "Shifrlash orqali himoyalash",
+      "Tarmoqlararo ekran orqali himoyalash"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Clark-Wilson modeli nimani ta'minlaydi?",
+    "options": [
+      "Ma'lumotlar yaxlitligini tranzaksiyalar orqali boshqarish",
+      "Faqat maxfiylikni",
+      "Faqat foydalanuvchanlikni",
+      "Faqat tarmoq xavfsizligini"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Chinese Wall modeli nimani himoyalaydi?",
+    "options": [
+      "Manfaatlar to'qnashuvini oldini olish",
+      "Faqat ma'lumotlar maxfiyligini",
+      "Faqat fizik xavfsizlikni",
+      "Faqat tarmoq xavfsizligini"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Fizik xavfsizlikning zaruriyati nimada?",
+    "options": [
+      "Axborot saqlanadigan jismoniy muhitni tabiiy va sun'iy tahdidlardan himoyalash",
+      "Faqat dasturiy ta'minotni himoyalash",
+      "Faqat tarmoq tezligini oshirish",
+      "Faqat elektr energiyasini tejash"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Tabiiy tahdidlarga nimalar kiradi?",
+    "options": [
+      "Zilzila, suv toshqini, yong'in, momaqaldiroq",
+      "Xakerlik hujumlari",
+      "Virus tarqalishi",
+      "Parol o'g'irlash"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Sun'iy tahdidlarga nimalar kiradi?",
+    "options": [
+      "O'g'irlik, qasddan buzish, diversiya, sabotaj",
+      "Zilzila",
+      "Suv toshqini",
+      "Yong'in"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Fizik xavfsizlikni nazoratlash usullaridan biri:",
+    "options": [
+      "Kuzatuv kameralari va kirishni nazorat qilish tizimlari",
+      "Shifrlash algoritmlari",
+      "Virusga qarshi dasturlar",
+      "Tarmoqlararo ekranlar"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ma'lumotlarni xavfsiz yo'q qilish usullari qaysilar?",
+    "options": [
+      "Qog'oz hujjatlarni maydalash, elektron axborot tashuvchilarni degaussing yoki fizik buzish",
+      "Faqat o'chirib tashlash",
+      "Savatga tashlash",
+      "Faylni qayta nomlash"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Degaussing nima?",
+    "options": [
+      "Kuchli magnit maydoni orqali ma'lumot tashuvchidagi ma'lumotlarni yo'q qilish",
+      "Ma'lumotlarni shifrlash",
+      "Ma'lumotlarni siqish",
+      "Ma'lumotlarni ko'chirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Server xonasida harorat nazorati nima uchun muhim?",
+    "options": [
+      "Uskunalarning haddan tashqari qizib ketishini oldini olish uchun",
+      "Faqat xodimlar qulayligi uchun",
+      "Faqat energiya tejash uchun",
+      "Faqat chiroyli ko'rinish uchun"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "UPS (Uzluksiz quvvat manbai) ning vazifasi:",
+    "options": [
+      "Elektr uzilganda uskunalarni vaqtincha quvvat bilan ta'minlash",
+      "Tarmoq tezligini oshirish",
+      "Ma'lumotlarni shifrlash",
+      "Viruslarni aniqlash"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Biometrik kirishni nazorat qilish tizimlariga misol:",
+    "options": [
+      "Barmoq izi skaneri, yuz tanish tizimi, ko'z pardasi skaneri",
+      "Parol kiritish",
+      "Kalit bilan eshik ochish",
+      "Telefon orqali qo'ng'iroq qilish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ogohlik va o'qitish fizik xavfsizlikda qanday ahamiyatga ega?",
+    "options": [
+      "Xodimlarni xavfsizlik qoidalari va tahdidlar haqida xabardor qilish orqali himoyani kuchaytiradi",
+      "Hech qanday ahamiyati yo'q",
+      "Faqat texnik xodimlar uchun kerak",
+      "Faqat rahbarlar uchun kerak"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ma'lumotlarni saqlash xonasiga kirish qanday nazorat qilinishi kerak?",
+    "options": [
+      "Faqat ruxsat etilgan shaxslar kirishi va barcha kirishlar qayd qilinishi kerak",
+      "Hamma kiravera olishi kerak",
+      "Faqat tunda nazorat qilinishi kerak",
+      "Nazorat kerak emas"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Yong'inga qarshi himoya tizimlarining ahamiyati:",
+    "options": [
+      "Uskunalar va ma'lumotlarni yong'indan himoyalash va avtomatik o'chirish tizimini ta'minlash",
+      "Faqat bino ko'rinishini yaxshilash",
+      "Faqat qonun talabi",
+      "Ahamiyati yo'q"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "LAN (Local Area Network) nima?",
+    "options": [
+      "Cheklangan hududdagi (bino, ofis) kompyuterlarni birlashtiruvchi tarmoq",
+      "Butun dunyo bo'ylab tarqalgan tarmoq",
+      "Faqat simsiz tarmoq",
+      "Faqat uyali aloqa tarmog'i"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "WAN (Wide Area Network) nima?",
+    "options": [
+      "Katta geografik hududni qamrab oluvchi tarmoq",
+      "Faqat bitta bino ichidagi tarmoq",
+      "Faqat simsiz tarmoq",
+      "Faqat lokal tarmoq"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "OSI modelida nechta qatlam bor?",
+    "options": [
+      "7 ta",
+      "4 ta",
+      "5 ta",
+      "3 ta"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "TCP/IP modelida nechta qatlam bor?",
+    "options": [
+      "4 ta",
+      "7 ta",
+      "5 ta",
+      "3 ta"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Razvedka (reconnaissance) hujumi nima?",
+    "options": [
+      "Nishon tizim haqida ma'lumot to'plash maqsadidagi hujum",
+      "Tizimni buzish",
+      "Ma'lumotlarni o'chirish",
+      "Virusni tarqatish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Kirish hujumi (access attack) nima?",
+    "options": [
+      "Ruxsatsiz tizim yoki ma'lumotlarga kirish uchun amalga oshiriladigan hujum",
+      "Ma'lumot to'plash",
+      "Tarmoq tezligini o'lchash",
+      "Tizimni yangilash"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "DoS (Denial of Service) hujumi nimani maqsad qiladi?",
+    "options": [
+      "Tizim yoki xizmatni foydalanuvchilarga yaroqsiz holga keltirish",
+      "Ma'lumotlarni o'g'irlash",
+      "Parolni o'zgartirish",
+      "Tizimga kirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "DDoS hujumi DoS dan qanday farq qiladi?",
+    "options": [
+      "Ko'plab kompyuterlardan bir vaqtda hujum qilinadi",
+      "Bitta kompyuterdan hujum qilinadi",
+      "Hujum amalga oshirilmaydi",
+      "Faqat ichki tarmoqda"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Man-in-the-Middle (MITM) hujumi nima?",
+    "options": [
+      "Hujumchi ikki tomon orasidagi aloqani tutib, ma'lumotlarni tinglash yoki o'zgartirish",
+      "Kompyuterni fizik buzish",
+      "Virusni tarqatish",
+      "Parolni o'zgartirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ichki tahdid (insider threat) nima?",
+    "options": [
+      "Tashkilot xodimi yoki ishonchli shaxs tomonidan keltirilgan xavf",
+      "Tashqi haker tomonidan hujum",
+      "Virus tarqalishi",
+      "Tabiiy ofat"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Tarmoq topologiyalarining turlari qaysilar?",
+    "options": [
+      "Yulduz, halqa, shina, to'r (mesh), daraxt",
+      "Faqat yulduz",
+      "Faqat halqa",
+      "Faqat shina"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "TCP protokolining xususiyati:",
+    "options": [
+      "Ishonchli ulanishga asoslangan ma'lumot uzatish protokoli",
+      "Ishonchsiz, ulanishsiz protokol",
+      "Faqat video uzatish uchun",
+      "Faqat pochta uchun"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Sniffing hujumi nima?",
+    "options": [
+      "Tarmoqdagi ma'lumot paketlarini ruxsatsiz tutib olish va tahlil qilish",
+      "Tarmoq kabelini uzish",
+      "Kompyuterni o'chirish",
+      "Parolni o'zgartirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Tarmoqlararo ekran (Firewall) nima?",
+    "options": [
+      "Tarmoq trafikini nazorat qilib, ruxsatsiz kirishlardan himoyalovchi vosita",
+      "Virusga qarshi dastur",
+      "Ma'lumotlar bazasi",
+      "Operatsion tizim"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "VPN (Virtual Private Network) nima?",
+    "options": [
+      "Internet orqali xavfsiz shifrlangan virtual kanal yaratish texnologiyasi",
+      "Oddiy internet ulanishi",
+      "Wi-Fi tarmog'i",
+      "Lokal tarmoq"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "IDS (Intrusion Detection System) nima?",
+    "options": [
+      "Suqilib kirishlarni aniqlash tizimi",
+      "Virusga qarshi dastur",
+      "Shifrlash algoritmi",
+      "Tarmoq kabeli"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "IPS (Intrusion Prevention System) IDS dan qanday farq qiladi?",
+    "options": [
+      "IPS faqat aniqlamaydi, balki hujumni avtomatik bloklaydi ham",
+      "IPS faqat aniqlaydi",
+      "Farq yo'q",
+      "IPS sekinroq ishlaydi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "DLP (Data Leakage Prevention) tizimi nima?",
+    "options": [
+      "Ma'lumotlarning sirqib chiqishini (sizib ketishini) oldini olish tizimi",
+      "Virusga qarshi dastur",
+      "Tarmoq tezligini oshirish vositasi",
+      "Ma'lumotlar bazasi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Honeypot (tuzoq) nima?",
+    "options": [
+      "Hujumchilarni jalb qilish va ularning usullarini o'rganish uchun maxsus qo'yilgan yolg'on nishon",
+      "Haqiqiy server",
+      "Ma'lumotlar bazasi",
+      "Shifrlash vositasi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Paketli filtrlash tarmoqlararo ekranda qanday ishlaydi?",
+    "options": [
+      "Har bir tarmoq paketini IP manzili, port va protokol bo'yicha tekshiradi",
+      "Faqat foydalanuvchi nomini tekshiradi",
+      "Faqat parolni tekshiradi",
+      "Faqat fayllarni tekshiradi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Stateful inspection (holatni kuzatuvchi) tarmoqlararo ekran nima?",
+    "options": [
+      "Ulanishlarning holatini kuzatib, kontekstga qarab trafikni filtrlaydi",
+      "Faqat paketlarni alohida tekshiradi",
+      "Faqat parolni tekshiradi",
+      "Faqat viruslarni aniqlaydi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "DMZ (Demilitarized Zone) nima?",
+    "options": [
+      "Ichki va tashqi tarmoq o'rtasidagi bufer zona",
+      "Maxfiy tarmoq",
+      "Simsiz tarmoq",
+      "Lokal tarmoq"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Proksi-server nima uchun ishlatiladi?",
+    "options": [
+      "Foydalanuvchi va internet o'rtasida vositachilik qilish va xavfsizlikni oshirish",
+      "Ma'lumotlarni shifrlash",
+      "Viruslarni yaratish",
+      "Tarmoq kabellarini ulash"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "NIDS (Network-based IDS) nimani kuzatadi?",
+    "options": [
+      "Tarmoq trafikini tahlil qilib, shubhali faoliyatni aniqlaydi",
+      "Faqat bitta kompyuterdagi fayllarni",
+      "Faqat elektron pochtani",
+      "Faqat printer trafikini"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "HIDS (Host-based IDS) nimani kuzatadi?",
+    "options": [
+      "Bitta kompyuter yoki serverdagi faoliyatni kuzatadi",
+      "Butun tarmoq trafikini",
+      "Faqat internet trafikini",
+      "Faqat simsiz trafikni"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Wi-Fi simsiz tarmog'ining asosiy xavfsizlik muammosi:",
+    "options": [
+      "Signal havo orqali tarqalgani uchun tinglash va ruxsatsiz ulanish oson",
+      "Kabel kerak bo'lishi",
+      "Juda sekin ishlashi",
+      "Faqat bir qurilma ulana olishi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "WEP (Wired Equivalent Privacy) protokolining kamchiligi:",
+    "options": [
+      "Zaif shifrlash kaliti tufayli oson buzilishi",
+      "Juda kuchli va sekin ishlashi",
+      "Faqat yangi qurilmalarda ishlashi",
+      "Hech qanday kamchiligi yo'q"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "WPA (Wi-Fi Protected Access) WEP dan qanday ustunligi bor?",
+    "options": [
+      "Yanada kuchli shifrlash va dinamik kalit almashinuvi",
+      "Sekinroq ishlaydi",
+      "Kamroq xavfsiz",
+      "Faqat eski qurilmalarda ishlaydi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "WPA2 da qaysi shifrlash algoritmi ishlatiladi?",
+    "options": [
+      "AES (Advanced Encryption Standard)",
+      "DES",
+      "RC4",
+      "MD5"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Simsiz tarmoqlarga bo'ladigan 'Evil Twin' hujumi nima?",
+    "options": [
+      "Haqiqiy tarmoqqa o'xshash soxta nuqta yaratib, foydalanuvchilarni jalb qilish",
+      "Tarmoq kabelini uzish",
+      "Serverni o'chirish",
+      "Parolni o'zgartirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "SSID (Service Set Identifier) nima?",
+    "options": [
+      "Simsiz tarmoqning nomi",
+      "Shifrlash kaliti",
+      "IP manzil",
+      "MAC manzil"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "SSID yashirish (hiding) simsiz tarmoq xavfsizligini oshiradimi?",
+    "options": [
+      "To'liq himoya bermaydi, lekin tasodifiy ulanishlarni kamaytirishi mumkin",
+      "To'liq xavfsizlikni ta'minlaydi",
+      "Hech qanday foydasi yo'q",
+      "Tarmoq ishlamaydigan bo'lib qoladi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "MAC filtrlash simsiz tarmoqda qanday ishlaydi?",
+    "options": [
+      "Faqat ro'yxatga kiritilgan MAC manzilli qurilmalarga ulanishga ruxsat berish",
+      "Barcha qurilmalarga ruxsat berish",
+      "Tarmoq tezligini oshirish",
+      "Ma'lumotlarni shifrlash"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Simsiz tarmoqdagi 'War driving' nima?",
+    "options": [
+      "Ochiq yoki zaif himoyalangan simsiz tarmoqlarni qidirish uchun atrofda haydab yurish",
+      "Kompyuter o'yini",
+      "Tarmoq o'rnatish usuli",
+      "Server sozlash"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "WPA3 protokolining WPA2 dan afzalliklari:",
+    "options": [
+      "Yanada kuchli shifrlash va ommaviy Wi-Fi tarmoqlarida individual shifrlash",
+      "WPA2 dan kamroq xavfsiz",
+      "Faqat eski qurilmalar uchun",
+      "Hech qanday farq yo'q"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Bluetooth xavfsizlik muammolaridan biri:",
+    "options": [
+      "Bluejacking va Bluesnarfing kabi hujumlarga zaiflik",
+      "Juda kuchli xavfsizlik",
+      "Hech qanday muammo yo'q",
+      "Faqat kompyuterlarda ishlashi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Simsiz tarmoqda xavfsizlikni oshirish uchun eng muhim chora:",
+    "options": [
+      "Kuchli shifrlash (WPA2/WPA3) va murakkab parol ishlatish",
+      "Tarmoqni o'chirib qo'yish",
+      "Faqat bitta qurilma ulash",
+      "Hech narsa qilmaslik"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Bulutli hisoblash (Cloud Computing) nima?",
+    "options": [
+      "Internet orqali hisoblash resurslarini (server, saqlash, dasturlar) taqdim etish",
+      "Faqat ma'lumotlarni saqlash",
+      "Faqat elektron pochta xizmati",
+      "Lokal kompyuterda ishlash"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Bulutli hisoblash modellaridan biri - IaaS nima?",
+    "options": [
+      "Infratuzilma xizmati (Infrastructure as a Service)",
+      "Dastur xizmati",
+      "Platforma xizmati",
+      "Ma'lumot xizmati"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Bulutli hisoblash modellaridan biri - PaaS nima?",
+    "options": [
+      "Platforma xizmati (Platform as a Service)",
+      "Infratuzilma xizmati",
+      "Dastur xizmati",
+      "Xavfsizlik xizmati"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Bulutli hisoblash modellaridan biri - SaaS nima?",
+    "options": [
+      "Dastur xizmati (Software as a Service)",
+      "Infratuzilma xizmati",
+      "Platforma xizmati",
+      "Tarmoq xizmati"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Bulutli hisoblashda asosiy xavfsizlik muammosi:",
+    "options": [
+      "Ma'lumotlar uchinchi tomon serverlarida saqlanishi va nazorat yo'qolishi",
+      "Juda tez ishlashi",
+      "Juda arzon bo'lishi",
+      "Hech qanday muammo yo'q"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "IoT (Internet of Things) nima?",
+    "options": [
+      "Jismoniy qurilmalarning internet orqali o'zaro bog'lanishi va ma'lumot almashishi",
+      "Faqat kompyuterlar tarmog'i",
+      "Faqat telefonlar tarmog'i",
+      "Faqat serverlar tarmog'i"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "IoT qurilmalarining xavfsizlik muammolari nimada?",
+    "options": [
+      "Kam resursli qurilmalar, zaif parollar, yangilanishlar yo'qligi",
+      "Juda kuchli xavfsizlik",
+      "Hech qanday muammo yo'q",
+      "Faqat fizik xavflar"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "IoT arxitekturasining asosiy qatlamlari:",
+    "options": [
+      "Idrok qatlami (sensorlar), tarmoq qatlami, ilova qatlami",
+      "Faqat bitta qatlam",
+      "Faqat tarmoq qatlami",
+      "Faqat ilova qatlami"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Bulutli hisoblashda ma'lumotlar maxfiyligi (privacy) muammosi nimada?",
+    "options": [
+      "Shaxsiy ma'lumotlar provayderlar tomonidan ko'rilishi yoki sizib ketishi mumkin",
+      "Ma'lumotlar juda xavfsiz",
+      "Hech qanday muammo yo'q",
+      "Faqat fizik xavf"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "IoT qurilmalarida standart parollarni o'zgartirmaslik qanday xavf tug'diradi?",
+    "options": [
+      "Hujumchilar standart parollarni ishlatib qurilmaga osongina kira oladi",
+      "Hech qanday xavf yo'q",
+      "Qurilma tezroq ishlaydi",
+      "Parol o'zgartirish kerak emas"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Bulutli hisoblashda xavfsizlikni oshirish usullari:",
+    "options": [
+      "Ma'lumotlarni shifrlash, kuchli autentifikatsiya, doimiy monitoring",
+      "Hech narsa qilmaslik",
+      "Faqat parol ishlatish",
+      "Faqat antivirus o'rnatish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "IoT botnet nima?",
+    "options": [
+      "Viruslangan IoT qurilmalaridan tashkil topgan, hujumlar uchun ishlatiladigan tarmoq",
+      "Foydali IoT tarmog'i",
+      "IoT qurilmalar do'koni",
+      "IoT dasturlash tili"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "'IoT' tushunchasi birinchi marta nechanchi yilda taklif etilgan?",
+    "options": [
+      "1999-yil",
+      "1990-yil",
+      "2005-yil",
+      "2010-yil"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Zaxira nusxalash (backup) nima uchun zarur?",
+    "options": [
+      "Ma'lumotlar yo'qolgan yoki buzilgan holda ularni qayta tiklash imkonini beradi",
+      "Tarmoq tezligini oshirish uchun",
+      "Viruslarni aniqlash uchun",
+      "Kompyuter tezligini oshirish uchun"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "RAID texnologiyasi nima?",
+    "options": [
+      "Bir necha diskni birlashtirib ishonchlilik va tezlikni oshirish texnologiyasi",
+      "Virusga qarshi dastur",
+      "Shifrlash algoritmi",
+      "Tarmoq protokoli"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "RAID 1 qanday ishlaydi?",
+    "options": [
+      "Ma'lumotlarni ikki diskda bir xil nusxalaydi (mirroring)",
+      "Ma'lumotlarni bir diskda saqlaydi",
+      "Ma'lumotlarni siqadi",
+      "Ma'lumotlarni shifrlaydi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "RAID 5 ning xususiyati:",
+    "options": [
+      "Ma'lumotlarni parchalab tarqatadi va paritet ma'lumoti orqali himoyalaydi",
+      "Faqat bitta diskda saqlaydi",
+      "Faqat ikkita diskda nusxalaydi",
+      "Ma'lumotlarni shifrlaydi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "To'liq zaxira nusxalash (full backup) nima?",
+    "options": [
+      "Barcha ma'lumotlarning to'liq nusxasini yaratish",
+      "Faqat o'zgargan fayllarni nusxalash",
+      "Faqat yangi fayllarni nusxalash",
+      "Ma'lumotlarni o'chirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Inkremental zaxira nusxalash nima?",
+    "options": [
+      "Faqat oxirgi zaxiradan keyin o'zgargan ma'lumotlarni nusxalash",
+      "Barcha ma'lumotlarni nusxalash",
+      "Faqat eski fayllarni nusxalash",
+      "Ma'lumotlarni o'chirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Differensial zaxira nusxalash nima?",
+    "options": [
+      "Oxirgi to'liq zaxiradan keyin o'zgargan barcha ma'lumotlarni nusxalash",
+      "Faqat oxirgi inkremental zaxiradan keyingi o'zgarishlar",
+      "Barcha ma'lumotlarni nusxalash",
+      "Ma'lumotlarni o'chirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ma'lumotlarni yo'qolish sabablariga nimalar kiradi?",
+    "options": [
+      "Apparat nosozligi, dasturiy xatolar, inson xatolari, tabiiy ofatlar",
+      "Faqat viruslar",
+      "Faqat hakerlar",
+      "Faqat elektr uzilishi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ma'lumotlarni qayta tiklash (data recovery) nima?",
+    "options": [
+      "Yo'qolgan yoki buzilgan ma'lumotlarni maxsus vositalar yordamida tiklash",
+      "Ma'lumotlarni shifrlash",
+      "Ma'lumotlarni o'chirish",
+      "Ma'lumotlarni uzatish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Hodisalarni qaydlash (logging) nima uchun muhim?",
+    "options": [
+      "Tizimda sodir bo'lgan voqealarni kuzatish va xavfsizlik hodisalarini tahlil qilish uchun",
+      "Faqat tarmoq tezligini o'lchash uchun",
+      "Faqat diskda joy bo'shatish uchun",
+      "Faqat foydalanuvchilarni hisoblash uchun"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Windows OT da hodisa (event) turlariga nimalar kiradi?",
+    "options": [
+      "Xato (Error), ogohlantirish (Warning), ma'lumot (Information), muvaffaqiyat auditi",
+      "Faqat xato",
+      "Faqat ogohlantirish",
+      "Faqat ma'lumot"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "RPO (Recovery Point Objective) nima?",
+    "options": [
+      "Ma'lumotlar yo'qolishining maqbul maksimal vaqt oralig'i",
+      "Tiklash uchun sarflanadigan vaqt",
+      "Tarmoq tezligi",
+      "Disk hajmi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Veb saytlardagi eng keng tarqalgan zaifliklardan biri:",
+    "options": [
+      "SQL inyeksiya",
+      "Tarmoq kabelining uzilishi",
+      "Kompyuter ekranining sinishi",
+      "Printerning ishdan chiqishi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "XSS (Cross-Site Scripting) hujumi nima?",
+    "options": [
+      "Veb sahifaga zararli skript kodini kiritish hujumi",
+      "Tarmoq kabelini uzish",
+      "Serverni fizik buzish",
+      "Parolni o'zgartirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "SQL inyeksiya hujumi nima?",
+    "options": [
+      "Ma'lumotlar bazasiga zararli SQL buyruqlarini kiritish hujumi",
+      "Tarmoq trafigini tinglash",
+      "Virusni tarqatish",
+      "Fizik buzish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Kuki (cookie) nima?",
+    "options": [
+      "Veb sayt tomonidan brauzerda saqlanadigan kichik ma'lumot fayli",
+      "Virus turi",
+      "Shifrlash kaliti",
+      "Tarmoq protokoli"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Xavfsiz dasturlash tillari (memory-safe) ga misol:",
+    "options": [
+      "Rust, Python, Java",
+      "C, Assembly",
+      "Faqat C++",
+      "Faqat Assembly"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "OWASP Top 10 nima?",
+    "options": [
+      "Eng keng tarqalgan veb ilova zaifliklarining ro'yxati",
+      "Eng yaxshi 10 ta dasturlash tili",
+      "Eng tez 10 ta kompyuter",
+      "Eng yaxshi 10 ta antivirus"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Brauzerda shaxsiy ma'lumotlarni himoyalash usullari:",
+    "options": [
+      "HTTPS ishlatish, kukilarni boshqarish, shaxsiy rejimda ko'rish",
+      "Hech narsa qilmaslik",
+      "Faqat bitta saytdan foydalanish",
+      "Internetni o'chirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Mobil operatsion tizimlar xavfsizligi muammolari:",
+    "options": [
+      "Ruxsatsiz ilovalar, zaif ruxsatlar, ma'lumot sizib ketishi",
+      "Hech qanday muammo yo'q",
+      "Faqat batareya muammosi",
+      "Faqat ekran muammosi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Linux OT ning xavfsizlik afzalligi:",
+    "options": [
+      "Ochiq kodli bo'lganligi uchun zaifliklar tezroq aniqlanadi va tuzatiladi",
+      "Viruslar ko'p tarqaladi",
+      "Hech qanday afzalligi yo'q",
+      "Faqat serverlar uchun"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Windows OT da foydalanuvchi hisobini nazorat qilish (UAC) nima?",
+    "options": [
+      "Dasturlar administrator huquqlari bilan ishlashdan oldin foydalanuvchidan ruxsat so'rash",
+      "Virusga qarshi dastur",
+      "Tarmoqlararo ekran",
+      "Shifrlash vositasi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "CSRF (Cross-Site Request Forgery) hujumi nima?",
+    "options": [
+      "Foydalanuvchi nomidan ruxsatsiz so'rovlarni yuborish hujumi",
+      "Tarmoqni buzish",
+      "Virusni yaratish",
+      "Parolni o'chirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Dasturiy ta'minotni yangilash (patch management) nima uchun muhim?",
+    "options": [
+      "Aniqlangan zaifliklarni bartaraf etish va xavfsizlikni oshirish uchun",
+      "Faqat yangi funksiyalar qo'shish uchun",
+      "Faqat dastur ko'rinishini o'zgartirish uchun",
+      "Hech qanday ahamiyati yo'q"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Zararli dastur (malware) nima?",
+    "options": [
+      "Kompyuter tizimiga zarar yetkazish uchun yaratilgan dasturiy ta'minot",
+      "Foydali dastur",
+      "Operatsion tizim",
+      "Tarmoq protokoli"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Kompyuter virusi nima?",
+    "options": [
+      "O'zini boshqa dasturlarga biriktiruvchi va tarqaluvchi zararli dastur",
+      "Foydali dastur",
+      "Operatsion tizim",
+      "Ma'lumotlar bazasi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Troyan (trojan) dasturining xususiyati:",
+    "options": [
+      "Foydali dastur sifatida ko'rinib, aslida zararli funksiyalarni bajaradi",
+      "O'zini ko'paytiradi",
+      "Faqat tarmoq orqali tarqaladi",
+      "Foydali dastur"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Qurt (worm) virusdan qanday farq qiladi?",
+    "options": [
+      "Qurt mustaqil tarqaladi, virusga esa boshqa dastur kerak",
+      "Farq yo'q",
+      "Qurt zarar keltirmaydi",
+      "Virus mustaqil tarqaladi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ransomware (tovlamachilik dasturi) nima qiladi?",
+    "options": [
+      "Foydalanuvchi ma'lumotlarini shifrlaydi va ochish uchun to'lov talab qiladi",
+      "Ma'lumotlarni zaxiralaydi",
+      "Tizimni tezlashtiradi",
+      "Viruslarni aniqlaydi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Spyware (josuslik dasturi) nima qiladi?",
+    "options": [
+      "Foydalanuvchi faoliyatini yashirincha kuzatadi va ma'lumotlarni uzatadi",
+      "Tizimni himoyalaydi",
+      "Tarmoq tezligini oshiradi",
+      "Fayllarni siqadi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Rootkit nima?",
+    "options": [
+      "Tizimda yashirinib, administrator huquqlarini ega bo'lgan zararli dastur",
+      "Virusga qarshi dastur",
+      "Tarmoq protokoli",
+      "Ma'lumotlar bazasi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Keylogger nima qiladi?",
+    "options": [
+      "Klaviaturadan kiritilgan barcha tugmachalarni yashirincha qayd qiladi",
+      "Ekranni yoritadi",
+      "Tovushni yozadi",
+      "Tarmoqni himoyalaydi"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Viruslarni aniqlashning signatura (imzo) usuli qanday ishlaydi?",
+    "options": [
+      "Ma'lum viruslarning noyob kod namunalari bilan solishtirish orqali",
+      "Tasodifiy tekshirish",
+      "Faqat fayl nomini tekshirish",
+      "Faqat fayl hajmini tekshirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Viruslarni aniqlashning evristik usuli qanday ishlaydi?",
+    "options": [
+      "Dasturning shubhali xatti-harakatlarini tahlil qilish orqali",
+      "Faqat signatura bo'yicha",
+      "Faqat fayl nomini tekshirish",
+      "Faqat internetni tekshirish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Antivirus dasturining asosiy vazifasi:",
+    "options": [
+      "Zararli dasturlarni aniqlash, bloklash va yo'q qilish",
+      "Tarmoq tezligini oshirish",
+      "Ma'lumotlarni shifrlash",
+      "Fayllarni siqish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Adware nima?",
+    "options": [
+      "Foydalanuvchiga ruxsatsiz reklama ko'rsatadigan dastur",
+      "Virusga qarshi dastur",
+      "Foydali dastur",
+      "Operatsion tizim"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Polimorf virus nima?",
+    "options": [
+      "Har safar ko'payishda o'z kodini o'zgartirib, aniqlashni qiyinlashtiruvchi virus",
+      "Oddiy virus",
+      "Foydali dastur",
+      "Tarmoq protokoli"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Ijtimoiy injineriya (social engineering) nima?",
+    "options": [
+      "Insonlar psixologiyasini ishlatib, maxfiy ma'lumotlarni olish usuli",
+      "Dasturlash usuli",
+      "Tarmoq sozlash usuli",
+      "Kompyuter ta'mirlash usuli"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Fishing (phishing) hujumi nima?",
+    "options": [
+      "Qalbaki xabarlar orqali foydalanuvchidan maxfiy ma'lumotlarni olishga urinish",
+      "Baliq ovlash",
+      "Tarmoq hujumi",
+      "Virus tarqatish"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Spear phishing oddiy phishingdan qanday farq qiladi?",
+    "options": [
+      "Aniq bir shaxs yoki tashkilotni nishonga olgan maqsadli hujum",
+      "Farq yo'q",
+      "Kamroq xavfli",
+      "Faqat telefon orqali"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Vishing nima?",
+    "options": [
+      "Telefon qo'ng'irog'i orqali amalga oshiriladigan fishing hujumi",
+      "Elektron pochta orqali hujum",
+      "SMS orqali hujum",
+      "Veb sayt orqali hujum"
+    ],
+    "correct_id": 0
+  },
+  {
+    "question": "Smishing nima?",
+    "options": [
+      "SMS xabarlar orqali amalga oshiriladigan fishing hujumi",
+      "Telefon qo'ng'irog'i orqali hujum",
+      "Elektron pochta orqali hujum",
+      "Veb sayt orqali hujum"
+    ],
+    "correct_id": 0
+  }
+]
