@@ -1,0 +1,4000 @@
+Sun’iy intellektning asosiy vazifasi nima?
+====
+faqat ma’lumotlarni saqlash
+====
+faqat chizish vazifalarini bajarish
+====
+#aqlli qarorlar qabul qilish;
+====
+kompyuter ekranini boshqarish
+++++
+Sun’iy intellekt usullarini rivojlanishining uchinchi pog’onasi  …………………………………………………………bilan bog’liq.
+====
+#idrok etuvchi, dinamik muhitda murakkab rejalarning amalga oshirilishi, bilimlarni tavsiflovchi, inson bilan tabiiy tilda muloqot qiluvchi robotlarni ishlab chiqarilishi;
+====
+idrok etuvchi, dinamik muhitda murakkab rejalarning amalga oshirilishi;
+====
+mehanik integrallashgan robotlarning yaratilishi;
+====
+bilimlarni tavsiflovchi, inson bilan tabiiy tilda muloqot qiluvchi robotlarni ishlab chiqarilishi.
+++++
+MYCIN -qanday vazifani bajargan?
+====
+#ichak kasalliklariga tashxis qo`yuvchi ekspert tizim;
+====
+murakkab rejalarni amalga oshiruvchi ekspert tizim;
+====
+iqtisodiy masalalarni boshqaruvchi ekspert tizim;
+====
+bank operatsiyalariga mo’ljallangan ekspert tizim.
+++++
+PROSPECTOR -qanday vazifani bajargan?
+====
+#foydali qazilmalarni topishda maslahat beruvchi ekspert tizim;
+====
+loyihalashni amalga oshiruvchi ekspert tizim;
+====
+biznes masalalarni boshqaruvchi ekspert tizim;
+====
+bank operatsiyalariga mo’ljallangan ekspert tizim.
+++++
+Sun’iy intellekt -bu …………………………………tushunchalarini anglatadi.
+====
+#inson intellektining alohida funksiyalarini bajarishni ta’minlovchi avtomatik tizim. Qaror qabul qilish, muammoni hal qilish, o’qitish, o’rgatish kabi insoniy fikrlash bilan bog'liq bo'lgan faoliyat turlari ;
+====
+inson intellektining alohida funksiyalarini bajarishni ta’minlovchi avtomatik tizim;
+====
+qaror qabul qilish, muammoni hal qilish, o’qitish, o’rgatish kabi insoniy fikrlash bilan bog'liq bo'lgan faoliyat turlari;
+====
+kompyuter sxemasi;
+++++
+Sun’iy intellekt tizimi (SIT) -bu ……………………………. hisoblanadi.
+====
+#kompyuterli va kreativ tizim, murakkab strukturali moslashish, maqsadga erishish uchun muhit o’zgarishiga moslashish va soha o’zgarishidagi ichki holat;
+====
+kompyuterli va nokreativ tizim, oddiy strukturali moslashish, maqsadga erishish uchun muhit o’zgarishiga moslashmaslik va soha o’zgarishidagi moslashuvchan holat;
+====
+kompyutersiz va kreativ tizim, oddiy strukturasiz moslashmaslik, maqsadga erishish uchun muhit o’zgarishiga moslashish va soha o’zgarishidagi bog‘liqlik holat;
+====
+kompyuterli va nokreativ tizim, uzluksiz strukturasiz moslashish, maqsadga erishish uchun muhit o’zgarishiga moslashmaslik va soha o’zgarmasligidagi moslashuvchan holat;
+++++
+Sun’iy intellekt sohasidagi tadqiqotlarning rivojlanishiga predikatlar mantiqi teoremalarini isbotlashga asoslangan Robisonning rezolyusiya usulining maqsadi………………………………. ishlab chiqishdan iborat bo’lgan.
+====
+#inson yechadigan masalalarni huddi insonga o’xshab echadigan dasturlarni;
+====
+inson yechmaydigan masalalarni huddi kompyuterga o’xshab echadigan dasturlarni;
+====
+inson yechadigan masalalarni huddi insonga o’xshab echmaydigan dasturlarni;
+====
+insonsiz yechiladigan masalalarni huddi insonga o’xshab echadigan dasturlarni;
+++++
+Sun’iy intellekt usullarini rivojlanishining birinchi pog’onasida tadqiqot maydonida masalalar sifatida…………………………………..  qaralgan.
+====
+#turli xil o’yinlar, boshqotirmalar, matematik masalalar;
+====
+inson echmaydigan masalalar;
+====
+insonga o’xshab echmaydigan dasturlar;
+====
+sezuvchi robotlar yaratish;
+++++
+Sun’iy intellekt usullarini rivojlanishining ikkinchi pog’onasi …………………………………..  bilan bog’liq.
+====
+#integrallashgan robotlarning yaratilishi;
+====
+sezuvchi robotlarning yaratishlishi;
+====
+exspert tizimlarning yaratishlishi;
+====
+gapiruvchi robotlarning yaratilishi;
+++++
+Prolog, FRL, KRL, GUS - nima?
+====
+#mantiqiy dasturlash tillari;
+====
+loyihalashni amalga oshiruvchi ekspert tizimlar;
+====
+biznes masalalarni boshqaruvchi muloqat tizimlar;
+====
+bank operatsiyalariga mo’ljallangan dasturlar;
+++++
+Sun’iy intellekt tamoyillariga asoslangan 5-avlod mashinalarining loyihasi dastlab qachon va qaerda ishlab chiqilgan?
+====
+#1981 yilda Yaponiyada;
+====
+1980 yilda AQSh da;
+====
+1981 yilda Kanadada;
+====
+1982 yilda Fransiyada;
+++++
+Ekspert tizimlar yo’nalishdagi masalalarga ………………. kabilar kiradi.
+====
+#inson-ekspertga qiyin tyulgan tadqiqotlar, bilimlarga va masalani echish uchun xulosalash proseduralariga asoslangan dasturlar yaratish;
+====
+inson-ekspertga qiyin tyulgan tadqiqotlar;
+====
+operatorga va foydalanuvchiga qiyin tyulgan tadqiqotlar;
+====
+bilimlarga va masalani echish uchun xulosalash proseduralariga asoslangan dasturlar yaratish;
+++++
+Integrallashgan va gibrid printsiplariga asoslan tizimlarning asosi - ……………………………………….kabilar hisoblanadi.
+====
+#bilimlar bazasi, bilimlarni avtomatik olish, deduktiv, abduktiv va noravshan mantiqiy xulosalash, muammoli-yo’naltirilgan muloqot tili, statik va dinamik axborotlarni qayta ishlash;
+====
+bilimlar bazasi, bilimlarni avtomatik olish, deduktiv, abduktiv va noravshan mantiqiy xulosalash;
+====
+muammoli-yo’naltirilgan muloqot tili, statik va dinamik axborotlarni qayta ishlash;
+====
+predmet sohada bilimlar va ma’lumotlar bazasiga ega bo’lgan alohida tizimlarni va loyihalarni ishlab chiqish;
+++++
+Integratsiyalashuv jarayonlar  ……………………………kabilar  bilan bog’liq.
+====
+#sun’iy intellektning turli modellarini, noravshan expert tizim va neyron tarmoqlarni  o’zida birlashtiruvchi integrallashgan va gibrid tizimlarini yaratish;
+====
+predmet sohada bilimlar va ma’lumotlar bazasiga ega bo’lgan alohida tizimlarni va loyihalarni ishlab chiqish;
+====
+sun’iy intellektning turli modellarini;
+====
+noravshan expert tizim va neyron tarmoqlarni  o’zida birlashtiruvchi integrallashgan va gibrid tizimlarini yaratish;
+++++
+Detsentrallashgan jarayonlar ………………………….. nuqtai nazaridan qaraladi.
+====
+#bir-biri bilan o'zaro bog’langan ko’p sonli intellektual agentlarning jamoaviy hatti-xarakati;
+====
+bir-biri bilan o'zaro bog’lanmagan ko’p sonli intellektual agentlarning jamoaviy hatti-xarakati;
+====
+bir-biri bilan o'zaro bog’langan tugunlar to’plami;
+====
+bir-biri bilan o'zaro bog’lanmagan semantikc tarmoq;
+++++
+Sun'iy intellektni modellashtirishning birinchi yondashuvida qaysi tadqiqot ob'ektidan foydalaniladi?
+====
+#inson miyasining tuzilishi va mexanizmlari;
+====
+sun'iy intellekt;
+====
+inson-mashina tizimi;
+====
+barcha javoblar to'g'ri;
+++++
+Kirish va chiqish signallariga qarab neyrotarmoqlarni qanday tiplarga ajratish mumkin.
+====
+#Uzlukli va uzluksiz;
+====
+Uzlukli va tabiiy;
+====
+Binar va parallel;
+====
+Ketma-ket va parallel;
+++++
+Bilimlarga asoslangan tizimlarning  asosiy yo’nalshlari  – bu…………..
+====
+#turli manbalardan va  ekspertlardan bilimlarni olish, bilimlarni namoyish    etish, bilimlarni boshqarish, bilimlar asosida tushuntirish;
+====
+turli manbalardan va  ekspertlardan bilimlarni olish, bilimlarni namoyish    etish, mashinali tarjima va musiqiy asarlarni tuzish;
+====
+bilimlarni namoyish etish, bilimlarni boshqarish, bilimlar asosida      tushuntirish musiqiy asarlarni tahlil qilish va avtomatik rafеrentlash;
+====
+turli manbalardan va  ekspertlardan bilimlarni olish, matnlarni tuzish va kuylash uslubini imitatsiya qilish;
+++++
+Neyronli qayta ishlash tizimlari–bu ……………….
+====
+#neyrokompyuterlar va neyroemulyatorlar;
+====
+neyronlar va neyroemulyatorlar;
+====
+neyrotarmoqlar va neyroemulyatorlar;
+====
+neyrostrukturalar va neyronlar.
+++++
+Neyroemulyatorlar - bu ……………….
+====
+#neyropaketlar, neyroilovalarni yaratuvchi  tizimlar va neyrotarmoqlar asosida tayyor echimlarni olish tizimlari;
+====
+neyronlar, signallar va aloqalar;
+====
+kirish signallari, neyrotarmoqlar va teskari aloqalar;
+====
+neyrostrukturalar va neyronlar birlashmasi;
+++++
+Expert tizimlar qaysi modelga asoslanadi?
+====
+fayl arxitekturasi
+====
+grafik interfeys
+====
+#bilimlar bazasi va inferensiya mexanizmi
+====
+internet protokollari
+++++
+Bilimlarni boshqarish -bu ……………….
+====
+#bilimlarni to’ldirish, sinflash, umumlashtirish va bilimlar asosida fikrlash;
+====
+bilimlarni olish, ekspertga qaytarish, ekspert bilan aloqa va fikrlash;
+====
+bilimlarni tahlillash, sintezlash, tushuntirish, algoritmlash;
+====
+bilimlarni yig’ish, o’chirish, sinflash va kompyuterga kiritish;
+++++
+Bilimlar modellari – bu …………………..
+====
+#semantik tarmoq, freym, mantiqiy tizim, produksiya va senariylar;
+====
+semantic tarmoq, integralli, differensialli, mantiqiy tizimlar;
+====
+strukturali, sxemali, grafikli, mantiqiy tizimlar va uzlukli tizimlar;
+====
+nostrukturali, nosemantikli, dasturli, produksiyali tizimlar;
+++++
+Bilimlar asosida xulosalash – bu …………………..
+====
+#rezolyutsiyali usullar, kvaziaksiomatik tizimlar va haqiqatga yaqin xulosalash;
+====
+semantic tarmoq, integralli, differensialli xulaslash;
+====
+strukturali, sxemali va grafikli xulosalash;
+====
+nostrukturali, nosemantikli va dasturli xulosalash;
+++++
+Sun’iy intellekta dasturlash paradigmalariga kiruvchilarni aniqlang?
+====
+#protsedurali, ma’lumotlarga, qoidalarga va obyektlarga mo’ljallangan      dasturlash;
+====
+modellarga, usullarga, ma’lumotlarga, strukturalarga mo’ljallangan dasturlash;
+====
+jadvallarga, strukturalarga, sxemalarga va grafiklarga  mo’ljallangan    dasturlash;
+====
+bo’lishga, qo’shishga, matnga, ovozga va nutqga mo’ljallangan     dasturlash;
+++++
+Belgili axborotlarni qayta ishlash dasturlarini aniqlang?
+====
+#PROLOG, LISP, CLIPS, EKLIPS, PLANNER, MERKURY;
+====
+KE, ARTS, GURU, G2, EKLIPS,;
+====
+ARTS, GURU,  ALISE, KL0, ShapeUp;
+====
+BUILD, EMYCIN, EXSYS, KL0, ShapeUp;
+++++
+Ekspert  tizimning qobig'larini aniqlang?
+====
+#BUILD, EMYCIN, EXSYS, Professional, ЭКСПЕРТ;
+====
+BUILD, EMYCIN, OPS-5, FRL;
+====
+EXSYS, Professional,  ALISE, KL0, ShapeUp;
+====
+Professional, ЭКСПЕРТ,  EXSYS, KL0, ShapeUp;
+++++
+Intellektual interfeys (Intelligent interface –bu …………………….
+====
+#foydalanuvchilar uchun matnli so'rovlarni qayta ishlash dasturlari orqali axborotlar kompleksi va foydalanuvchi resurslari o'rtasida o’zaro ta'sir o'tkazish interfeysi;
+====
+foydalanuvchilar uchun matnli so'rovlarni qayta ishlash va o’zaro ta'sir o'tkazish interfeysi,;
+====
+yordamch qurilmalar va kompyuter orasidagi muloqot;
+====
+kompyuterlar orasidagi muloqot;
+++++
+Autentifikatsiya – bu …………………….
+====
+#foydalanuvchining haqiqatan ham o'zi ekanligini tekshirish;
+====
+kompyuterni tekshirish,;
+====
+kompyuterlar orasidagi muloqotni tekshirish;
+====
+yordamch qurilmalar va kompyuter orasidagi aloqalarni  tekshirish;
+++++
+Identifikatsiya – bu  ……………………………..
+====
+#obyektni tanib olishdir;
+====
+obyektni sinflashdir;
+====
+obyektni boshqarishdir;
+====
+obyektni bo’laklash;
+++++
+Sun'iy intellektni qurishda asosiy yondashuvlarni aniqlang ?.
+====
+#mantiqiy, evolyutsiyali, strukturali va imitatsiyali;
+====
+mantiqiy, evolyutsiyali, integralli va imitatsiyali;
+====
+mantiqiy, neyronli, differensialli va imitatsiyali;
+====
+evolyutsiyali, funksiali, strukturali va imitatsiyali;
+++++
+Sun’iy intellektni qurishning mantiqiy yondashuvi uchun asos sifatida …………………. xizmat qiladi.
+====
+#Bul algebrasi;
+====
+Pitts algebrasi;
+====
+Fon Neyman prindipi;
+====
+Mak Kallok prinsipi;
+++++
+Noravshan mantiqda mulohazalar …………………… qiymatlarni qabul qiladi.
+====
+#oraliq;
+====
+ha yoki  yo’q;
+====
+chin yoki yolg’on;
+====
+Uzluksiz;
+++++
+Sun’iy intellektni qurishning strukturali yondashuvida ………modellashtiriladi.
+====
+#inson miyasining tuzilishi;
+====
+kompyuter xotirasining tuzilishi;
+====
+chin yoki yolg’on qiymatlar;
+====
+uzluksiz qiymatlar;
+++++
+Sun’iy intellektni qurishning evolyutsiyali yondashuvida ………..
+====
+#boshlang’ich modellar va qoidalar quriladi va ularni generatsiya qilish asosida yangi modellar quriladi;
+====
+faqat boshlang’ich modellar va qoidalardan foydalaniladi;
+====
+faqat uzlukli  modellar va qoidalardan foydalaniladi;
+====
+qisman uzlukli  modellar va uzluksiz qoidalardan foydalaniladi;
+++++
+Intellektual agentning asosiy elementi qaysi?
+====
+internet modem
+====
+faqat kamera
+====
+#sensor va aktuatorlar
+====
+printer va skaner
+++++
+Sun’iy intellektni qurishning imitatsiyali  yondashuvida ……modellashtiriladi.
+====
+#insonning boshqalardan nusxa olish qobiliyati
+====
+neyron tarmoqning  fikrlash qobiliyati
+====
+kompyuterning nusxa olish qobiliyati modellashtiriladi
+====
+printerning nusxa olish qobiliyati modellashtiriladi
+++++
+Exspert tizimlar  ko’proq  qanday bilimlarga asoslanadi
+====
+#exspertlarning empirik bilimlari asosida shakllantirilgan bilimlarga
+====
+kitoblardan olingan bilimlarga
+====
+ilmiy jurnallardan olingan bilimlarga
+====
+gazetadan olingan bilimlarga
+++++
+Turing testi nima uchun ishlatiladi?
+====
+operatsion tizimni o‘rnatish uchun
+====
+internet tezligini o‘lchash uchun
+====
+#mashina insondek fikrlay olishini tekshirish uchun
+====
+fayllarni tiklash uchun
+++++
+Zaif sun’iy intellektning asosiy xususiyati?
+====
+hamma vazifani bajaradi
+====
+inson o‘rnini to‘liq bosadi
+====
+#faqat bitta vazifaga ixtisoslashgan
+====
+o‘z-o‘zini anglaydi
+++++
+Kuchli sun’iy intellekt qanday bo‘ladi?
+====
+faqat o‘yin o‘ynaydi
+====
+faqat hisob-kitob qiladi
+====
+#inson darajasida fikrlay oladi
+====
+faqat tasvir tanish vazifasini bajaradi
+++++
+MYCIN qaysi tilda yozilgan?
+====
+Java
+====
+C++
+====
+#LISP
+====
+Python
+++++
+Ekspert tizimda “inferensiya mexanizmi” nima qiladi?
+====
+ma’lumotni saqlaydi
+====
+grafika chizadi
+====
+#qaror chiqaradi
+====
+internetga ulanadi
+++++
+Data Miningning asosiy maqsadi?
+====
+fayllarni siqish
+====
+kompyuterni optimallashtirish
+====
+#katta ma’lumotlardan bilim ajratish
+====
+elektron pochta yuborish
+++++
+Agentlarning vazifasi?
+====
+faqat rasm chizish
+====
+faqat audio eshitish
+====
+#atrof-muhitni sezish va qaror qabul qilish
+====
+kompyuter grafikasini ishlab chiqish
+++++
+K-Means qanday algoritm?
+====
+klassifikatsiya
+====
+regressiya
+====
+#klasterlash
+====
+shifr
+++++
+Tibbiyotda qo’llaniladigan expert tizimlarni ko’tsating ?
+====
+#MYCIN, PUFF, MODIS
+====
+MIXER, MYCIN, ACE
+====
+DART, HANNIBAL, PUFF
+====
+MYCIN, MIDAS, ACES
+++++
+Harbiy sohada qo’llaniladigan expert tizimlarni ko’tsating ?
+====
+#DART, HANNIBAL, I&W;
+====
+MIXER, MYCIN, ACE;
+====
+DART, HANNIBAL, PUFF;
+====
+MYCIN, MIDAS, ACES;
+++++
+AI tarixida birinchi chatbot?
+====
+Siri
+====
+Alexa
+====
+#ELIZA
+====
+ALICE
+++++
+CNN tarmog‘i qaysi vazifaga mo‘ljallangan?
+====
+Audio yozishni tahlil qilish
+====
+Statistik ma’lumotlarni hisoblash
+====
+#Tasvirni tanish va analiz qilish
+====
+Internet trafikini nazorat qilish
+++++
+Supervised learning nimani anglatadi?
+====
+Ma’lumotlarsiz o‘rganish
+====
+Tasodifiy ma’lumotlar bilan o‘rganish
+====
+#Natijalar ma’lum bo‘lgan holda o‘rganish
+====
+Algoritmni o‘z-o‘zini kuzatmasdan ishlash
+++++
+Backpropagation qaysi algoritmga tegishli?
+====
+K-Means
+====
+Naive Bayes
+====
+#Chuqur neyron tarmoqlarga
+====
+Logistik regressiya
+++++
+AI da “unsupervised learning” nimani anglatadi?
+====
+Natijalar bilan o‘rganish
+====
+Faqat statistik tahlil
+====
+#Natijalarsiz o‘rganish
+====
+Algoritmni qo‘lda boshqarish
+++++
+Chatbotlar qaysi texnologiyaga asoslanadi?
+====
+Robototexnika
+====
+Kiberxavfsizlik
+====
+#Natural Language Processing (NLP)
+====
+Sun’iy neyron tarmoqlar
+++++
+Mashinali o‘qitishda overfitting nima?
+====
+Modelning juda oddiy bo‘lishi
+====
+Natijalarni tasodifiy chiqarish
+====
+#Model o‘quv ma’lumotlariga haddan tashqari moslashishi
+====
+Modelning ishlash vaqtini kamaytirish
+++++
+CNN tarmog‘i qaysi vazifada eng ko‘p ishlatiladi?
+====
+Matematika masalalarini yechish
+====
+Matn tahlili
+====
+#Rasm va tasvirlarni tanish
+====
+Internet trafikini nazorat qilish
+++++
+Informatika sohasida qo’llaniladigan expert tizimlarni ko’tsating ?
+====
+#RUBRIC, CODES, MIXER;
+====
+DART, MYCIN, ACE;
+====
+DART, HANNIBAL, PUFF;
+====
+I&W, MYCIN,  ACES;
+++++
+Sun'iy intellektdan foydalanishning funktsional tuzilishi qanday komplekslardan iborat?
+====
+#Bajaruvchi tizim, intellektual interfeys, bilimlar bazasi;
+====
+Foydalanuvchi, muloqot tizimi, programmalar;
+====
+Hisoblash, translyatorlar, axborotli qatlam;
+====
+Konseptual qatlam, bajaruvchi, izlash vositalari;
+++++
+Ma’lumotlar nima?
+====
+#obyektlar, jarayonlar va hodisalarni hamda ularning xossalarini  tavsiflaydi;
+====
+faqat obyektlar, jarayonlar va hodisalarni tavsiflaydi;
+====
+faqat mantiqiy obyektlar tavsiflaydi;
+====
+funksional va strukturali jarayonlarni tavsiflaydi;
+++++
+Bilimlar nima?
+====
+#obyektiv qonuniyatlar;
+====
+obyektlar to’plami;
+====
+exspertlar to’plami;
+====
+predmet sohadagi masalalar to’plami;
+++++
+Aniq obyekt yoki obyeltlar sinfini (narsalar, jarayonlar, hodisalar va h.k.) tavsiflaydigan bilimlar qanday bilimlar ?
+====
+#Obyektiv bilimlar;
+====
+Subyektiv  bilimlar;
+====
+Metabilimlar;
+====
+Imitatsiyali bilimlar;
+++++
+Bilimlarni izohlashlar nuqtai-nazaridan birlashtirilgan to’g’ri guruhlarni  ko’rsating?
+====
+#Psixologikli, intellektualli, formalli-mantiqli va axborotli-texnologokli;
+====
+Psixologikli, intellektualli, integralli  va belgili;
+====
+Metabilimli, formalli-mantiqli va formulali;
+====
+Ta’sir etuvchili, o’zgaruvchili,  bilimli;
+++++
+Bilimlarni izohlashlar nuqtai-nazaridan to’g’ri birlashtirilgan guruhlarni ko’rsating?
+====
+#Psixologikli, intellektualli, formalli-mantiqli va axborotli-texnologokli;
+====
+Psixologikli, intellektualli, integralli  va belgili;
+====
+Metabilimli, formalli-mantiqli va formulali;
+====
+Ta’sir etuvchili, o’zgaruvchili,  bilimli;
+++++
+Bilimlar manbalardan olinishiga qarab qanday tiplarga bo’linadi?
+====
+#Aprior va hosil qilinadigan bilimlar;
+====
+Psixologikli, intellektualli va formulali bilimlar;
+====
+Metabilimli, formalli-mantiqli va formulali bilimlar;
+====
+Aprior va ta’sir etuvchili, o’zgaruvchili bilimlar;
+++++
+Hosil qilinadigan bilimlarning qanday turlari mavjud?
+====
+#Exspertli, kuzatiladigan va xulosalaydigan bilimlar;
+====
+Psixologikli, intellektualli va kuzatiladigan bilimlar;
+====
+Metabilimli, formalli-mantiqli va xulosalaydigan bilimlar;
+====
+Aprior va ta’sir etuvchili, kuzatiladigan bilimlar;
+++++
+Masalalarni echishda foydalanish darajasiga bog’liqligi bo'yicha bilimlarning qanday turlari mavjud?
+====
+#Deklarativli, protsedurali va metabilimlar;
+====
+Psixologikli, protsedurali va metabilimlar;
+====
+Exspertli, kuzatiladigan va xulosalaydigan bilimlar;
+====
+Aprior va ta’sir etuvchili, kuzatiladigan bilimlar;
+++++
+Masalalarni echishda ishonchlilik darajasi bo’yicha bilimlarning qanday turlari mavjud?
+====
+#Muayyan, noravshan;
+====
+Psixologikli, protsedurali;
+====
+Exspertli, kuzatiladigan;
+====
+Apriorli, kuzatiladigan;
+++++
+Masalalarni echishda maqsadga yo’naltirilganligi bo’yicha bilimlarning qanday turlari mavjud?
+====
+#Nusxa oluvchi, tanishtiruvchi, qobilyatni rivojlantiruvchi, malakani  oshiruvchi;
+====
+Muayyan, noravshan, qobilyatni rivojlantiruvchi, malakani  oshiruvchi;
+====
+Nusxa oluvchi, tanishtiruvchi, exspertli, kuzatiladigan;
+====
+Apriorli, kuzatiladigan, psixologikli, protsedurali;
+++++
+Obyektlarni va ular orasidagi munosabatlarni tavsivlash uchun qo’llanildigan bilimlarni ko’rsating?
+====
+#Deklarativ bilimlar;
+====
+Qobilyatni rivojlantiruvchi bilimlar;
+====
+Protsedurali bilimlar;
+====
+Kuzatiladigan bilimlar;
+++++
+O’zini-o’zi izohlovchi bilimlar qaysi bilimlar turiga kiradi?
+====
+#Protsedurali bilimlar;
+====
+Qobilyatni rivojlantiruvchi bilimlar;
+====
+Kuzatiladigan bilimlar;
+====
+Deklarativ bilimlar;
+++++
+Bilimlar haqidagi bilimlar qaysi bilimlar turiga kiradi?
+====
+#Metabilimlar;
+====
+Qobilyatni rivojlantiruvchi bilimlar;
+====
+Texnologik bilimlar;
+====
+Deklarativ bilimlar;
+++++
+Extensionallibilimni ko’rsating?
+====
+#Axmedov oliy ma’lumotli diplomga ega;
+====
+Axmedov oliy ma’lumotli diplomga ega bo’lishi mumkin, masalan, bakalavr;
+====
+Abiturient o’qishga kirishi uchun, u test savollaridan 68 balldan yuqori    ball to’plashi kerak;
+====
+Agar geometrik figuraning ichki burchaklari yig’indisi 180 gradus bo’lsa,  u holda bu uchburchak;
+++++
+Intensionalli bilimni ko’rsating?
+====
+#Talaba stipendiyatlar tanlovida qatnashishi uchun, u barcha fanlardan a’lo baho  o’lgan bo’lishi kerak;
+====
+Axmedov oliy ma’lumotli diplomga ega;
+====
+Talabalar binoga kirdilar;
+====
+Printer stol ustida turibdi;
+++++
+Qaysi javobda bilimlarning xususiyatlari to’g’ri ko’rsatilgan?
+====
+#Ichki izohlanuvchanlik, strukturaviylik, bog’langanlik, semantik metrika, faollik;
+====
+To’liqlik, strukturaviylik, bog’langanlik, natijaviylik, faollik;
+====
+Natijaviylik, strukturaviylik, bog’langanlik, semantik metrika, bir qiymatlilik;
+====
+Strukturaviylik, ichki izohlanuvchanlik, to’liqlik, faollik;
+++++
+Bilimlarni tushunishning uchinchi darajasi nima bilan xarakterlanadi?
+====
+#Atrof - muhit haqidagi tizimlar bilimlari bilan matnni to’ldirish qoidalarining qo’shilishi bilan xarakterlanadi;
+====
+Matndan tashqari matn manbai bo’lgan va tizim xotirasida aloqaga taalluqli umumiy axborotlarni saqlaydigan muayyan subyekt haqidagi axborotdan foydalanishi bilan xarakterlanadi.
+====
+Matndan kiritilgan savollarga javobni tizim to’g’ridan-to’g’ri ma’nosiga  asoslanib shakllantirish sxemasi bilan xarakterlanadi;
+====
+Matndagi ma’lumotlarga asoslangan mantiqiy xulosa qilish vositalari qo’shilishi bilan xarakterlanadi;
+++++
+…………………..–bu qandaydir tushunchani figura, yozuv, til yoki formal shaklda qabul qilinadigan amal hisoblanadi.
+====
+#Tasvirlash;
+====
+Bilimlarni tasvirlash;
+====
+Bilimlarni formallashtirish;
+====
+Bilimlar;
+++++
+Supervised learning algoritmlariga misol?
+====
+K-Means
+====
+Autoencoder
+====
+#Logistik regressiya
+====
+PCA
+++++
+K-Means algoritmi qaysi turga kiradi?
+====
+Supervised learning
+====
+Reinforcement learning
+====
+#Unsupervised learning
+====
+Deep learning
+++++
+Naive Bayes algoritmi qaysi turga kiradi?
+====
+Unsupervised learning
+====
+Deep learning
+====
+#Supervised learning
+====
+Reinforcement learning
+++++
+Ma’lumotlarni tasvirlash modellarini ko’rsating?
+====
+#Ierarxikli, tarmoqli, obyektli, relyatsiyali, obyektli-rellyatsiyali,ko’po’lchovli;
+====
+Ierarxikli, grafikli, belgili, relyatsiyali, obyektli-rellyatsiyali, ko’po’lchovli;
+====
+Ierarxikli, grafikli, integrally, jadvalli, relyatsiyali, ko’po’lchovli;
+====
+Ierarxikli, grafikli, belgili, relyatsiyali, belgili-rellyatsiyali, bir o’lchovli;
+++++
+Bilimlarni  tasvirlash modellarini ko’rsating?
+====
+#Freymli, semantik tarmoqli, formal-mantiqiy, produksiyali;
+====
+Freymli, grafikli, belgili, relyatsiyali, obyektli-rellyatsiyali, ko’po’lchovli;
+====
+Formal-mantiqiy, grafikli, integrally, jadvalli, relyatsiyali;
+====
+Ierarxikli, produksiyali, belgili, relyatsiyali, belgili-rellyatsiyali;
+++++
+Formal modellarda mantiqiy xulosalash nimaga asoslanadi?
+====
+#Qat’iy aksiomatik qoidalarga;
+====
+Qat’iy dinamik qoidalarga;
+====
+Qat’iy stastik qoidalarga;
+====
+Qat’iy o’zgaruvchilarga;
+++++
+Noformal modellarda mantiqiy xulosalash nimaga asoslanadi?
+====
+#Ko’pincha tadqiqotchi tomonidan aniqlanadi;
+====
+Ko’pincha  qat’iy dinamik qoidalarga;
+====
+Qat’iy stastik qoidalarga;
+====
+Ko’pincha  o’zgaruvchilarga;
+++++
+Formal modellar ifodasini aniqlang?
+====
+#F=(A,V, W, R) ;
+====
+М=<1, O, Т, Р, А, В, I, G>;
+====
+H=<I, C1, C2, …, Cn, Г>;
+====
+i; Q; P, A→B, N;
+++++
+Freym- bu ……………………….. kabi mazmunlarda ishlatiladi.
+====
+#paycha, panjara, ichki skelet;
+====
+protofreym, produksiy;
+====
+slot, freym-ekzemplyar;
+====
+slot, freym-ekzemplyar, senariy;
+++++
+Senariyning maxsus slotlari sifatida ……………………….. kabilar keladi.
+====
+#senariylar, maqsad, sahna va rol;
+====
+protofreym, produksiy;
+====
+senariylar, freym-ekzemplyar;
+====
+slot, freym-ekzemplyar, senariy;
+++++
+Daraxtda VA – strukturalarga ……………………mos keladi.
+====
+#bog’langan tugunlar;
+====
+tupikli va siklli tugunlar;
+====
+bog’lanmagan tugunlar;
+====
+bo’sh tugunlar;
+++++
+Daraxtda YOKI  – strukturalarga ……………………mos keladi.
+====
+#bog’lanmagan tugunlar;
+====
+tupikli va siklli tugunlar;
+====
+bog’langan tugunlar;
+====
+bo’sh tugunlar;
+++++
+Butunni qism elementlarga ajratishda ularning har birini alohida qaraydigam  mantiqiy usul-bu……………….
+====
+#tahlil;
+====
+sintez;
+====
+induksiya;
+====
+Deduksiy;
+++++
+Tahlil natijasida olingan barcha ma’lumotlar birlashmasi-bu……………?
+====
+#sintez;
+====
+tahlil;
+====
+induksiya;
+====
+deduksiy;
+++++
+Fikrning hususiylikdan umumiylikga, qator faktorlardan qonunga harakat jarayoni-bu…………………..
+====
+#induksiya;
+====
+tahlil;
+====
+sintez;
+====
+Deduksiy;
+++++
+Fikrning umumiylikdan hususiylikga, qonundan alohidalikning namoyon bo’lishiga harakat jarayoni-bu………………
+====
+#deduksiy;
+====
+tahlil;
+====
+sintez;
+====
+abstraktlashtirish;
+++++
+Predikatlar mantiqi elementar mulohazani ………………..qismlarga bo’ladi.
+====
+#subyekt va predikat;
+====
+tahlil va sintez;
+====
+mavjudlik va umumiylik;
+====
+mavjudlik, umumiylik va kon’yunksiya;
+++++
+……………….–bu mulohazada biror narsa haqida nimadir tasdiqlaydi, …………………– bu subyektni tasdiqlash.
+====
+#subyekt; predikat;
+====
+tahlil; sintez;
+====
+mavjudlik; umumiylik;
+====
+induksiya; deduksiya;
+++++
+«Zarrux-talaba» mulohazasida «Zarrux» -………….., «talaba» -…………. ..
+====
+#subyekt; predikat;
+====
+tahlil; sintez;
+====
+mavjudlik; umumiylik;
+====
+induksiya; deduksiya;
+++++
+Agar   formula ifodasiga kiruvchi va   sohaga oid o’zgaruvchilarning shunday qiymatlari mavjud bo’lib, bu qiymatlarda   formula chin qiymat qabul qilsa, u holda predikatlar mantiqining   formulasi   sohada ………………………….formula deb aytiladi.
+====
+#bajariluvchi;
+====
+bajarilmas;
+====
+umumqiymatli;
+====
+aynan chin;
+++++
+Agar   ning ifodasiga kiruvchi va   sohaga oid hamma o’zgaruvchilarning qiymatlarida   formula chin qiymat qabul qilsa, u holda   formula   sohada ……………… formula deb aytiladi.
+====
+#aynan chin;
+====
+aynan yolg’on;
+====
+bajariluvchi;
+====
+umumqiymatli;
+++++
+Agar   ning ifodasiga kiruvchi va   sohaga oid hamma o’zgaruvchilarning qiymatlarida   formula yolg’on qiymat qabul qilsa, u holda   formula   sohada ……………… formula deb aytiladi.
+====
+#aynan yolg’on;
+====
+umumqiymatli;
+====
+bajariluvchi;
+====
+aynan chin;
+++++
+Agar   formula har qanday sohada ……… bo’lsa, u holda   ga umumqiymatli formula deb aytiladi.
+====
+#aynan chin;
+====
+aynan yolg’on;
+====
+bajariluvchi;
+====
+chin va yolg’on;
+++++
+Qandaydir tasdiqlarni qabul qilishga olib keladigan (majbur qiladigan) argument(fakt)lar ketma-ketligi-bu ………………deyiladi.
+====
+#fikrlash;
+====
+tahlil;
+====
+teskari induksiya;
+====
+teskari deduksiya;
+++++
+Kuzatilayotgan hodisa va faktorlarni tushuntiruvchi gipotezalarni shakllantirish jarayoni – bu ………………..
+====
+#abduksiya;
+====
+induksiya;
+====
+deduksiya;
+====
+tahlil;
+++++
+Quyidagi qoida mavjud: «Ushbu auditoriyadagi барча talabalar bakalavriatlar»; Kuzatish natijasi quyidagicha: «Bu talabalar bakalavriatlar»; U holda abduksiya bo’yicha keltirrrilgan to’g’ri xulosani toping?
+====
+#«Bu bakalavriatlar ushbu auditoriyadan chiqqan»;
+====
+«Bu bakalavriatlar ushbu auditoriyadan chiqmaqan»;
+====
+«Bu talabalar ushbu auditoriyadan chiqqan»;
+====
+«Bu talabalar ushbu auditoriyadan chiqmaqan»;
+++++
+Berilgan: x; y.x: Fariza -talaba; y: Fariza – a’lo baho olishga haqli; Induktiv xulosalash to’g’ri ko’rsatilgan javobni toping?
+====
+#Barcha talabalar a’lo baho olishga haqli;
+====
+Barcha talabalar a’lo baho olishga haqli emas;
+====
+Barcha a’lo bahoga o’qiydiganlar-talaba;
+====
+A’lo bahoga o’qiydiganlarning barchasi-talaba;
+++++
+«Semantik tarmoq» termini qaysi olimning ishlarida paydo bo’lgan?
+====
+#R.Kullian;
+====
+Saymon;
+====
+Pirs;
+====
+Richanson;
+++++
+……………………………- bu yo’naltirilgan gtaf bo’lib, uning tugunlari -tushunchalarga, yoylari esa -tugunlar orasidagi munosabatlarga mos keladi.
+====
+#Semantik tarmoq;
+====
+Sintaktik tarmoq;
+====
+Morfologik tarmoq;
+====
+Mantiqiy tarmoq;
+++++
+Tarmoqda tugunlarga qo’yilgan chegaralar va ular orasidagi aloqalarga qarab tarmoqlar qanday tiplarga bo’linadi?
+====
+#oddiy, ierarxikli, birjinsli, birjinslimas;
+====
+oddiy, assotsativ, ko’pjinsli, birjinslimas;
+====
+ierarxikli, kauzalli, propozitsiyali, birjinslimas;
+====
+birjinsli, assotsoativ, funksiomal, birjinslimas;
+++++
+Munosabatlar turiga qarab tarmoqlar qanday tiplarga bo’linadi?
+====
+#binarli, N-arli;
+====
+oddiy, binarli;
+====
+ierarxikli, kauzalli;
+====
+birjinsli, assotsoativ;
+++++
+Predmet sohadagi obyektlar, jarayonlar o’rtasidagi munosabatlarga qarab tarmoqlar qanday tiplarga bo’linadi?
+====
+#Sinflovchi, funksionalli, semantikli, freymli, senariyli;
+====
+oddiy, binarli, funksionalli, semantikli;
+====
+ierarxikli, kauzalli, oddiy, binarli;
+====
+birjinsli, assotsoativ, semantikli, freymli;
+++++
+Qaysi tarmoqlarda tushuncha sifatida inson xotirasida saqlangan  bilimlarning  ba’zi bir aspektlari aks ettiriladi?
+====
+#Assotsiativli;
+====
+Semantikli;
+====
+Ierarxikli;
+====
+Freymli;
+++++
+Qaysi tarmoqli modelda turli xil bog`lanishlarga ruxsat etiladi?
+====
+#Semantikli;
+====
+Assotsiativli;
+====
+Ierarxikli;
+====
+Freymli;
+++++
+Qaysi tarmoqlarda tugunlarga funksiyalar, yo’larga esa funksiyning argumenlari mos qo’yiladi?
+====
+#Funksional tarmoqlarda;
+====
+Assotsiativ tarmoqlarda;
+====
+Kauzal tarmoqlarda;
+====
+Semantik tarmoqlarda;
+++++
+Semantik tarmoqda barcha munosabatlar binar munosabatlardan iborat bo’lsa, u holda ular qaysi grafni tashkil qiladi?
+====
+#Relyatsion grafni;
+====
+Kauzal grafni;
+====
+Assotsiativ grafni;
+====
+Uzluksiz  grafni;
+++++
+Semantik tarmoqda barcha munosabatlar N-ar munosabatlardan iborat bo’lsa, u holda ular qaysi grafni tashkil qiladi?
+====
+#Konseptualli grafni;
+====
+Kauzal grafni;
+====
+Assotsiativ grafni;
+====
+Relyatsion grafni;
+++++
+Agar semantik tarmoqda munosabatlarning ichma-ichligi bir nechta bo’lsa, u holda ular qaysi tarmpqni tashkil qiladi?
+====
+#Propozitsiyali tarmoqni;
+====
+Kauzal tarmoqni;
+====
+Assotsiativ tarmoqni;
+====
+Relyatsion grafni;
+++++
+Agar semantik tarmoqda hodisalarni tasvirlash uchun ko’proq markazda fe’l bilan kelgan graf  qaysi grafni tashkil qiladi?
+====
+#Rast’e grafini;
+====
+Propozitsiyali grafini;
+====
+Assotsiativ grafini;
+====
+Relyatsion grafni;
+++++
+Semantik tarmoqlarda ierarxikli tipli munosabatlarni ko’rsating?
+====
+#“ISA”, “AKO”, “butun-qism” munosabatlari;
+====
+“sabab-oqibat”, AKO, “butun-qism” munosabatlari;
+====
+“ISA”, “fakt-xulosat”,  “sabab-oqibat” munosabatlari;
+====
+“va”, “yoki”, “butun-qism” munosabatlari;
+++++
+Semantik tarmoqlarda funksional munosabatlarni ko’rsating?
+====
+#«kelib chiqadi», «ta’sir etadi» munosabatlari;
+====
+“sabab-oqibat”,  “butun-qism” munosabatlari;
+====
+“ISA”, “fakt-xulosat” munosabatlari;
+====
+“va”, “yoki” munosabatlari;
+++++
+Semantik tarmoqlarda fazoli munosabatlarni  ko’rsating?
+====
+#«dan uzoq», «ga yaqin», «ustida», «tagida» munosabatlari;
+====
+“sabab-oqibat”,  “butun-qism”, «tagida», «yuqorida» munosabatlari;
+====
+“ISA”, “fakt-xulosat”, «ga yaqin», «ustida»  munosabatlari;
+====
+“va”, “yoki”, «dan uzoq», «ga yaqin» munosabatlari;
+++++
+Semantik tarmoqlarda vaqtli munosabatlarni  ko’rsating?
+====
+#«oldin», «keyin», «bilan birvaqtda» munosabatlari;
+====
+“sabab-oqibat”,  «oldin»,  «tagida», «yuqorida» munosabatlari;
+====
+«oldin», «keyin», «ga yaqin», «ustida»  munosabatlari;
+====
+«bilan birvaqtda», «dan uzoq», «ga yaqin» munosabatlari;
+++++
+Semantik tarmoqlarda atributli munosabatlarni  ko’rsating?
+====
+#«xususiyatga ega», «qiymatga ega» munosabatlari;
+====
+«xususiyatga ega», «oldin» munosabatlari;
+====
+«qiymatga ega», «ga yaqin»  munosabatlari;
+====
+«bilan birvaqtda», «dan uzoq» munosabatlari;
+++++
+GPS tizimi kimlar tomonidan yaratilgan?
+====
+#Nyuell va Saymon;
+====
+Nyuell va Kallok;
+====
+Saymon va Post;
+====
+Post va Rozenblat;
+++++
+Amaliy nuqtai nazaridan mahsulotni qoida-mahsulot ko’rinishda qanday juftliklar yordamida ifodalash mumkin?
+====
+#vaziyat→harakat; asoslar→xulosa; sabab→oqibat;
+====
+element→harakat; qism→butun; sabab→oqibat;
+====
+qism→butun; xulosa→sabab; sabab→oqibat;
+====
+element→sinf; argument→funksiya; sabab→oqibat;
+++++
+Agar xodimda diplom va tajriba (T) бўлса, u holda u ishga kiradi (IK) va  bir maromda ishlaydi (ISH). Ushbu mulohaza uchun tuzilgan to’g’ri  mahsyliy qoidani korsating?
+====
+#D˄T→IK˄ ISH;
+====
+D˄T→IK˅ ISH;
+====
+D˅T→IK˄ ISH;
+====
+IK↔ ISH →В↔ Н;
+++++
+Determinallashgan yadrolarda yadro faollashganda va A bajarilganda yadroning ………………………………...
+====
+#o`ng qismi albatta bajariladi;
+====
+o`ng qismi qisman bajariladi;
+====
+chap va ong qismi yolg’on bo’ladi;
+====
+chap qismi chin va ong qismi yolg’on bo’ladi;
+++++
+Determinallashmagan yadrolarda A bajarilganda yadroning  ………………………………...
+====
+#o`ng qismi bajarilishi yoki bajarilmasligi ham mumkin;
+====
+o`ng qismi albatta bajariladi;
+====
+o`ng qismi albatta bajarilmaydi;
+====
+chap qismi chin va ong qismi yolg’on bo’ladi;
+++++
+Dinamik mahsuliy tizimlar qanday modullardan iborat bo’ladi?
+====
+#global ma’lumotlar bazasi; qoidalar-mahsulotlar to’plami; boshqarish tizimi yoki interpretator;
+====
+lokal ma’lumotlar bazasi; asoslar-xulosalar to’plami; boshqarish tizimi yoki interpretator;
+====
+global ma’lumotlar bazasi; elimemt -sinflar to’plami; bilimlar bazasi;
+====
+local bilimlar bazasi; qism -butunlar to’plami; bilimlarni hosil qilish bazasi;
+++++
+To’g’ri xulosalashda izlash mahsulotning ……… tomonidan boshlanadi, ya’ni …………bajarilishidan bo’g’liq bo’lgan ………….. faollashadi;
+====
+#chap; A ning; B mahsulotlar;
+====
+o’ng; A ning; B mahsulotlar;
+====
+chap; B ning; A mahsulotlar;
+====
+ong; B ning; A mahsulotlar;
+++++
+Teskari xulosalashda izlash mahsulotning  ……… tomonidan boshlanadi, ya’ni ……………bajarilishi uchun zarur bo’lgan ……………qiymatlari izlanadi;
+====
+#o’ng; B shartning; A ning;
+====
+o’ng; A ning; B shartning;
+====
+chap; B shartning; A ning;
+====
+chap; A ning; B shartning;
+++++
+Freym termini ………………tomonidan taklif qilingan bo’lib, ……………. kabi mazmunlarni bildiradi.
+====
+#1975-yilda M.Minskiy; paycha, panjara, ichki skelet;
+====
+1971-yilda M.Minskiy; tarmoq, qatlam, boshqarish;
+====
+1975-yilda Nyuell; paycha, panjara, ichki skelet;
+====
+1974-yilda M.Minskiy; tarmoq, qatlam, boshqarish;
+++++
+Qandaydir obyekt, hodisa, vaziyat va jarayonning mohiyatini minimal tavsiflovchi mavhum timsolning modeli-bu………………..
+====
+#freym;
+====
+slot;
+====
+exspert tizim;
+====
+Tarmoq;
+++++
+“Slot”  termini ……………. kabi tushunchalarni anglatadi.
+====
+#teshik, kovak, tirqish, yoriq;
+====
+qiymat, nom, kovak, tirqish;
+====
+nom, aylana, munosabat, aloqa;
+====
+namuna, xulosa, mantiq, tatmoq;
+++++
+Slotlar(maydon)dan iborat ma’lumotlar strukturasi –bu…………..
+====
+#freym;
+====
+qiymat;
+====
+nom;
+====
+namuna;
+++++
+Insonnig predmet soha haqidagi fikrlash jarayonini tasvirlovchi va haqiqiy olam obyektlarining ierarxiyasini yaxshi tizimlashtirishga imkoniyat yaratuvchi model -bu ……………
+====
+#freymli model;
+====
+matematik model;
+====
+statistik model;
+====
+analitik model;
+++++
+Freymning tuzilmasi to’g’ri keltirilgan javobni ko’rsating?
+====
+#Slot nomi [stot qiymati];
+====
+Ma’lumot turi, ma’lumot hajmi va formati;
+====
+Barcha javoblar to’g’ri;
+====
+Fryemda tuzilma mavjud bo’lmaydi;
+++++
+Freymning  konstruksiyda harflarning ma’nosi to’g’ri ko’rsatilgan javobni aniqlang.
+====
+#-freym nomi,  -slot nomi,  -slotning qiymati;
+====
+-slotning qiymati,  -slot nomi,  - freym nomi;
+====
+- freym nomi,  -slot nomi, -slotning qiymati;
+====
+- slot nomi,  - freym nomi, -slotning qiymati;
+++++
+Slot  nomida maxsus  ma’noga ega  bo’lgan, ya’ni bilimlar bazasini tahrirlash va chiqarishni boshqarishda ishlatiladigan maxsus nomlar qaysi javobda to’g’ri keltirilgan?
+====
+#IS-A, HASPART, RELATIONS, FIND BY, COMMENT;
+====
+FRAME, INTEGER, REAL, IS-A, HASPART, RELATIONS;
+====
+FRAME, INTEGER, REAL, BOOL, Linked, TEXT;
+====
+LIST, TABLE, EXRRESSION,  FIND BY, COMMENT;
+++++
+Attributlar (ma’lumotlar tipi) ko'rsatkichi qaysi javobda to’g’ri keltirilgan?
+====
+#FRAME, INTEGER, REAL, BOOL, Linked, TEXT, LIST, TABLE;
+====
+FRAME, SAME, REAL, HASPART, EXRRESSION, COMMENT;
+====
+UNIQUE, INTEGER, REAL, BOOL, EXRRESSION, COMMENT;
+====
+RANGE, TABLE, EXRRESSION, COMMENT, REAL, BOOL;
+++++
+Freymlarni tashqi tasvirlashda slotga tushuntirishlarda qanday kengaytmali fayllardan foydalaniladi?
+====
+#(*.txt) yoki (*.bmp);
+====
+(*.pdf) yoki (*.bmp);
+====
+(*.exe) yoki (*.bmp);
+====
+(*.txt) yoki (*.exe);
+++++
+To'ldirilmagan freym ………….. va to'ldirilgan freym esa ………….. deb ataladi?
+====
+#protofreym; ekzofreym;
+====
+ekzofreym; protofreym;
+====
+bo’sh; to’liq;
+====
+demon; slot;
+++++
+Slotlarining  qiymatlari aniqlangan freym –bu ………………hisoblanadi
+====
+#freym ekzemplyari;
+====
+protofreym ekzemplyari;
+====
+ekzofreym ekzemplyari;
+====
+demon;
+++++
+Freym-ekzemplyarda slotlarning qiymatlarni olishining uslublari to’g’ri ko’rsatilgan javobni ko’rsating.
+====
+#slotda ko'rsatilgan formuladan, ma'lumotlar bazasidan va  Default-qiymatdan foydalanib, birlashtirilgan protsedura yordamida;
+====
+matematik munosabatlar, matnlar, tarmoqlar, yoylar, tugunlar, protofreym ekzemplyarlardsi;
+====
+raqamlar, munosabatlar, matematik munosabatlar, matnlar, dasturlar, xulosalash qoidalari;
+====
+mavjud freym, boshqa freymlarning  boshqa slotlariga havolalar, "ichkima-ichki joylashish";
+++++
+Freymlarning turlari to’g’ri ko’rsatilgan javobni ko’rsating.
+====
+#freym-sinf, freymlar-rollar, freymlar-strukturalar, freymlar-senariylar, freymlar-vaziyatlar, freym-экземпляр, freymм-namuna;
+====
+freym-munosabatlar, freym-matnlar, freym-tarmoqlar, freym-sinf, freymlar-rollar, freym-экземпляр;
+====
+freym-экземпляр, freym-raqamlar, freym-munosabatlar, freym-matnlar, freym-dasturlar, freym-qoidalar;
+====
+freymlar-vaziyatlar, freym-экземпляр, freymм-namuna, freym-munosabatlar, freym-matnlar, freym-dasturlar;
+++++
+…………………….–bu obyektlar va tushunchalarni (kiritma (zayem), garov, veksel) belgilash uchun foydalanish.
+====
+#Freymlar-strukturalar;
+====
+Freymlar-munosabatlar;
+====
+freymlar- raqamlar;
+====
+freymlar-dasturlar;
+++++
+……………………-bu inqiroz, yig`ilish, aktsionerlar, bayramlarni o’qkazish  kabilar uchun foydalanish.
+====
+#Freymlar-senariylar;
+====
+Freymlar-strukturalar;
+====
+freymlar- raqamlar;
+====
+freymlar-dasturlar;
+++++
+……………………-bu menedjer, kassir, mijoz  kabilar uchun foydalanish.
+====
+#Freymlar-rollar;
+====
+Freymlar-strukturalar;
+====
+Freymlar-senariylar;
+====
+freymlar-dasturlar;
+++++
+……………………–bu predmet sohaning joriy holatini tavsivlovchi aniq freymdan foydalanish.
+====
+#Freym-экземпляр;
+====
+Freymlar-strukturalar;
+====
+Freymlar-senariylar;
+====
+Freymlar-rollar;
+++++
+……………………–bu predmet sohaning etarli holatlarini yoki obyektlarni tavsiflash uchun shablondan foydalanish.
+====
+#Freymм-namuna;
+====
+Freymlar-strukturalar;
+====
+Freymlar-senariylar;
+====
+Freym-экземпляр;
+++++
+……………………–bu namunalar freymlarining majmuasini tasvirlash uchun yuqori darajadigi freymlardan foydalanish.
+====
+#Freym-sinf;
+====
+Freymм-namuna;
+====
+Freymlar-strukturalar;
+====
+Freym-экземпляр;
+++++
+Freymli modellarda freymlar o’rtasida ………………..kabi   munosabatlardan foydalaniladi.
+====
+#fazoli, «dan iborat», «qism-butun»,  vaqtli, atributli, «sabab-oqibat», AKO-aloqalar, IS-A-aloqalar;
+====
+fazoli, «dan uzoqroq», «qism-butun», «dan yaqinroq», vaqtli, atributli;
+====
+chin, «ancha-muncha», «asta-sekin», «sabab-oqibat», AKO-aloqalar;
+====
+fazoli, «pastda», «yoqida», «oldin», «keyin», yolg’onroq, chinroq;
+++++
+Noravshan to’plamlar nazariyasi  bo’yicha ilmiy ishlarning boshlanishi  ……… tomonidan  ………. yilda  chop etilgan ilmiy maqolasi bilan bog’liq.
+====
+#L. Zade ; 1965;
+====
+Xomblad; 1975;
+====
+Ostergal; 1982;
+====
+Kosko; 1970;
+++++
+Fuzzy tushunchasi ……………………………kabi ma’nolarni bildiradi.
+====
+#noravshan, noqat’iy, notiniq;
+====
+noravshan, noaniq, tiniq;
+====
+ravshan, noto’liq, notiniq;
+====
+to’liqmas, qat’iy, notiniq;
+++++
+Noaniqlikning turlarini to’g’ri  ko’rsating ?
+====
+#noma’lumlik, noishonchlilik, nobirqiymatlilik;
+====
+noma’lumlik, nochiziqlilik, birqiymatlilik;
+====
+noma’lumlik, notavakkallik, mantiqlilik;
+====
+nodaxtlilik, notarmoqlilik, nobirqiymatlilik;
+++++
+Fizik noaniqlikning turlarini to’g’ri  ko’rsating ?
+====
+#tavakkallik, noaniqlik;
+====
+noma’lumlik,  nochiziqlilik;
+====
+noma’lumlik, notavakkallik;
+====
+notarmoqlilik,  nobirqiymatlilik;
+++++
+So’zlar qiymatlarining va frazalar ma’nosining noaniqligi-bu…………….
+====
+#lingvistik noaniqlik;
+====
+mantiqiy noaniqlik;
+====
+grafikli noaniqlik;
+====
+statistik  noaniqlik;
+++++
+Bilimlarning to’liq nabori uchun hosil qilingan xulosalashning haqiqiyligi yangi dalillarning qo’shilishi bilan o’zgarmasa -bu……..………….
+====
+#monotonlik;
+====
+noaniqlik;
+====
+to’liqlilik;
+====
+qarama-qarshilik;
+++++
+Ma’lum xossalar bilan berilgan formulalar to’plami uchun boshlang’ich aksiomalar tizimi va xulosalash qoidalari ushbu to’plamga kiritilgan barcha formulalar uchun xulosalashni ta’minlasa -bu…..…..………….
+====
+#to’liqlilik;
+====
+monotonlik;
+====
+noaniqlik;
+====
+qarama-qarshilik;
+++++
+Noravshan bilimlar  orasida ………………… mavjud  bo’lmaydi.
+====
+#qat’iy chegara;
+====
+noto’g’rilik;
+====
+noaniqlik;
+====
+Nobirqiymatlilik;
+++++
+Matematika va haqiqiy olamda uchraydigan noaniqliklarning yaqinlashishi, insoniyatning fikrlash va anglash jarayonlarini yaxshi tushunish niyati amalga oshishi-bu …………………….nazariyasi.
+====
+#noravshan to’plamlar;
+====
+mulohazalar algebrasi;
+====
+predikatlar mantiqi;
+====
+algebra;
+++++
+Noravshan yechish usullari qanday o’zgaruvchilardan foydalanishga asoslanadi?
+====
+#noravshan va lingvistik;
+====
+faqat sonli;
+====
+faqat mantiqiy;
+====
+faqat predikatli;
+++++
+Mansublik funksiyasi - bu ………. bilan ifodalaniladigan tushunchaga …………….mos bo`lishi darajasining sub’ektiv o`lchovi.
+====
+#noravshan to’plam;   elementi;
+====
+noravshan to’plam;   to’plam;
+====
+ravshan to’plam;   elementi;
+====
+ravshan to’plam;   elementi;
+++++
+Lingvistik o’zgaruvchining strukturasini tavsivlash uchun quyidagi qanday qoidalardan foydalaniladi?
+====
+#Sintaktikli va semantikli qoidalardan;
+====
+Grafikli va semantikli qoidalardan;
+====
+Chiziqli va sintaktikli qoidalardan;
+====
+Statistik li va ehtimolli qoidalardan;
+++++
+«Timsol» soʻzi ... soʻzdan olingan va ... kabi tushunchalarni bidiradi.
+====
+#inglizcha “Pattern recognition”;  “timsol”, “model”, “bogʻliqlik”, “uslub”;
+====
+nemischa “Pattern recognition”; “timsol”, “funksiy”, “bolakli”, “uslub” ;
+====
+fransuzcha “Pattern recognitio”; “timsol”, “qoida”, “uzlukli”, “algoritm”;
+====
+grekcha“Pattern recognit”; “timsol”, “formula”, “uzluksiz”, “qoida”;
+++++
+Timsollarni anglashning asosiy vazifasi – bu obyektlarning bir-biriga ... oʻrganishda ishlatiladigan, ya’ni ularning ... aniqlaydigan qaror qabul qiluvchi qoidalarni topishdan iborat.
+====
+#mosligini; oʻxshashligini;
+====
+mos emasligini; moslik qoidalarini;
+====
+toʻliqligini; kattaligini;
+====
+qarashliligini; kichikligini;
+++++
+Obyektlarni anglash uchun ... foydalaniladi.
+====
+#muhim belgilardan;
+====
+barcha belgilardan;
+====
+bir xil belgilardan;
+====
+yopiluvchi belgilardan;
+++++
+Sinf – bu ... xususiyatga ega boʻlgan ... toʻplamidir.
+====
+#umumiy; obyektlar;
+====
+diametr; toʻrtburchaklar;
+====
+harorat; raqamlar;
+====
+ogʻrlik; harflar;
+++++
+Obyektlar haqida empirik ma’lumotlar ........... yordamida aniqlanadi.
+====
+#tajriba;
+====
+ekspert;
+====
+foydalanuvchi;
+====
+kompyuter;
+++++
+Obyektlar haqidagi ma’lumotlarni oʻrganish ...........topishga asoslanadi.
+====
+#obyektlarni belgilariga asosan oʻrganish, ya’ni obyektlar uchun xos boʻlgan asosiy belgilarni;
+====
+obyektlar uchun xos boʻlmagan asosiy belgilarni;
+====
+obyektlar uchun chegaraviysharti boʻlgan asosiy belgilarni;
+====
+obyektlar uchun boshlangʻichsharti boʻlmagan asosiy belgilarni;
+++++
+Oʻqituvchi yordamida oʻrganishda ................ soni va obyektlarning qaysi sinfga qarashliligi oldindan berilgan boʻladi.
+====
+#sinflar, obyektlar, belgilar;
+====
+belgilar, qoidalar, sinflar;
+====
+obyektlar, etalonlar, qoidalar;
+====
+sinflar, qoidalar, masofalar;
+++++
+Oʻqituvchisiz oʻrganishda ……....... soni oldindan berilgan va obyektlarning qaysi sinfga qarashliligi oldindan berilmagan boʻladi.
+====
+#obyektlar, belgilar;
+====
+belgilar, qoidalar;
+====
+obyektlar, qoidalar;
+====
+qoidalar, masofalar;
+++++
+Qaror qabul qiluvchi qoidani qurish .............. aniqlashga asoslanadi.
+====
+#oʻqituvchi yoki oʻqituvchisiz oʻrganish jarayonida obyektlarga xos boʻlgan asosiy belgilar tizimini;
+====
+oʻqituvchi yordamida oʻrganish jarayonida idrok etishni;
+====
+oʻqituvchisiz oʻrganish jarayonida etalon tanlovni;
+====
+oʻzini-oʻzi oʻrganish jarayonida etalon tanlovni;
+++++
+Obyektlarni anglash etalon tanlovdagi .............. aniqlashga asoslanadi.
+====
+#obyektlarni oʻrganish jarayonida hosil qilingan qaror qabul qiluvchi qoida yordamida yangi obyektlarning qaysi sinflarga qarashli ekanligini;
+====
+toʻliq boʻlmagan muhim belgilarini;
+====
+toʻliq boʻlgan etalon tanlovdagi oʻxshash sinflarni;
+====
+toʻliq boʻlgan obyektlarini;
+++++
+Obyektlarni anglashni oʻrgatish nazariyasi usullarining keng qoʻllanilishi qanday xususiyatlarga asoslanadi?
+====
+#oʻrganiluvchi obyektlarning murakkabligi, ya’ni ularning koʻplab sohalarga egaligi, obyektlar haqida toʻliq ma’lumotlarning yetishmasligi;
+====
+oʻrganiluvchi obyektlarning oddiyligi, ya’ni ularning koʻplab sohalarga ega emasligi, obyektlar haqida toʻliq ma’lumotlarning yetishmasligi;
+====
+oʻrganiluvchi obyektlarning murakkabligi, ya’ni ularning koʻplab sohalarga egaligi, obyektlar haqida toʻliq ma’lumotlarning mavjudligi;
+====
+oʻrganiluvchi obyektlarning oddiyligi, ya’ni ularning koʻplab sohalarga egaligi, obyektlar haqida toʻliq ma’lumotlarning mavjudligi;
+++++
+Obyektlarni anglashni oʻrgatishning asosiy muammosi - bu qaror qabul qiluvchi qoidani ... aniqlashdan iborat.
+====
+#qurish va bu qoida yordamida obyektlarni talab etilgan ishonchlilik bilan oldindan ma’lum boʻlgan sinflarga qarashliligini;
+====
+qurish va bu qoida yordamida sinflarni talab etilgan ishonchlilik bilan oldindan ma’lum boʻlgan obyektlarga qarashliligini;
+====
+qurmasdan, obyektlarni talab etilgan ishonchlilik bilan oldindan ma’lum boʻlgan sinflarga qarashliligini;
+====
+qurish va bu qoida yordamida sinflarni talab etilgan ishonchlilik bilan oldindan ma’lum boʻlgan sinflarga qarashliligini;
+++++
+Timsollarni anglovchi tizimlarni yaratishda eng asosiy masalalardan biri – bu .................... xossalarini aniqlashdan iborat.
+====
+#obyektlarning;
+====
+etalonlarning;
+====
+qaror qabul qiluvchi qoidalarning;
+====
+toʻplamlarning;
+++++
+Determinalli belgilar ….………….. qiymatlarga ega boʻladi.
+====
+#aniq va sonli;
+====
+chin;
+====
+ehtimolli;
+====
+simvolli;
+++++
+Etimolli belgilar …............... qiymatlarga ega boʻladi.
+====
+#tavakkali;
+====
+yolgʻon;
+====
+chin;
+====
+aniq;
+++++
+Mantiqiy belgilar …............. qiymatlarga ega boʻladi.
+====
+#chin yoki yolgʻon;
+====
+tavakkali;
+====
+simvolli;
+====
+uzluksiz;
+++++
+Strukturali belgilar …............. koʻrinishidagi obyektlarda uchraydi.
+====
+#simvol va tasvir;
+====
+faqat simvol va raqam;
+====
+faqat tasvir va harf;
+====
+faqat harf va raqam;
+++++
+Sinflashtirish – bu ... asosida sinflarga boʻlish.
+====
+#obyektlarni belgilar;
+====
+obyektlarni etalon tanlov;
+====
+etalon tanlovni erkin tanlov;
+====
+harflarni erkin tanlov;
+++++
+Timsollarni anglovchi tizimlarni turlarga boʻlishning 1- tamoyilda ….............  ekanligi e’tiborga olinadi.
+====
+#belgilarning fizik tabiati bir xilda yoki koʻp xilda;
+====
+obyektlarning fizik tabiati bir xilda yoki koʻp xilda;
+====
+sinflarning fizik tabiati bir xilda yoki koʻp xilda;
+====
+tizimning fizik tabiati bir xilda yoki koʻp xilda;
+++++
+Timsollarni anglovchi oddiy tizimlar obyektlardagi …............. fizik tabiati boʻyicha bir xildaligi bilan xarakterlanadi.
+====
+#belgilarning;
+====
+qoidalarning;
+====
+uzilishlarning;
+====
+toʻliqlikning;
+++++
+Timsollarni anglovchi murakkab tizimlar obyektlardagi …............. fizik tabiati boʻyicha koʻpxildaligi bilan xarakterlanadi.
+====
+#belgilarning;
+====
+qoidalarning;
+====
+uzliksizlikning;
+====
+toʻliqlikning;
+++++
+Timsollarni anglovchi bir pogʻonali tizimlarda ….. haqidagi ma’lumotlar oʻrganilayotgan obyektlardan toʻgʻridan-toʻgʻri oʻlchash natijasida olinadi.
+====
+#belgilar;
+====
+qaror qabul qiluvchi qoidalar;
+====
+chiziqli qoidalar;
+====
+mantiqli qoidalar;
+++++
+Timsollarni anglovchi koʻp pogʻonali tizimlarda …............. haqidagi ma’lumotlar oʻrganilayotgan obyektlardan nisbiy oʻlchash natijasida olinadi.
+====
+#belgilar;
+====
+sinflar;
+====
+tizimlar;
+====
+bilimlar;
+++++
+Oʻzini-oʻzi oʻqituvchi tizimlarda …............. roʻyxati berilgan boʻladi.
+====
+#obyektlar toʻplami va belgilar;
+====
+sinflar toʻplami va obyektlar;
+====
+qoidalar toʻplami va sinflar;
+====
+obyektlar toʻplami va sinflar;
+++++
+Timsollarni anglovchi tizimlarni turlarga boʻlishning 4- tamoyilda …............. haqidagi ma’lumotlarning xarakterlarini oʻrganish e’tiborga olinadi.
+====
+#obyektlarni anglashda belgilar;
+====
+belgilarni sinflashda obyektlar;
+====
+qoidalarni boʻlaklashda obyektlar;
+====
+tizimlarni oʻrganishda qoidalar;
+++++
+1, 2, 3, 4, 5, 6 belgilar toʻplamlamin   tadan guruhlaganda nechta tayanch toʻplam ostilari hosil boʻladi ?
+====
+#20;
+====
+28;
+====
+36;
+====
+15;
+++++
+«Maxmin» algoritmining maqsadi - …............. yadroviy obyektlarni topish va bu obyektlar yordamida sinflarni hosil qilish.
+====
+#erkin tanlovdan N ta;
+====
+etalon tanlovdan;
+====
+etalon tanlovdan 2 ta;
+====
+erkin tanlovdan 2 ta;
+++++
+«Maxmin» algoritmida  yadrolar orasidagi boʻsagʻa sifatida qanday qiymat olinadi ?
+====
+#yadrolar orasidagi masofaning yarmi olinadi;
+====
+yadrolar orasidagi masofa olinadi;
+====
+yadrodan eng uzoqda joylashgan   yadroning qiymati olinadi;
+====
+yadrolar orasidagi masofaning kvadrati olinadi;
+++++
+«Maxmin» algoritmida sinflar soni qanday aniqlanadi ?
+====
+#yadrolar yordamida;
+====
+oldindan beriladi;
+====
+belgilar yordamida;
+====
+moslik qoidalar asosida;
+++++
+«Maxmin» algoritmi oʻz ishini toʻxtatadi, agarda ….............
+====
+#yadrolar va sinflar oʻzgarmasdan qolsa;
+====
+sinflar kesishmasa;
+====
+yadrolar soni sinflar sonidan koʻp boʻlsa;
+====
+sinflar oʻzgarmasdan yadrolar oʻzgarsa;
+++++
+Еkspеrt tizim nimа?
+====
+#Blimlаrgа аsоslаngаn аmаliy mulоqоt tizimi;
+====
+Amаliy matematik paket;
+====
+Mа’lumоtlаr bаzаsini bоshqаrish tizimi;
+====
+Faqat formulalarga аsоslаngаn tizim;
+++++
+Bilimlar injeneri o`zgartiradigan bilimlar–bu……………….bilimlar hisoblanadi.
+====
+#izohlanuvchi;
+====
+izohlanmaydigan;
+====
+texnologik;
+====
+yordamchi;
+++++
+Joriy holatga mos keluvchi bilimlarni izohlash usullarini tanlash uchun qo`llaniluvchi bilimlar-bu ……………… hisoblanadi.
+====
+#yechuvchi bilimlar ;
+====
+predmetli bilimlar;
+====
+izohlanuvchi;
+====
+yordamchi;
+++++
+Bilimlar tizimini yaratishda va tushuntirishlarni bajarishda qo`llaniladigan bilimlar-bu ……………… hisoblanadi.
+====
+#qo`llab - quvvatlovchi ;
+====
+predmetli bilimlar;
+====
+izohlanuvchi;
+====
+yechuvchi bilimlar.
+++++
+Bilimning yaratilgan vaqti, bilimlar muallifi va boshqalar haqidagi ma’lumotlarni saqlaydigan bilimlar-bu ……………… hisoblanadi
+====
+#texnologik bilimlar ;
+====
+predmetli bilimlar;
+====
+qo`llab - quvvatlovchi;
+====
+yechuvchi bilimlar;
+++++
+Bilimlarning mazmunli tasvirlanishi, bilimlarni kiritish sabablari, bilimlarning belgilanishi haqidagi bilimlarni saqlaydigan, bilimlardan foydalanish usullari va olinadigan samarani tasvirlaydigan bilimlar-bu ……………… hisoblanadi
+====
+#semantik bilimlar;
+====
+texnologik bilimlar;
+====
+predmetli bilimlar;
+====
+yechuvchi bilimlar;
+++++
+Ekspert tizimda ishchi xotiradagi boshlang`ich ma’lumotlar va bilimlar bazasidagi bilimlardan foydalanib, shunday qoidalar ketma-ketligini shakllantiradigan, ularni boshlang`ich ma’lumotlarga qo`llab masalaning yechimiga olib keladigan komponent-bu ……………… hisoblanadi
+====
+#yechuvchi (bilimlar injeneri);
+====
+ishchi xotira;
+====
+tushuntiruvchi komponent;
+====
+muloqotli component;
+++++
+Foydalanuvchi – ekspert tomonidan amalga oshiriluvchi bilimlar bilan ekspert tizimni to`ldirish jarayonini avtomatlashtiradigan komponent-bu …………… hisoblanadi.
+====
+#bilimlarni hosil qilish;
+====
+ishchi xotira;
+====
+yechuvchi (bilimlar injeneri);
+====
+muloqotli component;
+++++
+Ekspert tizimni yaratishda yechimini kutayotgan masalalarni aniqlash, ekspert tizimni ishlab chiqishning maqsadi, expertlar va foydalanuvchi tiplarini aniqlash………………..bosqichida bajariladi.
+====
+#idenfikatsiyalash;
+====
+formallashtirish;
+====
+bajarish;
+====
+testdan o’tkazish;
+++++
+Ekspert tizimni yaratishda muammo sohasining tarkibiy tahlilini o`tkazish, qo`llaniluvchi tushunchalar va ularning o`zaro aloqasi aniqlash, masalaning yechilish usulini belgilash.………………..bosqichida bajariladi.
+====
+#kontseptuallashtirish ;
+====
+formallashtirish;
+====
+idenfikatsiyalash;
+====
+testdan o’tkazish;
+++++
+Ekspert tizimni yaratishda asosiy tushunchalarni shakllantirish, texnik vositalarni tanlash, bilimlarni namoyish etish va izohlash usullarini aniqlash, tizimning ishini modellashtirish..………………..bosqichida bajariladi.
+====
+#formallashtirish;
+====
+kontseptuallashtirish;
+====
+idenfikatsiyalash;
+====
+testdan o’tkazish;
+++++
+Ekspert tizimni yaratishda ekspert tomonidan bilimlar bazasini to`ldirishni amalga oshirish..………………..bosqichida bajariladi.
+====
+#bajarish;
+====
+kontseptuallashtirish;
+====
+idenfikatsiyalash;
+====
+Formallashtirish;
+++++
+Ekspert tizimlar tashqi muhitga bog`liqlik darajasiga qarab …………. ekspert tizimlarga bo’linadi.
+====
+#statik va dinamik;
+====
+umumiy vazifani bajaruvchi va kontseptuallashtirilgan;
+====
+umumiy vazifani bajaruvchi va idenfikatsiyalashtirilgan;
+====
+formallashtirilgan va maxsuslashtirilgan;
+++++
+Genetik algoritm - bu …………….. …………….algoritmi.
+====
+#evristik qidiruv;
+====
+evristik qo’shish;
+====
+jadvalli o’chirish;
+====
+minimumni qidiruv;
+++++
+……………………- bu tabiatdagi tabiiy seleksiyalashga o'xshash mexanizmlardan foydalanib, kerakli parametrlarni tasodifiy tanlab olish, birlashtirish va o'zgartirish orqali optimallashtirish va modellashtirish muammolarini hal qilish uchun ishlatiladigan evristik qidiruv algoritmi.
+====
+#Genetik algoritm;
+====
+Evolyutsion dasturlash;
+====
+Evolyutsion strategiyalar;
+====
+Genetik dasturlash;
+++++
+………………….. - bu cheklangan xromosoma (zot)lar to'plami.
+====
+#Populyatsiya;
+====
+Alel;
+====
+Gen;
+====
+Genotip;
+++++
+…………….- bu  irsiy ma'lumotlarning tashuvchisi.
+====
+#Xromosoma;
+====
+Alel;
+====
+lokus;
+====
+Genotip;
+++++
+……….. - bu genotipning atomar elementi, xususan xromosomalar hisoblanadi..
+====
+#Gen;
+====
+Xromosoma;
+====
+lokus;
+====
+Individ;
+++++
+…………… operator - bu avlodni olish uchun zarur bo'lgan bir yoki bir nechta ota-onalarga nisbatan tartiblangan harakatlar ketma-ketligi.
+====
+#Genetik;
+====
+Evolyutsion;
+====
+Strategik;
+====
+Individual;
+++++
+…………….  - xromosomalar to'plami.
+====
+#Individ;
+====
+Alel;
+====
+lokus;
+====
+Gen;
+++++
+…………. - bu ma'lum bir individning xromosomalar to'plami hisoblanadi.
+====
+#Genotip;
+====
+Individ;
+====
+Alel;
+====
+Lokus;
+++++
+…………..- bu ma'lum bir genotipga mos keladigan qiymatlar to'plami, ya'ni. masala parametrlarining dekodlangan tuzilmasi yoki to'plami..
+====
+#Fenotip;
+====
+Individ;
+====
+Alel;
+====
+Genotip;
+++++
+…………- bu ma'lum bir genning qiymati, shuningdek xususyatning qiymati yoki xususiyatning bir varianti sifatida aniqlanadi.
+====
+#Allel;
+====
+Fenotip;
+====
+Individ;
+====
+Genotip;
+++++
+…………. - bu ma'lum bir genning xromosoma(zanjir)da joylashgan joyini ko’rsatadi..
+====
+#Lokus;
+====
+Allel;
+====
+Fenotip;
+====
+Individ;
+++++
+…………………………….. - bu genetikaga xos bo’lib, u populyatsiyadagi muayyan individlarning jismoniy tayyorgarligini baholash va eng munosiblarini tirik qolish evolyutsion prinsipiga muvofiq ular orasida eng munosibini tanlashga imkon beradi.
+====
+#Moslanuvchanlik funksiyasi;
+====
+Genetik operator;
+====
+Fenotip;
+====
+Individ;
+++++
+Xromosomalarning boshlang'ich populyatsiyasini yaratish - bu moslanuvchanlik funksiyasi parametrlarining qiymatlari ………….……….va ushbu parametr qiymatlari uchun moslanuvchanlik funksiyasi qiymati ………….. holat.
+====
+#tasodifiy tanlangan; topilgan;
+====
+tasodifiy tanlangan; topilmagan;
+====
+tasodifiy tanlanmagan; topilgan;
+====
+tasodifiy tanlanmagan; topilmagan;
+++++
+Genetik algoritmning asosiy bloklari ketma-ketligi to’g’ri keltirilgan javobni ko’rsating?
+====
+#Initsializatsiyalash, baholash, seleksiyalash, chatishtiruv, mutatsiyalash;
+====
+baholash, seleksiyalash, chatishtiruv, initsializatsiyalash, mutatsiyalash;
+====
+seleksiyalash, initsializatsiyalash, baholash, chatishtiruv, mutatsiyalash;
+====
+mutatsiyalash, initsializatsiyalash, baholash, seleksiyalash, chatishtiruv;
+++++
+Initsializatsiyalash - tasodifiy ravishda ………….
+====
+#dastlabki xromosomalarning populyatsiyasini shakllantirish;
+====
+olingan xromosomalarning yaroqliligini aniqlash;
+====
+yaroqli baholash qiymatlariga ega bo`lgan xromosomalar tanlab olish;
+====
+xromosomalarning tasodifiy sonini saralab olish;
+++++
+Baholash -…………………….....................................................
+====
+#olingan xromosomalarning yaroqliligini aniqlash;
+====
+dastlabki xromosomalarning populyatsiyasini shakllantirish;
+====
+yaroqli baholash qiymatlariga ega bo`lgan xromosomalar tanlab olish;
+====
+xromosomalarning tasodifiy sonini saralab olish;
+++++
+Seleksiyalash -…………………………………………………………
+====
+#yaroqli baholash qiymatlariga ega bo`lgan xromosomalar tanlab olish;
+====
+dastlabki xromosomalarning populyatsiyasini shakllantirish;
+====
+olingan xromosomalarning yaroqliligini aniqlash;
+====
+xromosomalarning tasodifiy sonini saralab olish;
+++++
+Chatishtiruv -
+====
+#xromosomalarning tasodifiy sonini saralab olish;
+====
+dastlabki xromosomalarning populyatsiyasini shakllantirish;
+====
+olingan xromosomalarning yaroqliligini aniqlash;
+====
+yaroqli baholash qiymatlariga ega bo`lgan xromosomalar tanlab olish;
+++++
+Mutatsiyalash -……………………………………………………....
+====
+#xromosomaning bir genini(bitini) o`zgartiradi;
+====
+dastlabki xromosomalarning populyatsiyasini shakllantirish;
+====
+olingan xromosomalarning yaroqliligini aniqlash;
+====
+yaroqli baholash qiymatlariga ega bo`lgan xromosomalar tanlab olish;
+++++
+…………….. - xromosoma kodi qismlarini kelish tartibini o'zgartirish bo’lib, bunda tasodifiy ravishda xromosoma kodidagi qo’shni bitlar orasida uzilish nuqtasi tanlanadi.
+====
+#Inversiyalash;
+====
+Mutatsiyalash;
+====
+Chatishtiruv;
+====
+Seleksiyalash;
+++++
+………………. masala prametrlarining berilgan boshlang’ich qiymatlarini emas, balki ularning kodlashtirilgan qiymatlarini qayta ishlaydi.
+====
+#Genetik algoritmlar;
+====
+An'anaviy optimallashtirish usullari;
+====
+Ekspert tizimlar;
+====
+Dinamik programmalashtirish;
+++++
+………………. echimni bitta nuqtadan emas, balki ularning ma'lum bir populyatsiyasidan qidirishni amalga oshiradi.
+====
+#Genetik algoritmlar;
+====
+An'anaviy dasturlash;
+====
+Ekspert tizimlar;
+====
+Chiziqli programmalashtirish;
+++++
+………………. maqsad funksiyasining hosilalari yoki boshqa qo'shimcha ma'lumotlaridan emas, balki faqat maqsad funksiyasining o’zidan foydalanadi.
+====
+#Genetik algoritmlar;
+====
+Statistik usullar;
+====
+Noravshan tizimlar;
+====
+Chiziqli programmalashtirish;
+++++
+Intellektual agent qanday matematik yoki algoritmik tushunchani bildiradi? 
+====
+#Atrof-muhitni sezib qaror qabul qiluvchi tizim
+====
+Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+====
+Modelning umumlashuv qobiliyatini baholash jarayoni
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+++++
+Underfitting qanday nazariy model sifatida qaraladi? 
+====
+#Modelning ma’lumotni yetarli o‘rganmasligi
+====
+Modelni yetarli o‘rganmasligi
+====
+Ma’lumotlarni klasterlarga ajratish algoritmi
+====
+Klassifikatsiya uchun ehtimollik modeli
+++++
+Regularizatsiya qanday muammoni yechishga xizmat qiladi? 
+====
+#Overfittingni kamaytirish usuli
+====
+Model uchun muhim xususiyatlarni yaratish jarayoni
+====
+Overfittingni oshirish usuli
+====
+Manfiy qiymatlarni nolga tenglashtiruvchi aktivatsiya funksiyasi
+++++
+K-means tushunchasining ilmiy mohiyati nimadan iborat? 
+====
+#Ma’lumotlarni klasterlarga ajratish algoritmi
+====
+Klassifikatsiya uchun ehtimollik modeli
+====
+Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+====
+Ma’lumotlarni klaslarga ajratish algoritmi
+++++
+Intellektual agentning asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Atrof-muhitni sezib qaror qabul qiluvchi tizim
+====
+Belgilanmagan ma’lumotlardan naqshlarni aniqlash usuli
+====
+Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Neyron chiqishini transformatsiya qiluvchi funksiya
+++++
+Backpropagation qanday turdagi model yoki algoritm hisoblanadi? 
+====
+#Xatolikni orqaga uzatish algoritmi
+====
+Modelning trening ma’lumotlarga ortiqcha moslashuvi
+====
+Belgilanmagan ma’lumotlardan naqshlarni aniqlash usuli
+====
+Fakt va qoidalarni saqlovchi tizim
+++++
+Gradient tushish tushunchasining ilmiy mohiyati nimadan iborat? 
+====
+#Xatolik funksiyasini minimallashtirish algoritmi
+====
+Xatolik funksiyasini maksimallashtirish algoritmi
+====
+Klassifikatsiya uchun ehtimollik modeli
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+++++
+Neyron tarmoqning asosiy funksional vazifasi nima? 
+====
+#Sun’iy neyronlar asosida qurilgan hisoblash modeli
+====
+Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Neyron chiqishini transformatsiya qiluvchi funksiya
+====
+Chiziqli bog‘liqlikni aniqlovchi matematik model
+++++
+Gradient tushish qaysi turdagi hisoblash jarayonini ifodalaydi? 
+====
+#Xatolik funksiyasini minimallashtirish algoritmi
+====
+Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Manfiy qiymatlarni nolga tenglashtiruvchi aktivatsiya funksiyasi
+====
+Modelning trening ma’lumotlarga ortiqcha moslashuvi
+++++
+Chiziqli regressiya qanday nazariy model sifatida qaraladi? 
+====
+#Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Ma’lumotlarni klasterlarga ajratish algoritmi
+====
+Nochiziqli bog‘liqlikni aniqlovchi geometrik model
+====
+Belgilangan ma’lumotlar asosida o‘qitish usuli
+++++
+Regularizatsiyaning asosiy funksional vazifasi nima? 
+====
+#Overfittingni kamaytirish usuli
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Overfittingni oshirish usuli
+====
+Modelning ma’lumotni yetarli o‘rganmasligi
+++++
+Softmaxning amaliy qo‘llanilish sohasi nimaga qaratilgan? 
+====
+#Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Xatolikni orqaga uzatish algoritmi
+====
+Model uchun muhim xususiyatlarni yaratish jarayoni
+====
+Ko‘p klassterli ehtimollik taqsimotini hosil qiluvchi model
+++++
+ReLU orqali qanday natijaga erishiladi? 
+====
+#Manfiy qiymatlarni nolga tenglashtiruvchi aktivatsiya funksiyasi
+====
+Modelning umumlashuv qobiliyatini baholash jarayoni
+====
+Modelning trening ma’lumotlarga ortiqcha moslashuvi
+====
+Fakt va qoidalarni saqlovchi tizim
+++++
+Regularizatsiya qanday matematik yoki algoritmik tushunchani bildiradi? 
+====
+#Overfittingni kamaytirish usuli
+====
+Ketma-ket ma’lumotlarni qayta ishlovchi model
+====
+Modelning umumlashuv qobiliyatini baholash jarayoni
+====
+Overfittingni oshirish usuli
+++++
+CNN qanday matematik yoki algoritmik tushunchani bildiradi? 
+====
+#Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Tasvirlarni qayta ishlashga mo‘ljallangan semantik tarmoq
+====
+Ketma-ket ma’lumotlarni qayta ishlovchi model
+++++
+ReLU qanday turdagi model yoki algoritm hisoblanadi? 
+====
+#Manfiy qiymatlarni nolga tenglashtiruvchi aktivatsiya funksiyasi
+====
+Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Xatolik funksiyasini minimallashtirish algoritmi
+++++
+Intellektual agent tushunchasining ilmiy mohiyati nimadan iborat? 
+====
+#Atrof-muhitni sezib qaror qabul qiluvchi tizim
+====
+Xatolikni orqaga uzatish algoritmi
+====
+Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Modelning ma’lumotni yetarli o‘rganmasligi
+++++
+Turing testining asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Ma’lumotlarni klasterlarga ajratish algoritmi
+====
+Manfiy qiymatlarni nolga tenglashtiruvchi aktivatsiya funksiyasi
+====
+Mashinani inson kabi boshqarish usuli
+++++
+Regularizatsiyaning amaliy qo‘llanilish sohasi nimaga qaratilgan? 
+====
+#Overfittingni kamaytirish usuli
+====
+Overfittingni maksimmallashtirish usuli
+====
+Xatolikni orqaga uzatish algoritmi
+====
+Ketma-ket ma’lumotlarni qayta ishlovchi model
+++++
+Gradient tushishning asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Xatolik funksiyasini minimallashtirish algoritmi
+====
+Modelning ma’lumotni yetarli o‘rganmasligi
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Xatolik funksiyasini maksimallashtirish algoritmi
+++++
+Bilimlar bazasining asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Fakt va qoidalarni saqlovchi tizim
+====
+So’rov va qoidalarni shakillantiruvchi tizim
+====
+Modelning umumlashuv qobiliyatini baholash jarayoni
+====
+Model xatoligini hisoblovchi matematik funksiya
+++++
+Neyron tarmoq orqali qanday natijaga erishiladi? 
+====
+#Sun’iy neyronlar asosida qurilgan hisoblash modeli
+====
+Neyron chiqishini transformatsiya qiluvchi funksiya
+====
+Klassifikatsiya uchun ehtimollik modeli
+====
+Model uchun muhim xususiyatlarni yaratish jarayoni
+++++
+Model validatsiyaning asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Modelning umumlashuv qobiliyatini baholash jarayoni
+====
+Modelning ma’lumotni yetarli o‘rganmasligi
+====
+Overfittingni kamaytirish usuli
+====
+Modelning umumlashuv qobiliyatini ishlab chiqishlishi
+++++
+Bilimlar bazasi qanday turdagi model yoki algoritm hisoblanadi? 
+====
+#Fakt va qoidalarni saqlovchi tizim
+====
+Xavfsiz qoidalarni saqlovchi dasturiy tizim
+====
+Xatolik funksiyasini minimallashtirish algoritmi
+====
+Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+++++
+Activation funksiya orqali qanday natijaga erishiladi? 
+====
+#Neyron chiqishini transformatsiya qiluvchi funksiya
+====
+Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Model xatoligini hisoblovchi matematik funksiya
+====
+Modelning ma’lumotni yetarli o‘rganmasligi
+++++
+Intellektual agent qanday turdagi model yoki algoritm hisoblanadi? 
+====
+#Atrof-muhitni sezib qaror qabul qiluvchi tizim
+====
+Modelning umumlashuv qobiliyatini baholash jarayoni
+====
+MBni sezib qaror qabul qiluvchi tizim
+====
+Model xatoligini hisoblovchi matematik funksiya
+++++
+Loss funksiyasining asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Model xatoligini hisoblovchi matematik funksiya
+====
+Ketma-ket ma’lumotlarni qayta ishlovchi model
+====
+Funksiya xatoligini aniqlovchi matematik funksiya
+====
+Sun’iy neyronlar asosida qurilgan hisoblash modeli
+++++
+Softmaxning asosiy funksional vazifasi nima? 
+====
+#Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Belgilanmagan ma’lumotlardan naqshlarni aniqlash usuli
+====
+Ko‘p klassli aniq taqsimotini hosil qiluvchi funksiya
+++++
+Ekspert tizimning asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+====
+Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+====
+Model xatoligini hisoblovchi matematik funksiya
+++++
+Feature engineeringning asosiy funksional vazifasi nima? 
+====
+#Model uchun muhim xususiyatlarni yaratish jarayoni
+====
+Model xatoligini hisoblovchi matematik funksiya
+====
+Model uchun muhim dasturiy qismlarni ishlab chiqish jarayoni
+====
+Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+++++
+Supervised learning qanday turdagi model yoki algoritm hisoblanadi? 
+====
+#Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Sun’iy neyronlar asosida qurilgan hisoblash modeli
+====
+Belgilanmagan ma’lumotlar asosida o‘qitish usuli
+++++
+Supervised learningning asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Sun’iy neyronlar asosida qurilgan hisoblash modeli
+====
+Belgilanmagan ma’lumotlar asosida o‘qitish usuli
+====
+Ketma-ket ma’lumotlarni qayta ishlovchi model
+++++
+Sun’iy intellekt tushunchasining ilmiy mohiyati nimadan iborat? 
+====
+#Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Modelning trening ma’lumotlarga ortiqcha moslashuvi
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Model xatoligini hisoblovchi matematik funksiya
+++++
+Turing testi qaysi turdagi hisoblash jarayonini ifodalaydi? 
+====
+#Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Mashinaning inson kabi harakat qilishni ta’minlash usuli
+====
+Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+++++
+ReLUning asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Manfiy qiymatlarni nolga tenglashtiruvchi aktivatsiya funksiyasi
+====
+Xatolik funksiyasini minimallashtirish algoritmi
+====
+Ma’lumotlarni klasterlarga ajratish algoritmi
+====
+Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+++++
+Ekspert tizimning amaliy qo‘llanilish sohasi nimaga qaratilgan? 
+====
+#Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+====
+Manfiy qiymatlarni nolga tenglashtiruvchi aktivatsiya funksiyasi
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Modelning trening ma’lumotlarga ortiqcha moslashuvi
+++++
+Intellektual agent qanday turdagi model yoki algoritm hisoblanadi? 
+====
+#Atrof-muhitni sezib qaror qabul qiluvchi tizim
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Sun’iy neyronlar asosida qurilgan hisoblash modeli
+====
+Model uchun muhim xususiyatlarni yaratish jarayoni
+++++
+Sun’iy intellektning amaliy qo‘llanilish sohasi nimaga qaratilgan? 
+====
+#Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Ma’lumotlarni klasterlarga ajratish algoritmi
+====
+Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+====
+Mashina intellektini modellashtiruvchi algoritmlar tizimi
+++++
+Turing testining asosiy funksional vazifasi nima? 
+====
+#Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Xatolikni orqaga uzatish algoritmi
+====
+Sun’iy neyronlar asosida qurilgan hisoblash modeli
+====
+Ketma-ket ma’lumotlarni qayta ishlovchi model
+++++
+K-meansning amaliy qo‘llanilish sohasi nimaga qaratilgan? 
+====
+#Ma’lumotlarni klasterlarga ajratish algoritmi
+====
+Fakt va qoidalarni saqlovchi tizim
+====
+Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Ma’lumotlarni klaslarga ajratish algoritmi
+++++
+ReLUning amaliy qo‘llanilish sohasi nimaga qaratilgan? 
+====
+#Manfiy qiymatlarni nolga tenglashtiruvchi aktivatsiya funksiyasi
+====
+Xatolikni orqaga uzatish algoritmi
+====
+Model xatoligini hisoblovchi matematik funksiya
+====
+Manfiy qiymatlarni birga tenglashtiruvchi aktivatsiya funksiyasi
+++++
+Underfitting qanday matematik yoki algoritmik tushunchani bildiradi? 
+====
+#Modelning ma’lumotni yetarli o‘rganmasligi
+====
+Modelning trening ma’lumotlarga ortiqcha moslashuvi
+====
+Ma’lumotlarni klasterlarga ajratish algoritmi
+====
+Modelning ma’lumotni yetarli darajada o‘rganishi
+++++
+Overfittingning asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Modelning trening ma’lumotlarga ortiqcha moslashuvi
+====
+Model uchun muhim xususiyatlarni yaratish jarayoni
+====
+Ma’lumotlarni klasterlarga ajratish algoritmi
+====
+Modelning trening ma’lumotlarga moslashmaslik
+++++
+Sun’iy intellekt qanday matematik yoki algoritmik tushunchani bildiradi? 
+====
+#Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Modelning ma’lumotni yetarli o‘rganmasligi
+====
+Neyron chiqishini transformatsiya qiluvchi funksiya
+====
+Chiziqli bog‘liqlikni aniqlovchi matematik model
+++++
+Underfitting qanday turdagi model yoki algoritm hisoblanadi? 
+====
+#Modelning ma’lumotni yetarli o‘rganmasligi
+====
+Neyron chiqishini transformatsiya qiluvchi funksiya
+====
+Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Modelning dasturiy ta’minotini ishlab chiqish jarayoni
+++++
+Neyron tarmoq qanday matematik yoki algoritmik tushunchani bildiradi? 
+====
+#Sun’iy neyronlar asosida qurilgan hisoblash modeli
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Klassifikatsiya uchun ehtimollik modeli
+====
+Modelning ma’lumotni yetarli o‘rganmasligi
+++++
+Model validatsiyaning amaliy qo‘llanilish sohasi nimaga qaratilgan? 
+====
+#Modelning umumlashuv qobiliyatini baholash jarayoni
+====
+Modelning ma’lumotni yetarli o‘rganmasligi
+====
+Modelning umumiy qisimlarini yaratish jarayoni
+====
+Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+++++
+Overfitting qanday matematik yoki algoritmik tushunchani bildiradi? 
+====
+#Modelning trening ma’lumotlarga ortiqcha moslashuvi
+====
+Modelning trening ma’lumotlarni ajratish
+====
+Ma’lumotlarni klasterlarga ajratish algoritmi
+====
+Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+++++
+Loss funksiyasi qanday muammoni yechishga xizmat qiladi? 
+====
+#Model xatoligini hisoblovchi matematik funksiya
+====
+Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+++++
+Feature engineering orqali qanday natijaga erishiladi? 
+====
+#Model uchun muhim xususiyatlarni yaratish jarayoni
+====
+Atrof-muhitni sezib qaror qabul qiluvchi tizim
+====
+Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Overfittingni kamaytirish usuli
+++++
+RNNning amaliy qo‘llanilish sohasi nimaga qaratilgan? 
+====
+#Ketma-ket ma’lumotlarni qayta ishlovchi model
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Overfittingni kamaytirish usuli
+====
+Tasvir ma’lumotlarni qayta ishlovchi model
+++++
+RNN orqali qanday natijaga erishiladi? 
+====
+#Ketma-ket ma’lumotlarni qayta ishlovchi model
+====
+Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Neyron chiqishini transformatsiya qiluvchi funksiya
+====
+Manfiy qiymatlarni nolga tenglashtiruvchi aktivatsiya funksiyasi
+++++
+Overfitting qanday turdagi model yoki algoritm hisoblanadi? 
+====
+#Modelning trening ma’lumotlarga ortiqcha moslashuvi
+====
+Overfittingni kamaytirish usuli
+====
+Atrof-muhitni sezib qaror qabul qiluvchi tizim
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+++++
+Sun’iy intellekt qanday nazariy model sifatida qaraladi? 
+====
+#Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Fakt va qoidalarni saqlovchi tizim
+====
+Mashina intellektini modellashtiruv jarayoni
+++++
+Bilimlar bazasi qaysi turdagi hisoblash jarayonini ifodalaydi? 
+====
+#Fakt va qoidalarni saqlovchi tizim
+====
+Overfittingni kamaytirish usuli
+====
+Xatolik funksiyasini minimallashtirish algoritmi
+====
+Xatolikni orqaga uzatish algoritmi
+++++
+CNN qanday turdagi model yoki algoritm hisoblanadi? 
+====
+#Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Modelning ma’lumotni yetarli o‘rganmasligi
+====
+Tasvirlarni qayta ishlashga mo‘ljallangan freym model
+====
+Manfiy qiymatlarni nolga tenglashtiruvchi aktivatsiya funksiyasi
+++++
+Logistik regressiya qanday muammoni yechishga xizmat qiladi? 
+====
+#Klassifikatsiya uchun ehtimollik modeli
+====
+Ketma-ket ma’lumotlarni qayta ishlovchi model
+====
+Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+====
+Ma’lumotlarni klasterlarga ajratish algoritmi
+++++
+Feature engineeringning asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Model uchun muhim xususiyatlarni yaratish jarayoni
+====
+Xatolik funksiyasini minimallashtirish algoritmi
+====
+Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Overfittingni kamaytirish usuli
+++++
+Ekspert tizim tushunchasining ilmiy mohiyati nimadan iborat? 
+====
+#Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+====
+Modelning umumlashuv qobiliyatini baholash jarayoni
+====
+Atrof-muhitni sezib qaror qabul qiluvchi tizim
+====
+Dasturchi bilimiga asoslangan qaror qabul qiluvchi tizim
+++++
+Logistik regressiyaning amaliy qo‘llanilish sohasi nimaga qaratilgan? 
+====
+#Klassifikatsiya uchun ehtimollik modeli
+====
+Model uchun muhim xususiyatlarni yaratish jarayoni
+====
+Klasterizatsiya uchun ehtimollik modeli
+====
+Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+++++
+Turing testi qaysi turdagi hisoblash jarayonini ifodalaydi? 
+====
+#Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+====
+Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Mashinaning inson kabi harakat qilish qobiliyatini baholash usuli
+++++
+Regularizatsiya tushunchasining ilmiy mohiyati nimadan iborat? 
+====
+#Overfittingni kamaytirish usuli
+====
+Dublikatlarni yo‘qotish usuli
+====
+Xatolik funksiyasini minimallashtirish algoritmi
+====
+Atrof-muhitni sezib qaror qabul qiluvchi tizim
+++++
+Gradient tushish orqali qanday natijaga erishiladi? 
+====
+#Xatolik funksiyasini minimallashtirish algoritmi
+====
+Xatolik funksiyasini maksimallashtirish algoritmi
+====
+Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+====
+Modelning ma’lumotni yetarli o‘rganmasligi
+++++
+Underfitting qaysi turdagi hisoblash jarayonini ifodalaydi? 
+====
+#Modelning ma’lumotni yetarli o‘rganmasligi
+====
+Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Overfittingni kamaytirish usuli
+++++
+Gradient tushishning asosiy ishlash prinsipi bu …. 
+====
+#Xatolik funksiyasini minimallashtirish algoritmi
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Xatolik funksiyasini maksimallashtirish algoritmi
+++++
+Supervised learning qaysi turdagi hisoblash jarayonini ifodalaydi? 
+====
+#Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Overfittingni kamaytirish usuli
+====
+Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Modelning trening ma’lumotlarga ortiqcha moslashuvi
+++++
+Supervised learning qanday nazariy model sifatida qaraladi? 
+====
+#Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Overfittingni kamaytirish usuli
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Model xatoligini hisoblovchi matematik funksiya
+++++
+Gradient tushish qanday nazariy model sifatida qaraladi? 
+====
+#Xatolik funksiyasini minimallashtirish algoritmi
+====
+Xatolik funksiyasini maksimmallashritish algoritmi
+====
+Modelning trening ma’lumotlarga ortiqcha moslashuvi
+====
+Ketma-ket ma’lumotlarni qayta ishlovchi model
+++++
+Backpropagationning asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Xatolikni orqaga uzatish algoritmi
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Model xatoligini hisoblovchi matematik funksiya
+++++
+Data mining qanday turdagi model yoki algoritm hisoblanadi? 
+====
+#Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+====
+Belgilanmagan ma’lumotlardan naqshlarni aniqlash usuli
+====
+Sun’iy neyronlar asosida qurilgan hisoblash modeli
+====
+Keraksiz ma’lumotlarni ajratish jarayoni
+++++
+Chiziqli regressiyaning asosiy funksional vazifasi nima? 
+====
+#Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Chiziqli qiymatlarni nolga tenglashtiruvchi aktivatsiya funksiyasi
+====
+Sun’iy neyronlar asosida qurilgan hisoblash modeli
+++++
+Turing testi tushunchasining ilmiy mohiyati … dir. 
+====
+#Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Mashinaning inson kabi harakat qilish qobiliyatini baholash usuli
+====
+Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Modelning trening ma’lumotlarga ortiqcha moslashuvi
+++++
+K-meansning asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Ma’lumotlarni klasterlarga ajratish algoritmi
+====
+Model xatoligini hisoblovchi matematik funksiya
+====
+Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Belgilanmagan ma’lumotlardan naqshlarni aniqlash usuli
+++++
+CNN orqali qanday natijaga erishiladi? 
+====
+#Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+MBlarni qayta ishlashga mo‘ljallangan mantiqiy model
+====
+Model xatoligini hisoblovchi matematik funksiya
+++++
+Supervised learning qaysi turdagi hisoblash jarayonini ifodalaydi? 
+====
+#Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Modelning trening ma’lumotlarga ortiqcha moslashuvi
+====
+Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Sun’iy neyronlar asosida qurilgan hisoblash modeli
+++++
+Gradient tushish bu … 
+====
+#Xatolik funksiyasini minimallashtirish algoritmi
+====
+Modelning trening ma’lumotlarga ortiqcha moslashuvi
+====
+Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Xatolik funksiyasini maksimallashtirish algoritmi
+++++
+Loss funksiyasi orqali qanday natijaga erishiladi? 
+====
+#Model xatoligini hisoblovchi matematik funksiya
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Model aniqligini hisoblovchi matematik funksiya
+====
+Modelning trening ma’lumotlarga ortiqcha moslashuvi
+++++
+Chiziqli regressiya qanday muammoni yechishga xizmat qiladi? 
+====
+#Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Fakt va qoidalarni saqlovchi tizim
+====
+Belgilanmagan ma’lumotlardan naqshlarni aniqlash usuli
+====
+Ketma-ket ma’lumotlarni qayta ishlovchi model
+++++
+Logistik regressiya bu … 
+====
+#Klassifikatsiya uchun ehtimollik model
+====
+Neyron chiqishini transformatsiya qiluvchi funksiya
+====
+Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Klassifikatsiya uchun matematik model
+++++
+Nazoratli o‘qitish bu … 
+====
+#Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Atrof-muhitni sezib qaror qabul qiluvchi tizim
+++++
+K-means qanday muammoni yechishga xizmat qiladi? 
+====
+#Ma’lumotlarni klasterlarga ajratish algoritmi
+====
+Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+====
+Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Ketma-ket ma’lumotlarni qayta ishlovchi model
+++++
+Bilimlar bazasi bu … 
+====
+#Fakt va qoidalarni saqlovchi tizim
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Manfiy qiymatlarni nolga tenglashtiruvchi aktivatsiya funksiyasi
+====
+Xatolik funksiyasini minimallashtirish algoritmi
+++++
+Chiziqli regressiya … hisoblanadi 
+====
+#Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Chiziqli bog‘liqlikni aniqlovchi semantik model
+++++
+Supervised learning … hisoblanadi 
+====
+#Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Xatolik funksiyasini minimallashtirish algoritmi
+====
+Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Overfittingni kamaytirish usuli
+++++
+Supervised learningning asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Modelning trening ma’lumotlarga ortiqcha moslashuvi
+====
+Modelning ma’lumotni yetarli o‘rganmasligi
+====
+Inson intellektini modellashtiruvchi algoritmlar tizimi
+++++
+Underfittingning asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Modelning ma’lumotni yetarli o‘rganmasligi
+====
+Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Modelning trening ma’lumotlarga ortiqcha moslashuvi
+====
+Neyron chiqishini transformatsiya qiluvchi funksiya
+++++
+Softmax qanday turdagi model yoki algoritm hisoblanadi? 
+====
+#Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Modelning umumlashuv qobiliyatini baholash jarayoni
+====
+Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+++++
+Chiziqli regressiya orqali qanday natijaga erishiladi? 
+====
+#Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Klassifikatsiya uchun ehtimollik modeli
+++++
+Loss funksiyasining amaliy qo‘llanilish sohasi nimaga qaratilgan? 
+====
+#Model xatoligini hisoblovchi matematik funksiya
+====
+Overfittingni kamaytirish usuli
+====
+Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+====
+Model uchun muhim texnik xususiyatlarni yaratish jarayoni
+++++
+Unsupervised learningning asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Belgilanmagan ma’lumotlardan naqshlarni aniqlash usuli
+====
+Fakt va qoidalarni saqlovchi tizim
+====
+Belgilangan ma’lumotlardan naqshlarni aniqlash usuli
+====
+Model uchun muhim xususiyatlarni yaratish jarayoni
+++++
+CNN orqali qanday natijaga erishiladi? 
+====
+#Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Ketma-ket ma’lumotlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Fakt va qoidalarni saqlovchi tizim
+====
+Belgilanmagan ma’lumotlardan naqshlarni aniqlash usuli
+++++
+Feature engineeringning amaliy qo‘llanilish sohasi nimaga qaratilgan? 
+====
+#Model uchun muhim xususiyatlarni yaratish jarayoni
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Xatolik funksiyasini minimallashtirish algoritmi
+====
+Xatolikni orqaga uzatish algoritmi
+++++
+Data mining qanday turdagi model yoki algoritm hisoblanadi? 
+====
+#Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+====
+Katta hajmdagi ma’lumotlardan xatoliklarni aniqlash jarayoni
+====
+Klassifikatsiya uchun ehtimollik modeli
+====
+Ma’lumotlarni klasterlarga ajratish algoritmi
+++++
+Sun’iy intellekt qaysi turdagi hisoblash jarayonini ifodalaydi? 
+====
+#Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Model intellektini modellashtiruvchi algoritmlar tizimi
+====
+Fakt va qoidalarni saqlovchi tizim
+++++
+Data mining orqali qanday natijaga erishiladi? 
+====
+#Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+====
+Fakt va qoidalarni saqlovchi tizim
+====
+Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+====
+Katta hajmdagi ma’lumotlarni yaratish jarayoni
+++++
+Supervised learning qanday matematik yoki algoritmik tushunchani bildiradi? 
+====
+#Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Modelning umumlashuv qobiliyatini baholash jarayoni
+====
+Overfittingni kamaytirish usuli
+++++
+RNN qanday turdagi model yoki algoritm hisoblanadi? 
+====
+#Ketma-ket ma’lumotlarni qayta ishlovchi model
+====
+Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+====
+Sun’iy neyronlar asosida qurilgan hisoblash modeli
+====
+Inson intellektini modellashtiruvchi algoritmlar tizimi
+++++
+Overfittingning asosiy funksional vazifasi nima? 
+====
+#Modelning trening ma’lumotlarga ortiqcha moslashuvi
+====
+Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Neyron chiqishini transformatsiya qiluvchi funksiya
+====
+Ketma-ket ma’lumotlarni qayta ishlovchi model
+++++
+Gradient tushishning amaliy qo‘llanilish sohasi nimaga qaratilgan? 
+====
+#Xatolik funksiyasini minimallashtirish algoritmi
+====
+Fakt va qoidalarni saqlovchi tizim
+====
+Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Xatolik funksiyasini maksimallashtirish algoritmi
+++++
+Supervised learningning amaliy qo‘llanilish sohasi nimaga qaratilgan? 
+====
+#Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Model uchun muhim xususiyatlarni yaratish jarayoni
+====
+Modelning umumlashuv qobiliyatini baholash jarayoni
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+++++
+CNNning asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Klassifikatsiya uchun ehtimollik modeli
+====
+Modelning trening ma’lumotlarga ortiqcha moslashuvi
+====
+Modelning umumlashuv qobiliyatini baholash jarayoni
+++++
+K-meansning asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Ma’lumotlarni klasterlarga ajratish algoritmi
+====
+Modelning umumlashuv qobiliyatini baholash jarayoni
+====
+Klassifikatsiya uchun ehtimollik modeli
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+++++
+Model validatsiya qanday nazariy model sifatida qaraladi? 
+====
+#Modelning umumlashuv qobiliyatini baholash jarayoni
+====
+Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Belgilanmagan ma’lumotlardan naqshlarni aniqlash usuli
+====
+Inson intellektini modellashtiruvchi algoritmlar tizimi
+++++
+Regularizatsiya qanday turdagi model yoki algoritm hisoblanadi? 
+====
+#Overfittingni kamaytirish usuli
+====
+Belgilanmagan ma’lumotlardan naqshlarni aniqlash usuli
+====
+Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Sun’iy neyronlar asosida qurilgan hisoblash modeli
+++++
+RNNning asosiy funksional vazifasi nima? 
+====
+#Ketma-ket ma’lumotlarni qayta ishlovchi model
+====
+Neyron chiqishini transformatsiya qiluvchi funksiya
+====
+Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Model xatoligini hisoblovchi matematik funksiya
+++++
+Turing testi orqali qanday natijaga erishiladi? 
+====
+#Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Overfittingni kamaytirish usuli
+====
+Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Model uchun muhim xususiyatlarni yaratish jarayoni
+++++
+Feature engineering qanday muammoni yechishga xizmat qiladi? 
+====
+#Model uchun muhim xususiyatlarni yaratish jarayoni
+====
+Neyron chiqishini transformatsiya qiluvchi funksiya
+====
+Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Atrof-muhitni sezib qaror qabul qiluvchi tizim
+++++
+Intellektual agentning asosiy funksional vazifasi nima? 
+====
+#Atrof-muhitni sezib qaror qabul qiluvchi tizim
+====
+Manfiy qiymatlarni nolga tenglashtiruvchi aktivatsiya funksiyasi
+====
+Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+====
+Ma’lumotlarni klasterlarga ajratish algoritmi
+++++
+Sun’iy intellektning amaliy qo‘llanilish sohasi nimaga qaratilgan? 
+====
+#Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Ma’lumotlarni klasterlarga ajratish algoritmi
+====
+Overfittingni kamaytirish usuli
+====
+Sun’iy neyronlar asosida qurilgan hisoblash modeli
+++++
+Sun’iy intellekt tushunchasining ilmiy mohiyati nimadan iborat? 
+====
+#Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+====
+Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+====
+Ma’lumotlarni klasterlarga ajratish algoritmi
+++++
+Data miningning asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+====
+Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Katta hajmdagi ma’lumotlarni yaratish jarayoni
+====
+Modelning ma’lumotni yetarli o‘rganmasligi
+++++
+Supervised learning qanday matematik yoki algoritmik tushunchani bildiradi? 
+====
+#Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Modelning trening ma’lumotlarga ortiqcha moslashuvi
+====
+Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Ma’lumotlarni klasterlarga ajratish algoritmi
+++++
+Chiziqli regressiya tushunchasining ilmiy mohiyati nimadan iborat? 
+====
+#Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Chiziqli bog‘liqlikni aniqlovchi geometrik model
+====
+Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+++++
+Unsupervised learning qanday muammoni yechishga xizmat qiladi? 
+====
+#Belgilanmagan ma’lumotlardan naqshlarni aniqlash usuli
+====
+Modelning ma’lumotni yetarli o‘rganmasligi
+====
+Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Ketma-ket ma’lumotlarni qayta ishlovchi model
+++++
+Chiziqli regressiya orqali qanday natijaga erishiladi? 
+====
+#Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Chiziqli bog‘liqlikni aniqlovchi geometrik model
+====
+Model uchun muhim xususiyatlarni yaratish jarayoni
+====
+Klassifikatsiya uchun ehtimollik modeli
+++++
+Softmax qanday nazariy model sifatida qaraladi? 
+====
+#Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Manfiy qiymatlarni nolga tenglashtiruvchi aktivatsiya funksiyasi
+====
+Klassifikatsiya uchun ehtimollik modeli
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+++++
+Chiziqli regressiya qanday turdagi model yoki algoritm hisoblanadi? 
+====
+#Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Atrof-muhitni sezib qaror qabul qiluvchi tizim
+====
+Chiziqli bog‘liqlikni aniqlovchi freym model
+====
+Manfiy qiymatlarni nolga tenglashtiruvchi aktivatsiya funksiyasi
+++++
+Ekspert tizim orqali qanday natijaga erishiladi? 
+====
+#Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+====
+Atrof-muhitni sezib qaror qabul qiluvchi tizim
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Modelning ma’lumotni yetarli o‘rganmasligi
+++++
+Regularizatsiya orqali qanday natijaga erishiladi? 
+====
+#Overfittingni kamaytirish usuli
+====
+Atrof-muhitni sezib qaror qabul qiluvchi tizim
+====
+Overfittingni oshirish usuli
+====
+Inson intellektini modellashtiruvchi algoritmlar tizimi
+++++
+Neyron tarmoq qaysi turdagi hisoblash jarayonini ifodalaydi? 
+====
+#Sun’iy neyronlar asosida qurilgan hisoblash modeli
+====
+Sun’iy neyronlar asosida qurilgan texnik modeli
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Atrof-muhitni sezib qaror qabul qiluvchi tizim
+++++
+Bilimlar bazasi tushunchasining ilmiy mohiyati nimadan iborat? 
+====
+#Fakt va qoidalarni saqlovchi tizim
+====
+Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+====
+Atrof-muhitni sezib qaror qabul qiluvchi tizim
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+++++
+Softmax qanday matematik yoki algoritmik tushunchani bildiradi? 
+====
+#Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Ko‘p klassli aniq taqsimotini hosil qiluvchi funksiya
+====
+Model uchun muhim xususiyatlarni yaratish jarayoni
+====
+Fakt va qoidalarni saqlovchi tizim
+++++
+Sun’iy intellekt qanday nazariy model sifatida qaraladi? 
+====
+#Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Modelning trening ma’lumotlarga ortiqcha moslashuvi
+====
+Fakt va qoidalarni saqlovchi tizim
+====
+Mashina intellektini modellashtiruvchi algoritmlar tizimi
+++++
+Loss funksiyasining amaliy qo‘llanilish sohasi nimaga qaratilgan? 
+====
+#Model xatoligini hisoblovchi matematik funksiya
+====
+Ketma-ket ma’lumotlarni qayta ishlovchi model
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Belgilangan ma’lumotlar asosida o‘qitish usuli
+++++
+Overfitting orqali qanday natijaga erishiladi? 
+====
+#Modelning trening ma’lumotlarga ortiqcha moslashuvi
+====
+Ketma-ket ma’lumotlarni qayta ishlovchi model
+====
+Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+====
+Modelning trening ma’lumotlari yetishmaslik holati
+++++
+Model validatsiya qanday turdagi model yoki algoritm hisoblanadi? 
+====
+#Modelning umumlashuv qobiliyatini baholash jarayoni
+====
+Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+====
+Neyron chiqishini transformatsiya qiluvchi funksiya
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+++++
+Data miningning asosiy funksional vazifasi nima? 
+====
+#Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+====
+Katta hajmdagi ma’lumotlardan xatoliklarni ajratish jarayoni
+====
+Model xatoligini hisoblovchi matematik funksiya
+====
+Ma’lumotlarni klasterlarga ajratish algoritmi
+++++
+Gradient tushish tushunchasining ilmiy mohiyati nimadan iborat? 
+====
+#Xatolik funksiyasini minimallashtirish algoritmi
+====
+Overfittingni kamaytirish usuli
+====
+Modelning ma’lumotni yetarli o‘rganmasligi
+====
+Xatolik funksiyasini maksimallashtirish jarayoni
+++++
+K-means qaysi turdagi hisoblash jarayonini ifodalaydi? 
+====
+#Ma’lumotlarni klasterlarga ajratish algoritmi
+====
+Manfiy qiymatlarni nolga tenglashtiruvchi aktivatsiya funksiyasi
+====
+Klassifikatsiya uchun ehtimollik modeli
+====
+Model xatoligini hisoblovchi matematik funksiya
+++++
+ReLUning asosiy funksional vazifasi nima? 
+====
+#Manfiy qiymatlarni nolga tenglashtiruvchi aktivatsiya funksiyasi
+====
+Manfiy qiymatlarni birga tenglashtiruvchi aktivatsiya funksiyasi
+====
+Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+====
+Model xatoligini hisoblovchi matematik funksiya
+++++
+Unsupervised learning qanday muammoni yechishga xizmat qiladi? 
+====
+#Belgilanmagan ma’lumotlardan naqshlarni aniqlash usuli
+====
+Fakt va qoidalarni saqlovchi tizim
+====
+Xatolikni orqaga uzatish algoritmi
+====
+Ma’lumotlarni klasterlarga ajratish algoritmi
+++++
+RNNning asosiy ishlash prinsipi nimaga asoslanadi? 
+====
+#Ketma-ket ma’lumotlarni qayta ishlovchi model
+====
+Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Sun’iy neyronlar asosida qurilgan hisoblash modeli
+====
+Tasvir ma’lumotlarni qayta ishlovchi model
+++++
+Logistik regressiya orqali qanday natijaga erishiladi? 
+====
+#Klassifikatsiya uchun ehtimollik modeli
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Modelning ma’lumotni yetarli o‘rganmasligi
+====
+Katta hajmdagi ma’lumotlardan bilim ajratish jarayoni
+++++
+Logistik regressiya qanday turdagi model yoki algoritm hisoblanadi? 
+====
+#Klassifikatsiya uchun ehtimollik modeli
+====
+Ma’lumotlarni klasterlarga ajratish algoritmi
+====
+Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+====
+Klasterizatsiya uchun ehtimollik modeli
+++++
+Feature engineering tushunchasining ilmiy mohiyati nimadan iborat? 
+====
+#Model uchun muhim xususiyatlarni yaratish jarayoni
+====
+Model uchun muhim texnik xususiyatlarni yaratish jarayoni
+====
+Modelning ma’lumotni yetarli o‘rganmasligi
+====
+Chiziqli bog‘liqlikni aniqlovchi matematik model
+++++
+Loss funksiyasi qanday turdagi model yoki algoritm hisoblanadi? 
+====
+#Model xatoligini hisoblovchi matematik funksiya
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Belgilanmagan ma’lumotlardan naqshlarni aniqlash usuli
+====
+Atrof-muhitni sezib qaror qabul qiluvchi tizim
+++++
+Model validatsiyaning asosiy funksional vazifasi nima? 
+====
+#Modelning umumlashuv qobiliyatini baholash jarayoni
+====
+Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Belgilanmagan ma’lumotlardan naqshlarni aniqlash usuli
+====
+Atrof-muhitni sezib qaror qabul qiluvchi tizim
+++++
+Softmax qanday muammoni yechishga xizmat qiladi? 
+====
+#Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Xatolikni orqaga uzatish algoritmi
+====
+Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Atrof-muhitni sezib qaror qabul qiluvchi tizim
+++++
+Softmax tushunchasining ilmiy mohiyati nimadan iborat? 
+====
+#Ko‘p klassli ehtimollik taqsimotini hosil qiluvchi funksiya
+====
+Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Ko‘p klassli aniq taqsimotini hosil qiluvchi funksiya
+====
+Neyron chiqishini transformatsiya qiluvchi funksiya
+++++
+Activation funksiya qaysi turdagi hisoblash jarayonini ifodalaydi? 
+====
+#Neyron chiqishini transformatsiya qiluvchi funksiya
+====
+Chiziqli bog‘liqlikni aniqlovchi matematik model
+====
+Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Neyron kirishini transformatsiya qiluvchi funksiya
+++++
+Underfittingning asosiy funksional vazifasi nima? 
+====
+#Modelning ma’lumotni yetarli o‘rganmasligi
+====
+Inson intellektini modellashtiruvchi algoritmlar tizimi
+====
+Belgilanmagan ma’lumotlardan naqshlarni aniqlash usuli
+====
+Modelning ma’lumotni yetarli darajada o‘rganish
+++++
+Bilimlar bazasi qanday muammoni yechishga xizmat qiladi? 
+====
+#Fakt va qoidalarni saqlovchi tizim
+====
+So‘rov va qoidalarni saqlovchi tizim
+====
+Modelning umumlashuv qobiliyatini baholash jarayoni
+====
+Xatolikni orqaga uzatish algoritmi
+++++
+Logistik regressiya qanday matematik yoki algoritmik tushunchani bildiradi? 
+====
+#Klassifikatsiya uchun ehtimollik modeli
+====
+Neyron chiqishini transformatsiya qiluvchi funksiya
+====
+Klasterizatsiya uchun ehtimollik modeli
+====
+Sun’iy neyronlar asosida qurilgan hisoblash modeli
+++++
+Ekspert tizim qanday nazariy model sifatida qaraladi? 
+====
+#Mutaxassis bilimiga asoslangan qaror qabul qiluvchi tizim
+====
+Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Sun’iy neyronlar asosida qurilgan hisoblash modeli
+====
+Xatolik funksiyasini minimallashtirish algoritmi
+++++
+CNN qanday nazariy model sifatida qaraladi? 
+====
+#Tasvirlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+====
+Mashinaning inson kabi muloqot qilish qobiliyatini baholash usuli
+====
+Atrof-muhitni sezib qaror qabul qiluvchi tizim
+====
+Xatolik funksiyasini minimallashtirish algoritmi
+++++
+RNN qanday matematik yoki algoritmik tushunchani bildiradi? 
+====
+#Ketma-ket ma’lumotlarni qayta ishlovchi model
+====
+Belgilangan ma’lumotlar asosida o‘qitish usuli
+====
+Model xatoligini hisoblovchi matematik funksiya
+====
+Overfittingni kamaytirish usuli
+++++
+Sun’iy intellekt tizimlarida bilimlarni ifodalash (knowledge representation) nima vazifani bajaradi?
+====
+#Bilimlarni formal modelga keltirib, mantiqiy xulosa chiqarish imkonini beradi
+====
+Ma’lumotlarni faqat vizual diagrammalar orqali ko‘rsatishni ta’minlaydi
+====
+Algoritmlarning bajarilish tezligini apparat darajasida optimallashtiradi
+====
+Tizimning foydalanuvchi interfeysini interaktiv elementlar bilan boyitadi
+++++
+Qaysi algoritm klassifikatsiya masalalarida ehtimollik asosida qaror qabul qiladi?
+====
+#Naive Bayes 
+====
+K-means 
+====
+Apriori 
+====
+Dijkstra 
+++++
+K-means algoritmining asosiy g‘oyasi nimaga asoslanadi?
+====
+#Ma’lumotlarni markazlar atrofida guruhlash orqali klasterlashni amalga oshirish
+====
+Ma’lumotlarni vaqt bo‘yicha ketma-ketlikda qayta ishlash orqali prognoz qilish
+====
+Ehtimollik zichligi funksiyalarini baholash orqali natija chiqarish
+====
+Sun’iy neyronlar o‘rtasida og‘irliklarni teskari tarqatish orqali o‘rganish
+++++
+Sun’iy neyron tarmoqlarda aktivatsiya funksiyasi qanday rol o‘ynaydi?
+====
+#Neyron chiqish signalini nolinear shaklga keltirib, modelni murakkablashtiradi
+====
+Kirish ma’lumotlarini standartlashtirish orqali o‘lchamlarni tenglashtiradi
+====
+Model parametrlarini saqlash uchun xotira bloklarini boshqaradi
+====
+O‘qitish jarayonida ma’lumotlarni avtomatik ravishda ajratadi
+++++
+Gradient tushish (gradient descent) algoritmining maqsadi nima?
+====
+#Xatolik funksiyasini minimallashtirish uchun optimal parametrlarni topish
+====
+Ma’lumotlarni klasterlarga ajratish orqali guruhlashni amalga oshirish
+====
+Modelni tasodifiy qiymatlar asosida tezkor o‘qitishni ta’minlash
+====
+Kirish va chiqish ma’lumotlarini moslashtirish uchun qoidalar yaratish
+++++
+Decision tree (qaror daraxti) modeli qanday ishlaydi?
+====
+#Ma’lumotlarni shartli bo‘linishlar orqali ketma-ket ajratib qaror chiqaradi
+====
+Neyronlar orasidagi og‘irliklarni iterativ ravishda yangilab boradi
+====
+Ma’lumotlar orasidagi masofani hisoblab klaster markazlarini aniqlaydi
+====
+Ehtimollik funksiyalarini baholash orqali natijani hisoblaydi
+++++
+Sun’iy intellektda “training set” tushunchasi nimani bildiradi?
+====
+#Modelni o‘qitish uchun foydalaniladigan belgilangan ma’lumotlar to‘plami
+====
+Modelni sinash uchun ajratilgan mustaqil test ma’lumotlari
+====
+Faqat grafik ko‘rinishda saqlangan vizual ma’lumotlar majmui
+====
+Algoritm bajarilishida vaqtinchalik saqlanadigan bufer ma’lumotlar
+++++
+Confusion matrix (xatoliklar matritsasi) nima uchun ishlatiladi?
+====
+#Klassifikatsiya modelining to‘g‘ri va noto‘g‘ri natijalarini baholash uchun
+====
+Ma’lumotlarni klasterlarga ajratishda optimal markazlarni aniqlash uchun
+====
+Neyron tarmoqlarda og‘irliklarni yangilash jarayonini boshqarish uchun
+====
+Ma’lumotlarni normalizatsiya qilish va diapazonini o‘zgartirish uchun
+++++
+Sun’iy intellektda “feature scaling” nima uchun kerak?
+====
+#Turli diapazondagi xususiyatlarni bir xil miqyosga keltirish uchun
+====
+Ma’lumotlarni klasterlashdan oldin ularni guruhlarga ajratish uchun
+====
+Modelni vizual tarzda grafik ko‘rinishda ifodalash uchun
+====
+Algoritmni parallel hisoblash rejimiga o‘tkazish uchun
+++++
+Reinforcement learning (mustahkamlovchi o‘qitish) qanday ishlaydi?
+====
+#Agent muhit bilan o‘zaro ta’sir orqali mukofot asosida optimal strategiyani o‘rganadi
+====
+Model faqat tayyor belgilangan ma’lumotlar asosida o‘qitiladi va umumlashtiriladi
+====
+Ma’lumotlar orasidagi yashirin tuzilmani aniqlash orqali klasterlash amalga oshiriladi
+====
+Tizim faqat statistik taqsimotlarni baholash orqali natija chiqaradi
+++++
+Sun’iy intellektda “overfitting” muammosini kamaytirish uchun qaysi usul qo‘llaniladi?
+====
+#Regularizatsiya usullari modelning murakkabligini cheklash orqali umumlashuv qobiliyatini oshiradi
+====
+Gradient descent algoritmini maksimal iteratsiyalar bilan ishlatish modelni mukammal moslashtiradi
+====
+Feature scaling usuli barcha parametrlarni tenglashtirib, ortiqcha moslashishni kuchaytiradi
+====
+Klassifikatsiya chegaralarini qo‘lda belgilash orqali model aniqligini oshirish mumkin
+++++
+Logistik regressiya modeli qaysi turdagi masalalarni yechishda qo‘llaniladi?
+====
+#Ehtimollik asosida ikkilik klassifikatsiya muammolarini yechishda qo‘llaniladi
+====
+Uzluksiz sonli qiymatlarni bashorat qilish uchun chiziqli regressiya bilan bir xil ishlaydi
+====
+Klasterlash jarayonida markazlarni aniqlash uchun masofaviy metrikadan foydalanadi
+====
+Assotsiativ qoidalarni aniqlash orqali tranzaksiyalarni tahlil qiladi
+++++
+Sun’iy intellektda “loss function” qanday vazifani bajaradi?
+====
+#Model bashoratlari va haqiqiy qiymatlar o‘rtasidagi farqni hisoblab xatolikni baholaydi
+====
+Ma’lumotlarni turli klasterlarga ajratish uchun markaziy nuqtalarni aniqlaydi
+====
+Model arxitekturasini yaratish va qatlamlar sonini avtomatik belgilaydi
+====
+Kirish ma’lumotlarini normalizatsiya qilib, diapazonini standart holatga keltiradi
+++++
+Support Vector Machine (SVM) algoritmining asosiy g‘oyasi nimaga asoslangan?
+====
+#Sinflar orasidagi maksimal chegara (margin)ni hosil qiluvchi ajratuvchi gipertekislikni topish
+====
+Ma’lumotlarni o‘rtacha qiymatlar asosida klasterlarga ajratish
+====
+Neyronlar orasidagi og‘irliklarni iterativ yangilash orqali o‘rganish
+====
+Ehtimollik taqsimotlari asosida har bir sinf uchun ehtimolni hisoblash
+++++
+Sun’iy intellektda “dimensionality reduction” nima maqsadda qo‘llaniladi?
+====
+#Xususiyatlar sonini kamaytirib, modelni soddalashtirish va hisoblash samaradorligini oshirish
+====
+Ma’lumotlarni yangi klasterlarga ajratib, guruhlash aniqligini oshirish
+====
+Modelni ko‘proq parametrlar bilan boyitib, uning murakkabligini oshirish
+====
+Tizim xotirasini to‘ldirish orqali hisoblash jarayonini tezlashtirish
+++++
+Principal Component Analysis (PCA) algoritmining vazifasi nimadan iborat?
+====
+#Ma’lumotlardagi dispersiyani maksimal saqlagan holda o‘lchamni kamaytirish
+====
+Har bir obyektni alohida sinfga ajratib klassifikatsiya qilish
+====
+Ma’lumotlar orasidagi masofani hisoblab klasterlashni amalga oshirish
+====
+Neyron tarmoqdagi og‘irliklarni optimallashtirish uchun gradient hisoblash
+++++
+Sun’iy intellektda “learning rate” parametri nimani belgilaydi?
+====
+#Model parametrlarini yangilash tezligini va qadam kattaligini boshqaradi
+====
+Ma’lumotlar to‘plamining hajmini va elementlar sonini aniqlaydi
+====
+Klassifikatsiya chegaralarining joylashuvini avtomatik ravishda belgilaydi
+====
+Modelning qatlamlari sonini va arxitekturasini shakllantiradi
+++++
+Sun’iy intellektda “batch size” tushunchasi nimani anglatadi?
+====
+#Modelni o‘qitishda bir vaqtning o‘zida qayta ishlanadigan ma’lumotlar soni
+====
+Modelning umumiy xotira hajmini va saqlash imkoniyatlarini ifodalaydi
+====
+Har bir neyron qatlamidagi bog‘lanishlar sonini belgilaydi
+====
+Algoritmning yakuniy aniqlik darajasini avtomatik hisoblab beradi
+++++
+Sun’iy intellektda “cross-validation” nima uchun ishlatiladi?
+====
+#Modelning umumlashuv qobiliyatini baholash uchun ma’lumotlarni bir necha qismga bo‘lib tekshirish
+====
+Ma’lumotlarni faqat bitta to‘plamda o‘qitib, natijani tez olish uchun
+====
+Modelni faqat trening ma’lumotlariga maksimal darajada moslashtirish uchun
+====
+Hisoblash tezligini oshirish uchun barcha ma’lumotlarni bir vaqtning o‘zida ishlatish uchun
+++++
+Deep learning (chuqur o‘qitish) yondashuvining asosiy xususiyati nimada?
+====
+#Ko‘p qatlamli neyron tarmoqlar orqali murakkab belgilarni avtomatik o‘rganish
+====
+Faqat oddiy chiziqli modellardan foydalanib natijalarni hisoblash
+====
+Ma’lumotlarni faqat qo‘lda tanlangan xususiyatlar orqali tahlil qilish
+====
+Algoritmlarni faqat statistik formulalar asosida qurish
+++++
+Random Forest algoritmi qanday ishlaydi?
+====
+#Bir nechta qaror daraxtlarini qurib, ularning natijalarini birlashtiradi
+====
+Ma’lumotlarni masofa metrikasi asosida klasterlarga ajratadi
+====
+Neyronlar orasidagi og‘irliklarni teskari tarqatish orqali yangilaydi
+====
+Ehtimollik zichligi funksiyasini baholash orqali klassifikatsiya qiladi
+++++
+Sun’iy intellekt atamasini ilmiy muomalaga birinchi bo‘lib kim kiritgan?
+====
+#John McCarthy
+====
+Alan Turing
+====
+Marvin Minsky
+====
+Herbert Simon
+++++
+ELIZA dasturi qanday tizim hisoblanadi?
+====
+#Tabiiy til asosida foydalanuvchi bilan dialog olib boruvchi dastlabki chatbot tizimi
+====
+Tasvirlarni avtomatik tanib olish uchun yaratilgan konvolyutsion model
+====
+Grafik ma’lumotlarni qayta ishlovchi kompyuter grafikasi tizimi
+====
+Ma’lumotlar bazasini boshqarish uchun yaratilgan relatsion model
+++++
+“Perceptron” modeli kim tomonidan taklif etilgan?
+====
+#Frank Rosenblatt
+====
+Geoffrey Hinton
+====
+Yann LeCun
+====
+Andrew Ng
+++++
+IBM tomonidan yaratilgan “Deep Blue” tizimi qanday vazifani bajargan?
+====
+#Shaxmat o‘yinida inson grossmeysterini mag‘lub etishga mo‘ljallangan intellektual tizim
+====
+Tabiiy tilni qayta ishlash asosida matnlarni tarjima qiluvchi tizim
+====
+Tasvirlarni segmentatsiya qilish uchun ishlatiladigan neyron tarmoq modeli
+====
+Katta hajmdagi ma’lumotlarni siqish va saqlash uchun yaratilgan platforma
+++++
+Sun’iy intellektda “transfer learning” yondashuvi nimani anglatadi?
+====
+#Oldin o‘rgatilgan model bilimlarini yangi masalaga moslashtirib qo‘llash
+====
+Har bir modelni faqat boshidan o‘qitish orqali maksimal aniqlikka erishish
+====
+Ma’lumotlarni faqat klasterlash orqali tahlil qilish usuli
+====
+Algoritmni faqat statistik taqsimotlar asosida qayta qurish jarayoni
+++++
+Sun’iy intellektda “optimizer” algoritmlarining vazifasi nimadan iborat?
+====
+#Model parametrlarini yangilash orqali xatolik funksiyasini minimallashtirish
+====
+Ma’lumotlarni klasterlarga ajratish orqali guruhlash jarayonini amalga oshirish
+====
+Kirish ma’lumotlarini grafik ko‘rinishda vizuallashtirishni ta’minlash
+====
+Model arxitekturasini avtomatik ravishda yaratish va qatlamlarni belgilash
+++++
