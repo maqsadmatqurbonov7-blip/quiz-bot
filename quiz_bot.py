@@ -17,7 +17,7 @@ from telegram.error import NetworkError, TimedOut, RetryAfter, TelegramError
 load_dotenv()
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHUNK = 50
-TIMEOUT = 10  # soniya — javob bermasa keyingisiga o'tadi
+TIMEOUT = 20  # soniya — javob bermasa keyingisiga o'tadi
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
