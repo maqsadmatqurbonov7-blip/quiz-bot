@@ -6,6 +6,9 @@ import json
 import logging
 import signal
 import time
+import threading
+import urllib.request
+from http.server import HTTPServer, BaseHTTPRequestHandler
 from dotenv import load_dotenv
 from telegram import InputPollOption, Update
 from telegram.ext import Application, CommandHandler, ContextTypes, PollAnswerHandler
@@ -304,9 +307,56 @@ async def error_handler(update: object, context: ContextTypes.DEFAULT_TYPE):
         logger.error(f"Telegram API xatosi: {context.error}")
 
 
+# ===== HEALTH CHECK SERVER (bepul hosting uchun) =====
+class HealthHandler(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header("Content-Type", "text/plain")
+        self.end_headers()
+        self.wfile.write(b"OK - Quiz Bot is running")
+
+    def log_message(self, format, *args):
+        pass  # Health check loglarini yashirish
+
+
+def start_health_server():
+    """Background HTTP server — platformaning health check uchun."""
+    port = int(os.getenv("PORT", 8000))
+    server = HTTPServer(("0.0.0.0", port), HealthHandler)
+    logger.info(f"🌐 Health check server :{port} portda ishlamoqda")
+    server.serve_forever()
+
+
+def keep_alive():
+    """Har 5 daqiqada o'z URL ini ping qiladi — Render uxlab qolmaydi."""
+    url = os.getenv("RENDER_EXTERNAL_URL")
+    if not url:
+        logger.warning("⚠️ RENDER_EXTERNAL_URL topilmadi — self-ping ishlamaydi")
+        return
+
+    ping_url = url.rstrip("/") + "/"
+    logger.info(f"🏓 Keep-alive ishga tushdi: har 5 daqiqada {ping_url} ping qilinadi")
+
+    while True:
+        time.sleep(300)  # 5 daqiqa
+        try:
+            req = urllib.request.Request(ping_url, method="GET")
+            with urllib.request.urlopen(req, timeout=10) as resp:
+                logger.debug(f"🏓 Self-ping: {resp.status}")
+        except Exception as e:
+            logger.warning(f"🏓 Self-ping xatosi: {e}")
+
+
 def run_bot():
     """Botni auto-restart bilan ishga tushirish."""
-    MAX_RETRIES = None  # Cheksiz qayta urinish
+    # Health check serverni background threadda ishga tushirish
+    health_thread = threading.Thread(target=start_health_server, daemon=True)
+    health_thread.start()
+
+    # Self-ping — Render uxlab qolishdan saqlaydi
+    ping_thread = threading.Thread(target=keep_alive, daemon=True)
+    ping_thread.start()
+
     retry_delay = 5  # Boshlang'ich kutish (soniya)
     max_delay = 300  # Maksimal kutish (5 daqiqa)
     retry_count = 0
